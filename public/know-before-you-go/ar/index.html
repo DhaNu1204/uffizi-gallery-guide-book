@@ -1,0 +1,1195 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="description" content="نصائح أساسية لزيارة معرض أوفيزي — ما يجب إحضاره، قواعد المتحف، تعليمات الدخول والمزيد.">
+<meta name="color-scheme" content="light dark">
+<title>قبل زيارتك — معرض أوفيزي | Florence with Locals</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ─── VARIABLES ─── */
+  :root {
+    --purple-900: #4C1D95;
+    --purple-700: #6D28D9;
+    --purple-600: #7C3AED;
+    --purple-500: #8B5CF6;
+    --purple-100: #EDE9FE;
+    --purple-50: #F5F3FF;
+    --bg-page: #F8FAFC;
+    --bg-card: #FFFFFF;
+    --bg-card-alt: #F9FAFB;
+    --text-primary: #0F172A;
+    --text-secondary: #334155;
+    --text-tertiary: #475569;
+    --text-muted: #64748B;
+    --text-faint: #94A3B8;
+    --border-light: #E2E8F0;
+    --border-faint: #F1F5F9;
+    --green-700: #15803D;
+    --green-100: #DCFCE7;
+    --green-50: #F0FDF4;
+    --green-text: #14532D;
+    --amber-700: #B45309;
+    --amber-100: #FEF3C7;
+    --amber-50: #FFFBEB;
+    --amber-text-title: #92400E;
+    --amber-text: #78350F;
+    --red-600: #DC2626;
+    --red-100: #FEE2E2;
+    --red-50: #FEF2F2;
+    --red-text: #7F1D1D;
+    --blue-600: #2563EB;
+    --blue-100: #DBEAFE;
+    --blue-50: #EFF6FF;
+    --purple-notice-bg: #F5F3FF;
+    --purple-notice-text: #4C1D95;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+    --shadow-md: 0 2px 12px rgba(0,0,0,0.06);
+    --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-body: 'DM Sans', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --max-w: 720px;
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+
+  /* ─── DARK MODE ─── */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-page: #0F172A;
+      --bg-card: #1E293B;
+      --bg-card-alt: #1E293B;
+      --text-primary: #F1F5F9;
+      --text-secondary: #CBD5E1;
+      --text-tertiary: #94A3B8;
+      --text-muted: #94A3B8;
+      --text-faint: #64748B;
+      --border-light: #334155;
+      --border-faint: #1E293B;
+      --green-100: #052E16;
+      --green-50: #052E16;
+      --green-text: #86EFAC;
+      --green-700: #4ADE80;
+      --amber-100: #451A03;
+      --amber-50: #451A03;
+      --amber-text-title: #FCD34D;
+      --amber-text: #FDE68A;
+      --amber-700: #FBBF24;
+      --red-100: #450A0A;
+      --red-50: #450A0A;
+      --red-text: #FCA5A5;
+      --red-600: #F87171;
+      --blue-100: #1E3A5F;
+      --blue-50: #172554;
+      --purple-100: #2E1065;
+      --purple-50: #2E1065;
+      --purple-notice-bg: #2E1065;
+      --purple-notice-text: #C4B5FD;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+      --shadow-md: 0 2px 12px rgba(0,0,0,0.2);
+    }
+  }
+
+  /* ─── RESET ─── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    background: var(--bg-page);
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* ─── LANGUAGE BAR ─── */
+  .lang-bar {
+    background: #0F172A;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .lang-bar-inner {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 10px 16px;
+    flex-wrap: wrap;
+  }
+  .lang-bar a {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 10px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #94A3B8;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s;
+    letter-spacing: 0.3px;
+  }
+  .lang-bar a .flag {
+    width: 20px;
+    height: 15px;
+    border-radius: 2px;
+    object-fit: cover;
+  }
+  .lang-bar a:hover { color: #fff; background: rgba(255,255,255,0.08); }
+  .lang-bar a.active {
+    color: #fff;
+    background: var(--purple-600);
+    font-weight: 600;
+  }
+
+  /* Mobile: Grid layout for language bar */
+  @media (max-width: 640px) {
+    .lang-bar-inner {
+      padding: 12px 10px;
+      gap: 6px;
+    }
+    .lang-bar a {
+      flex-direction: column;
+      gap: 3px;
+      padding: 6px;
+      min-width: 44px;
+      min-height: 44px;
+      justify-content: center;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+    }
+    .lang-bar a .flag {
+      width: 24px;
+      height: 18px;
+    }
+  }
+
+  /* ─── HERO ─── */
+  .hero {
+    background: linear-gradient(160deg, var(--purple-900) 0%, var(--purple-700) 50%, var(--purple-600) 100%);
+    color: #fff;
+    padding: 40px 20px 52px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -60%;
+    left: -30%;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-brand {
+    font-family: var(--font-display);
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 2px;
+  }
+  .hero-brand-sub {
+    font-family: var(--font-display);
+    font-size: 11px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    opacity: 0.55;
+    margin-bottom: 28px;
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 10px;
+  }
+  .hero p {
+    font-size: 15px;
+    opacity: 0.8;
+    max-width: 480px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  /* ─── MAIN CONTENT ─── */
+  .content {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 16px 48px;
+  }
+
+  /* ─── QUICK ESSENTIALS ─── */
+  .essentials {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: -28px 0 32px;
+    position: relative;
+    z-index: 2;
+  }
+  .essential-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    padding: 16px 12px;
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border-light);
+  }
+  .essential-card .icon {
+    font-size: 26px;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .essential-card .label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    margin-bottom: 3px;
+  }
+  .essential-card .value {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.3;
+  }
+  .essential-card .sub {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  /* ─── SECTIONS ─── */
+  .section {
+    margin-bottom: 32px;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--purple-100);
+  }
+  .section-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    flex-shrink: 0;
+  }
+  .section-icon.purple { background: var(--purple-100); }
+  .section-icon.green { background: var(--green-100); }
+  .section-icon.amber { background: var(--amber-100); }
+  .section-icon.red { background: var(--red-100); }
+  .section-icon.blue { background: var(--blue-100); }
+
+  .section h2 {
+    font-family: var(--font-display);
+    font-size: 21px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.3;
+  }
+  .section p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: var(--text-tertiary);
+  }
+
+  /* ─── DOOR IMAGE CARD ─── */
+  .door-image-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    margin-bottom: 16px;
+    border: 1px solid var(--border-light);
+  }
+  .door-image-card img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    display: block;
+  }
+  .door-image-card .caption {
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .door-image-card .caption-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--purple-100);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .door-image-card .caption-text strong {
+    display: block;
+    font-size: 14px;
+    color: var(--text-primary);
+  }
+  .door-image-card .caption-text span {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  /* ─── NOTICE BOXES ─── */
+  .notice {
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .notice.amber {
+    background: var(--amber-50);
+    border-right: 4px solid var(--amber-700);
+    color: var(--amber-text);
+  }
+  .notice.amber strong { color: var(--amber-text-title); }
+  .notice.green {
+    background: var(--green-50);
+    border-right: 4px solid var(--green-700);
+    color: var(--green-text);
+  }
+  .notice.purple {
+    background: var(--purple-notice-bg);
+    border-right: 4px solid var(--purple-600);
+    color: var(--purple-notice-text);
+  }
+  .notice.red {
+    background: var(--red-50);
+    border-right: 4px solid var(--red-600);
+    color: var(--red-text);
+  }
+  .notice strong {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 14px;
+  }
+
+  /* ─── CHECKLIST CARDS ─── */
+  .checklist {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .checklist-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-sm);
+    padding: 14px;
+    border: 1px solid var(--border-light);
+  }
+  .checklist-card.bring { border-top: 3px solid var(--green-700); }
+  .checklist-card.not-allowed { border-top: 3px solid var(--red-600); }
+  .checklist-card h3 {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-bottom: 10px;
+  }
+  .checklist-card.bring h3 { color: var(--green-700); }
+  .checklist-card.not-allowed h3 { color: var(--red-600); }
+  .checklist-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  .checklist-card li {
+    font-size: 14px;
+    padding: 4px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+  }
+  .checklist-card li::before {
+    flex-shrink: 0;
+    font-size: 13px;
+    margin-top: 2px;
+    font-weight: 700;
+  }
+  .checklist-card.bring li::before { content: '✓'; color: var(--green-700); }
+  .checklist-card.not-allowed li::before { content: '✕'; color: var(--red-600); }
+
+  /* ─── RULES LIST ─── */
+  .rules-list {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 14px;
+  }
+  .rules-list li {
+    font-size: 14px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-faint);
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    color: var(--text-tertiary);
+    line-height: 1.55;
+  }
+  .rules-list li:last-child { border-bottom: none; }
+  .rules-list li .rule-icon {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    background: var(--red-50);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 1px;
+  }
+  .rules-list li strong { color: var(--text-primary); }
+
+  /* ─── FACILITIES GRID ─── */
+  .facilities-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .facility-item {
+    background: var(--bg-card);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    padding: 14px;
+    text-align: center;
+  }
+  .facility-item .f-icon {
+    font-size: 24px;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .facility-item .f-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 3px;
+  }
+  .facility-item .f-desc {
+    font-size: 12px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  /* ─── AUDIO GUIDE BOX ─── */
+  .audio-box {
+    background: linear-gradient(160deg, #1E1B4B 0%, #312E81 100%);
+    border-radius: var(--radius);
+    padding: 24px 20px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  .audio-box h3 {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  .audio-box > p {
+    font-size: 14px;
+    color: #C4B5FD;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .audio-box ul {
+    list-style: none;
+    text-align: right;
+    margin-bottom: 12px;
+  }
+  .audio-box li {
+    font-size: 14px;
+    color: #E0E7FF;
+    padding: 6px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+  }
+  .audio-box li .step-num {
+    width: 24px;
+    height: 24px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .audio-box .note {
+    font-size: 12px;
+    color: #A5B4FC;
+    line-height: 1.5;
+    margin-top: 8px;
+  }
+
+  /* ─── MAP LINK ─── */
+  .map-link {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--purple-notice-bg);
+    border: 1px solid var(--purple-100);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-bottom: 14px;
+    transition: all 0.2s;
+  }
+  .map-link:hover { opacity: 0.9; }
+  .map-link .ml-icon {
+    width: 42px;
+    height: 42px;
+    background: var(--purple-600);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .map-link .ml-text strong {
+    display: block;
+    font-size: 14px;
+    color: var(--text-primary);
+  }
+  .map-link .ml-text span {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  /* ─── CTA BUTTON ─── */
+  .cta-btn {
+    display: inline-block;
+    background: var(--purple-600);
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: var(--radius-sm);
+    font-size: 15px;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .cta-btn:hover { background: var(--purple-700); }
+
+  /* ─── FOOTER ─── */
+  .footer {
+    background: #0F172A;
+    color: #94A3B8;
+    padding: 28px 20px;
+    text-align: center;
+  }
+  .footer-brand {
+    font-family: var(--font-display);
+    font-size: 15px;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-bottom: 2px;
+  }
+  .footer-sub {
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #64748B;
+    margin-bottom: 16px;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .footer-links a {
+    font-size: 14px;
+    color: var(--purple-500);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover { color: #fff; }
+  .footer-copy {
+    font-size: 12px;
+    color: #475569;
+  }
+  .footer-stripe {
+    height: 4px;
+    background: linear-gradient(90deg, var(--purple-600), var(--purple-900));
+  }
+
+  /* ─── ACCORDION ─── */
+  .accordion { margin-bottom: 14px; }
+  .accordion details {
+    background: var(--bg-card);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    margin-bottom: 8px;
+    overflow: hidden;
+  }
+  .accordion summary {
+    padding: 14px 16px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-primary);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background 0.15s;
+  }
+  .accordion summary:hover { background: var(--bg-card-alt); }
+  .accordion summary::-webkit-details-marker { display: none; }
+  .accordion summary::after {
+    content: '+';
+    margin-right: auto;
+    margin-left: 0;
+    font-size: 18px;
+    color: var(--text-faint);
+    font-weight: 400;
+    transition: transform 0.2s;
+  }
+  .accordion details[open] summary::after {
+    content: '−';
+    color: var(--purple-600);
+  }
+  .accordion .acc-body {
+    padding: 4px 16px 16px;
+    font-size: 14px;
+    color: var(--text-tertiary);
+    line-height: 1.65;
+  }
+  .accordion .acc-body p { margin-bottom: 10px; font-size: 14px; color: var(--text-tertiary); }
+  .accordion .acc-body ul {
+    margin: 8px 0;
+    padding-right: 18px;
+  }
+  .accordion .acc-body li {
+    margin-bottom: 6px;
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--text-tertiary);
+  }
+  .accordion .acc-body a { color: var(--purple-600); }
+
+  /* ─── DIVIDER ─── */
+  .divider {
+    border: none;
+    border-top: 1px solid var(--border-light);
+    margin: 32px 0;
+  }
+
+  /* ─── RESPONSIVE — MOBILE FIRST ─── */
+  @media (max-width: 480px) {
+    .hero { padding: 32px 16px 44px; }
+    .hero h1 { font-size: 26px; }
+    .hero p { font-size: 14px; }
+    .content { padding: 0 12px 40px; }
+    .essentials { gap: 8px; margin: -26px 0 28px; }
+    .essential-card { padding: 14px 10px; }
+    .essential-card .icon { font-size: 22px; margin-bottom: 4px; }
+    .essential-card .label { font-size: 9px; }
+    .essential-card .value { font-size: 13px; }
+    .essential-card .sub { font-size: 10px; }
+    .section h2 { font-size: 19px; }
+    .section-icon { width: 34px; height: 34px; font-size: 17px; }
+    .door-image-card img { height: 260px; }
+    .checklist-card { padding: 12px; }
+    .checklist-card li { font-size: 13px; }
+    .facilities-grid { gap: 8px; }
+    .facility-item { padding: 12px 10px; }
+    .facility-item .f-title { font-size: 13px; }
+    .facility-item .f-desc { font-size: 11px; }
+    .audio-box { padding: 20px 16px; }
+    .audio-box h3 { font-size: 17px; }
+    .audio-box li { font-size: 13px; }
+    .notice { padding: 12px 14px; font-size: 13px; }
+    .rules-list li { font-size: 13px; }
+    .cta-btn { padding: 13px 24px; font-size: 14px; }
+  }
+
+  /* Small mobiles */
+  @media (max-width: 360px) {
+    .hero h1 { font-size: 23px; }
+    .content { padding: 0 10px 36px; }
+    .essentials { gap: 6px; }
+    .essential-card { padding: 12px 8px; }
+    .essential-card .value { font-size: 12px; }
+    .section h2 { font-size: 18px; }
+    .checklist { grid-template-columns: 1fr; gap: 8px; }
+    .facilities-grid { grid-template-columns: 1fr; }
+  }
+
+  @media (min-width: 768px) {
+    .hero { padding: 52px 32px 60px; }
+    .hero h1 { font-size: 36px; }
+    .essentials { grid-template-columns: repeat(4, 1fr); margin: -34px 0 44px; }
+    .content { padding: 0 24px 64px; }
+    .door-image-card img { height: 380px; }
+  }
+
+  @media (min-width: 1024px) {
+    .content { padding: 0 32px 80px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════ LANGUAGE BAR ═══════════════ -->
+<nav class="lang-bar" aria-label="اختيار اللغة">
+  <div class="lang-bar-inner">
+    <a href="/know-before-you-go/en"><img class="flag" src="https://flagcdn.com/20x15/gb.png" alt="EN"> EN</a>
+    <a href="/know-before-you-go/es"><img class="flag" src="https://flagcdn.com/20x15/es.png" alt="ES"> ES</a>
+    <a href="/know-before-you-go/it"><img class="flag" src="https://flagcdn.com/20x15/it.png" alt="IT"> IT</a>
+    <a href="/know-before-you-go/fr"><img class="flag" src="https://flagcdn.com/20x15/fr.png" alt="FR"> FR</a>
+    <a href="/know-before-you-go/de"><img class="flag" src="https://flagcdn.com/20x15/de.png" alt="DE"> DE</a>
+    <a href="/know-before-you-go/nl"><img class="flag" src="https://flagcdn.com/20x15/nl.png" alt="NL"> NL</a>
+    <a href="/know-before-you-go/ru"><img class="flag" src="https://flagcdn.com/20x15/ru.png" alt="RU"> RU</a>
+    <a href="/know-before-you-go/ko"><img class="flag" src="https://flagcdn.com/20x15/kr.png" alt="KO"> KO</a>
+    <a href="/know-before-you-go/zh"><img class="flag" src="https://flagcdn.com/20x15/cn.png" alt="ZH"> ZH</a>
+    <a href="/know-before-you-go/pt"><img class="flag" src="https://flagcdn.com/20x15/pt.png" alt="PT"> PT</a>
+    <a href="/know-before-you-go/el"><img class="flag" src="https://flagcdn.com/20x15/gr.png" alt="EL"> EL</a>
+    <a href="/know-before-you-go/ja"><img class="flag" src="https://flagcdn.com/20x15/jp.png" alt="JA"> JA</a>
+    <a href="/know-before-you-go/tr"><img class="flag" src="https://flagcdn.com/20x15/tr.png" alt="TR"> TR</a>
+    <a href="/know-before-you-go/fa"><img class="flag" src="https://flagcdn.com/20x15/ir.png" alt="FA"> FA</a>
+    <a href="/know-before-you-go/ar" class="active"><img class="flag" src="https://flagcdn.com/20x15/sa.png" alt="AR"> AR</a>
+    <a href="/know-before-you-go/hi"><img class="flag" src="https://flagcdn.com/20x15/in.png" alt="HI"> HI</a>
+    <a href="/know-before-you-go/pl"><img class="flag" src="https://flagcdn.com/20x15/pl.png" alt="PL"> PL</a>
+    <a href="/know-before-you-go/hu"><img class="flag" src="https://flagcdn.com/20x15/hu.png" alt="HU"> HU</a>
+  </div>
+</nav>
+
+<!-- ═══════════════ HERO ═══════════════ -->
+<header class="hero">
+  <div class="hero-brand">Florence</div>
+  <div class="hero-brand-sub">with Locals</div>
+  <h1>قبل زيارتك</h1>
+  <p>كل ما تحتاجونه لزيارة سلسة وممتعة لمعرض أوفيزي</p>
+</header>
+
+<main class="content">
+
+<!-- ═══════════════ QUICK ESSENTIALS ═══════════════ -->
+<div class="essentials">
+  <div class="essential-card">
+    <span class="icon">🚪</span>
+    <div class="label">المدخل</div>
+    <div class="value">Door 01</div>
+    <div class="sub">معرض أوفيزي</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">⏰</span>
+    <div class="label">الوصول</div>
+    <div class="value">قبل 15-30 دقيقة</div>
+    <div class="sub">الفحص الأمني</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">🪪</span>
+    <div class="label">مطلوب</div>
+    <div class="value">هوية سارية</div>
+    <div class="sub">مطابقة لاسم التذكرة</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">📱</span>
+    <div class="label">التذاكر</div>
+    <div class="value">PDF على الهاتف</div>
+    <div class="sub">احتفظوا بها أثناء الزيارة</div>
+  </div>
+</div>
+
+<!-- ═══════════════ GETTING THERE ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">📍</div>
+    <h2>الوصول إلى هناك — Door 01</h2>
+  </div>
+
+  <div class="door-image-card">
+    <img src="/know-before-you-go/door-01-entrance.jpg" alt="مدخل Door 01 في معرض أوفيزي يُظهر نقطة الدخول الرئيسية لحاملي التذاكر المحددة بموعد">
+    <div class="caption">
+      <div class="caption-icon">🚪</div>
+      <div class="caption-text">
+        <strong>Door 01 — المدخل الرئيسي</strong>
+        <span>توجهوا مباشرة إلى هنا. لا حاجة لنقطة التقاء أو استلام تذكرة ورقية.</span>
+      </div>
+    </div>
+  </div>
+
+  <p>قدموا تذكرتكم بصيغة PDF للموظفين عند Door 01 ثم تابعوا عبر الفحص الأمني. يمكن عرض تذاكركم على جهازكم المحمول — لا حاجة لطباعتها.</p>
+
+  <div class="notice amber">
+    <strong>⚠️ احضروا مبكراً — خصصوا وقتاً إضافياً</strong>
+    نوصي بالوصول إلى Door 01 قبل <strong>15 دقيقة على الأقل</strong> من موعد الدخول المحدد. خلال موسم الذروة (أبريل-أكتوبر)، قد تكون طوابير الفحص الأمني أطول بكثير — يرجى تخصيص <strong>30 دقيقة على الأقل</strong>. هذه تذاكر دخول محددة بموعد، مما يعني أنكم تدخلون في الوقت المحجوز. يجب على جميع الزوار المرور عبر الفحص الأمني قبل الدخول، وأوقات الانتظار خارج سيطرتنا.
+  </div>
+</section>
+
+<!-- ═══════════════ WHAT TO BRING / NOT ALLOWED ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon green">🎒</div>
+    <h2>ما يجب إحضاره وما هو غير مسموح به</h2>
+  </div>
+
+  <div class="checklist">
+    <div class="checklist-card bring">
+      <h3>✓ أحضروا</h3>
+      <ul>
+        <li>جواز السفر أو بطاقة الهوية</li>
+        <li>هاتف ذكي مشحون</li>
+        <li>تذاكر PDF على هاتفكم</li>
+        <li>حذاء مريح</li>
+        <li>سماعات (للدليل الصوتي)</li>
+        <li>زجاجة ماء (500 مل كحد أقصى)</li>
+      </ul>
+    </div>
+    <div class="checklist-card not-allowed">
+      <h3>✕ غير مسموح</h3>
+      <ul>
+        <li>الحقائب الكبيرة أو الأمتعة</li>
+        <li>الحيوانات الأليفة (باستثناء كلاب الإرشاد)</li>
+        <li>عصي السيلفي أو الحوامل الثلاثية</li>
+        <li>السكاكين أو الأدوات الحادة</li>
+        <li>السوائل أكثر من 500 مل</li>
+        <li>الطائرات بدون طيار</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="notice green">
+    <strong>🧳 غرفة حفظ الأمتعة مجانية متاحة</strong>
+    خدمة غرفة حفظ الأمتعة المجانية متاحة في الطابق الأرضي للأغراض الضخمة (الحجم الأقصى 40 × 40 × 50 سم). نوصي بإيداع الحقائب والمعاطف هنا قبل دخول صالات العرض.
+  </div>
+</section>
+
+<!-- ═══════════════ IMPORTANT TICKET RULES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon amber">🎟️</div>
+    <h2>معلومات مهمة عن التذاكر</h2>
+  </div>
+
+  <div class="notice purple">
+    <strong>🪪 التذاكر باسم محدد (اسمية)</strong>
+    يرجى إحضار هوية سارية مطابقة للاسم الموجود على تذكرتكم. قد يرفض المتحف الدخول إذا لم تتطابق البيانات.
+  </div>
+
+  <p>تذكرتكم تسمح بدخول واحد فقط ولا يمكن إعادة استخدامها. قد يطلب موظفو المتحف رؤية تذكرتكم في أي وقت خلال زيارتكم — احتفظوا بها في متناول اليد دائماً.</p>
+
+  <p>تاريخ ووقت دخولكم ثابتان. بمجرد تأكيد الحجز، لا يمكن إجراء تغييرات. الدخول صالح فقط للتاريخ والوقت المحددين.</p>
+
+  <p>يجب أن يكون الزوار تحت سن 12 عاماً برفقة شخص بالغ.</p>
+</section>
+
+<!-- ═══════════════ MUSEUM RULES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon red">📋</div>
+    <h2>قواعد المتحف</h2>
+  </div>
+
+  <p>معرض أوفيزي مبنى مؤسسي. يُتوقع السلوك اللائق واحترام الزوار الآخرين في جميع الأوقات.</p>
+
+  <ul class="rules-list">
+    <li>
+      <span class="rule-icon">🚫</span>
+      <span><strong>لا تلمسوا الأعمال الفنية</strong> أو تضعوا الأشياء بالقرب منها. لا تستندوا على قواعد التماثيل أو الجدران.</span>
+    </li>
+    <li>
+      <span class="rule-icon">📸</span>
+      <span><strong>التصوير بالفلاش ممنوع.</strong> الصور ومقاطع الفيديو الهاوية للاستخدام الشخصي مسموح بها، لكن بدون فلاش أو عصي سيلفي أو حوامل ثلاثية أو معدات احترافية.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🚭</span>
+      <span><strong>التدخين ممنوع</strong> من أي نوع، بما في ذلك السجائر الإلكترونية.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🍕</span>
+      <span><strong>الطعام والشراب ممنوعان</strong> في مناطق العرض. الاستثناءات: أغذية الأطفال، زجاجات الرضاعة، الحليب المجفف، وعلب العصير تحت 250 مل للأطفال فقط.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🥤</span>
+      <span><strong>المشروبات المعلبة أو الكحولية أو المسببة للتآكل ممنوعة.</strong> السوائل أكثر من 500 مل غير مسموح بها. جميع منتجات LAG (السوائل والهباء الجوي والمواد الهلامية) يجب تقديمها لموظفي الأمن.</span>
+    </li>
+    <li>
+      <span class="rule-icon">📵</span>
+      <span><strong>الهواتف على الوضع الصامت.</strong> لا تتحدثوا بالهاتف في صالات العرض. حافظوا على نبرة صوت معتدلة.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🏃</span>
+      <span><strong>الركض ممنوع</strong> في مباني المتحف.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🔪</span>
+      <span><strong>الأسلحة أو الأدوات الحادة ممنوعة</strong> من أي نوع، بما في ذلك الأسلحة الطقسية مثل الكيربان. الزوار المسلحون (حتى بترخيص) لا يمكنهم دخول المتحف.</span>
+    </li>
+    <li>
+      <span class="rule-icon">✏️</span>
+      <span><strong>أقلام الرصاص والأجهزة الرقمية فقط</strong> مسموح بها للرسم. الأقلام الملونة والدهانات أو المعدات الضخمة ممنوعة. لا تكتبوا على الجدران أو تشوهوها.</span>
+    </li>
+  </ul>
+
+  <div class="notice amber">
+    <strong>🔒 الفحص الأمني مطلوب</strong>
+    قبل الدخول، ضعوا السترات والمعاطف في السلال لفحص كاشف المعادن. موظفو الأمن مخولون بالتدخل إذا لم تُتبع القواعد.
+  </div>
+</section>
+
+<!-- ═══════════════ PHOTOGRAPHY ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon blue">📷</div>
+    <h2>إرشادات التصوير</h2>
+  </div>
+
+  <p>يمكنكم التقاط صور ومقاطع فيديو هاوية لأغراض شخصية أو بحثية في جميع أنحاء المجموعة الدائمة.</p>
+
+  <div class="checklist">
+    <div class="checklist-card bring">
+      <h3>✓ مسموح</h3>
+      <ul>
+        <li>صور الهاتف والكاميرا</li>
+        <li>مقاطع الفيديو الشخصية</li>
+        <li>صور للبحث</li>
+      </ul>
+    </div>
+    <div class="checklist-card not-allowed">
+      <h3>✕ ممنوع</h3>
+      <ul>
+        <li>التصوير بالفلاش</li>
+        <li>عصي السيلفي والحوامل الثلاثية</li>
+        <li>المعدات الاحترافية</li>
+        <li>صور أعمال المعارض المؤقتة (المستعارة)</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size:13px; color:var(--text-muted);">للتصوير التجاري أو التصوير السينمائي، يُطلب ترخيص خاص ورسوم. تواصلوا مع معارض أوفيزي مباشرة.</p>
+</section>
+
+<!-- ═══════════════ FACILITIES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">🏛️</div>
+    <h2>المرافق الداخلية</h2>
+  </div>
+
+  <div class="facilities-grid">
+    <div class="facility-item">
+      <span class="f-icon">🧥</span>
+      <div class="f-title">غرفة الأمتعة</div>
+      <div class="f-desc">مجانية، الطابق الأرضي. الأغراض حتى 40×40×50 سم.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">🚻</span>
+      <div class="f-title">دورات المياه</div>
+      <div class="f-desc">الطابق الثاني والأول، بالإضافة إلى قرب متجر الكتب عند المخرج. دورات مياه لذوي الاحتياجات الخاصة متاحة.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">☕</span>
+      <div class="f-title">الكافيتيريا</div>
+      <div class="f-desc">متاحة داخلياً. كراسي أطفال عالية عند الطلب للعائلات.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">📚</span>
+      <div class="f-title">متجر الكتب</div>
+      <div class="f-desc">يقع بالقرب من المخرج. كتب فنية وبطاقات بريدية وهدايا تذكارية.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ AUDIO GUIDE ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">🎧</div>
+    <h2>الدليل الصوتي — تعليمات الإعداد</h2>
+  </div>
+
+  <p>إذا كان حجزكم يتضمن الدليل الصوتي، اتبعوا هذه الخطوات لإعداده قبل زيارتكم.</p>
+
+  <div class="audio-box">
+    <h3>🎧 تجربة PopGuide الصوتية</h3>
+    <p>قوموا بإعداد دليلكم الصوتي قبل الوصول إلى المتحف للحصول على أفضل تجربة.</p>
+    <ul>
+      <li>
+        <span class="step-num">1</span>
+        <span><strong>افتحوا من هاتفكم:</strong> اضغطوا على رابط التفعيل المرسل في رسالة واتساب أو البريد الإلكتروني من جهازكم المحمول. سيقوم هذا بتحميل تطبيق PopGuide وتفعيل وصولكم تلقائياً — لا حاجة لاسم مستخدم أو كلمة مرور. يجب فتح الرابط على هاتف محمول، وليس جهاز كمبيوتر.</span>
+      </li>
+      <li>
+        <span class="step-num">2</span>
+        <span><strong>اختاروا لغتكم:</strong> بمجرد التثبيت، اختاروا لغتكم المفضلة من الخيارات المتاحة داخل التطبيق.</span>
+      </li>
+      <li>
+        <span class="step-num">3</span>
+        <span><strong>حملوا للاستخدام دون اتصال:</strong> حملوا المحتوى حتى يعمل الدليل الصوتي بدون إنترنت أثناء زيارتكم.</span>
+      </li>
+    </ul>
+    <div class="note">⚡ أكملوا هذه الخطوات قبل زيارتكم لتجنب التأخير في المتحف.</div>
+  </div>
+
+  <div class="notice amber">
+    <strong>🎧 أحضروا سماعاتكم الخاصة</strong>
+    لا يتم توفير المعدات الصوتية. يجب على كل ضيف استخدام هاتفه وسماعاته الخاصة.
+  </div>
+</section>
+
+<!-- ═══════════════ ACCESSIBILITY & PETS ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon blue">♿</div>
+    <h2>إمكانية الوصول والحيوانات الأليفة</h2>
+  </div>
+
+  <p>دورات المياه المهيأة لذوي الاحتياجات الخاصة متاحة في الطابقين الثاني والأول. تواصلوا مع موظفي المتحف للحصول على توجيهات إلى أقرب المرافق المهيأة.</p>
+
+  <div class="accordion">
+    <details>
+      <summary>🐕 سياسة كلاب الخدمة والحيوانات الأليفة</summary>
+      <div class="acc-body">
+        <p>لا يُسمح بالحيوانات داخل المتحف، باستثناء ما يلي:</p>
+        <ul>
+          <li>كلاب الإرشاد للمكفوفين</li>
+          <li>كلاب الخدمة التي تساعد الزوار ذوي الإعاقة (يجب أن تبقى مربوطة)</li>
+          <li>الحيوانات الأليفة لأسباب طبية/علاجية (العلاج بالحيوانات) مع شهادة من خدمات الصحة العامة</li>
+        </ul>
+        <p>يرجى إعطاء إشعار مسبق بإرسال بريد إلكتروني إلى <a href="mailto:uffiziaccessibili@cultura.gov.it">uffiziaccessibili@cultura.gov.it</a> مع إرفاق الشهادة ذات الصلة.</p>
+      </div>
+    </details>
+    <details>
+      <summary>👁️ الزوار ضعاف البصر</summary>
+      <div class="acc-body">
+        <p>الزوار ضعاف البصر أو المكفوفون هم الاستثناء الوحيد لقاعدة عدم اللمس، لكن فقط للأعمال المضمنة في المسارات المهيأة المخصصة.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ═══════════════ ENHANCE YOUR VISIT ═══════════════ -->
+<section class="section" style="text-align:center;">
+  <div class="section-header" style="justify-content:center;">
+    <div class="section-icon purple">🌟</div>
+    <h2>عززوا زيارتكم</h2>
+  </div>
+
+  <p style="max-width:520px; margin:0 auto 16px;">استكشفوا دليلنا عبر الإنترنت الذي يتضمن تاريخاً شاملاً لمعرض أوفيزي ومعلومات مفصلة عن الروائع الفنية في الطابقين الأول والثاني.</p>
+
+  <a href="https://uffizi.florencewithlocals.com/" class="cta-btn" style="margin-bottom:16px;">افتحوا الدليل عبر الإنترنت ←</a>
+
+  <br>
+
+  <a href="https://www.datocms-assets.com/103094/1764082441-brochure_uffizi_web_english_november-2025.pdf" class="map-link" style="max-width:420px; margin:16px auto;" target="_blank" rel="noopener">
+    <div class="ml-icon">🗺️</div>
+    <div class="ml-text">
+      <strong>خريطة معرض أوفيزي (PDF)</strong>
+      <span>مخطط الطوابق الرسمي — حملوه لزيارتكم</span>
+    </div>
+  </a>
+</section>
+
+<hr class="divider">
+
+<!-- ═══════════════ FAQ ACCORDION ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">❓</div>
+    <h2>الأسئلة الشائعة</h2>
+  </div>
+
+  <div class="accordion">
+    <details>
+      <summary>هل يمكنني الدخول مرة أخرى بعد المغادرة؟</summary>
+      <div class="acc-body">
+        <p>لا. تذكرتكم تسمح بدخول واحد فقط. بمجرد مغادرة المتحف، لا يمكنكم الدخول مرة أخرى بنفس التذكرة.</p>
+      </div>
+    </details>
+    <details>
+      <summary>هل يتضمن الحجز مرشداً فعلياً؟</summary>
+      <div class="acc-body">
+        <p>لا، لا يتضمن حجزكم مرشداً فعلياً. يمكنكم استخدام دليلنا عبر الإنترنت أو تجربة PopGuide الصوتية إذا كانت مضمنة في حجزكم.</p>
+      </div>
+    </details>
+    <details>
+      <summary>هل يمكنني تغيير التاريخ أو الوقت؟</summary>
+      <div class="acc-body">
+        <p>للأسف، تاريخ ووقت دخولكم ثابتان بمجرد التأكيد. لا يمكن إجراء تغييرات. الدخول صالح فقط للتاريخ والوقت المحددين.</p>
+      </div>
+    </details>
+    <details>
+      <summary>هل عربات الأطفال ومستلزماتهم مسموح بها؟</summary>
+      <div class="acc-body">
+        <p>نعم. أغذية الأطفال، زجاجات الرضاعة، الحليب المجفف، وعلب عصير الفاكهة الصغيرة (أقل من 250 مل) مسموح بها للأطفال. كراسي الأطفال العالية متاحة في الكافيتيريا عند الطلب. يمكن للأطفال الشرب من الزجاجات أو الأكواب أو الزجاجات الصغيرة ذات الأغطية المانعة للتسرب.</p>
+      </div>
+    </details>
+    <details>
+      <summary>هل يمكنني التقدم للخطوبة في المتحف؟</summary>
+      <div class="acc-body">
+        <p>نعم! يرحب أوفيزي بعروض الزواج في المبنى، بما في ذلك الكافيتيريا. ومع ذلك، يجب ألا يزعج هذا الزوار الآخرين، ولا يُسمح بالمصورين المحترفين أو المعدات. الدخول بملابس أو إكسسوارات احتفالية غير مسموح به.</p>
+      </div>
+    </details>
+    <details>
+      <summary>أين يمكنني العثور على مزيد من المعلومات الرسمية؟</summary>
+      <div class="acc-body">
+        <p>زوروا صفحة الأسئلة الشائعة الرسمية لمعرض أوفيزي على <a href="https://www.uffizi.it/en/pages/faq" target="_blank" rel="noopener">uffizi.it/en/pages/faq</a> للحصول على معلومات كاملة ومحدثة.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ═══════════════ NEED HELP ═══════════════ -->
+<section class="section" style="text-align:center;">
+  <div class="section-header" style="justify-content:center;">
+    <div class="section-icon green">💬</div>
+    <h2>هل تحتاجون مساعدة؟</h2>
+  </div>
+  <p style="max-width:440px; margin:0 auto 16px;">فريقنا هنا لمساعدتكم. لا تترددوا في التواصل معنا بأي أسئلة حول زيارتكم.</p>
+  <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+    <a href="https://wa.me/393272491282" class="cta-btn" style="background:#25D366;">💬 واتساب</a>
+    <a href="mailto:contact@florencewithlocals.com" class="cta-btn">✉️ البريد الإلكتروني</a>
+  </div>
+</section>
+
+</main>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<footer class="footer">
+  <div class="footer-brand">Florence</div>
+  <div class="footer-sub">with Locals</div>
+  <div class="footer-links">
+    <a href="https://www.florencewithlocals.com">🌐 الموقع</a>
+    <a href="https://wa.me/393272491282">💬 واتساب</a>
+    <a href="mailto:contact@florencewithlocals.com">✉️ البريد الإلكتروني</a>
+  </div>
+  <div class="footer-copy">© 2026 Florence with Locals. جميع الحقوق محفوظة.</div>
+</footer>
+<div class="footer-stripe"></div>
+
+</body>
+</html>

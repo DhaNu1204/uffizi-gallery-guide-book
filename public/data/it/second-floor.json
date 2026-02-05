@@ -1,0 +1,661 @@
+{
+  "floor": "Secondo Piano",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "Il Secondo Piano presenta la pittura italiana dalle origini all'Alto Rinascimento, con capolavori da Giotto a Michelangelo.",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "Introduzione",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Una panoramica del percorso del secondo piano degli Uffizi, che introduce i principali periodi storici e la disposizione delle gallerie.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "Vestibolo Lorenese",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "Area del vestibolo d'ingresso che conduce alle gallerie di pittura antica al secondo piano.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "Corridoio di Levante",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "Lungo corridoio che fa parte del circuito principale del secondo piano, collegando molteplici sale e sezioni.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "Pittura del XIII Secolo",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "Un punto di partenza per i più antichi dipinti su tavola della collezione, che introduce la pittura medievale italiana e i suoi formati devozionali.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "Sale dei 'Primitivi'",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "Gallerie dedicate alla pittura italiana delle origini, spesso incentrate su artisti fondamentali che hanno plasmato l'arte del tardo Medioevo.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "Madonna di Ognissanti",
+      "roomCode": "A4",
+      "artist": "Giotto di Bondone",
+      "year": "c. 1310",
+      "description": "Questo capolavoro del 1310 ha dato il via al Rinascimento! Notate come Giotto ruppe con la piatta arte bizantina: il trono di Maria ha una vera profondità, il bambino ha autentiche paffutezze infantili, e gli angeli si sovrappongono nello spazio. La Vergine indossa il bianco, il colore dei mercanti di lana Umiliati, che commissionarono l'opera per la loro chiesa. Dante stesso lodò Giotto al di sopra di tutti i pittori. Cercate le rose e i gigli nei vasi di cristallo degli angeli.",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "Giotto, Madonna di Ognissanti"
+      },
+      "viewing_tips": ["Nota come Giotto crea un senso di spazio tridimensionale", "Confronta con le Madonne in stile bizantino nella stessa sala", "Osserva le espressioni realistiche sui volti degli angeli"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "Scuola Senese del XIV Secolo",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione dedicata alla pittura senese del Trecento, nota per l'eleganza, la linea raffinata e il colore luminoso.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "Annunciazione",
+      "roomCode": "A5",
+      "artist": "Simone Martini e Lippo Memmi",
+      "year": "1333",
+      "description": "Questo capolavoro gotico del 1333 rivoluzionò il modo in cui gli artisti raffiguravano l'Annunciazione. Notate il sobbalzo di Maria: vediamo l'esatto momento di paura prima che accetti il suo destino. La vera foglia d'oro brillava alla luce delle candele nel Duomo di Siena. Gabriele porta un ramo d'ulivo, non un giglio: una sottile frecciata di Siena alla rivale Firenze! Cercate le sue ali di piume di pavone, simbolo di resurrezione.",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "Simone Martini e Lippo Memmi, Annunciazione"
+      },
+      "viewing_tips": ["Ammira l'intricata lavorazione dell'oro nel fondo", "Nota il gesto di sorpresa della Vergine", "Cerca il ramo d'ulivo che porta l'angelo"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "Presentazione al Tempio",
+      "roomCode": "A5",
+      "artist": "Ambrogio Lorenzetti",
+      "year": "1342",
+      "description": "Una scena religiosa narrativa che mostra la Presentazione, riflettendo le innovazioni trecentesche nella narrazione e nell'organizzazione spaziale. L'ambientazione architettonica di Lorenzetti crea un senso di profondità senza precedenti.",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "Ambrogio Lorenzetti, Presentazione al Tempio"
+      },
+      "viewing_tips": ["Studia la prospettiva architettonica", "Nota come le figure interagiscono nello spazio"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "Il Trecento a Firenze",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione che esplora la pittura fiorentina del Trecento, ponte tra la tradizione medievale e gli sviluppi del primo Rinascimento.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "Capolavori del Gotico Internazionale",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "Opere legate allo stile Gotico Internazionale, caratterizzato da eleganza, ricchezza decorativa e raffinatezza cortese.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "Incoronazione della Vergine",
+      "roomCode": "A7",
+      "artist": "Lorenzo Monaco",
+      "year": "1414",
+      "description": "Questo imponente capolavoro di quasi cinque metri fu dipinto da un monaco per altri monaci! Don Lorenzo viveva nel monastero di Santa Maria degli Angeli e usò lapislazzuli—più costoso dell'oro—per la splendida veste blu di Cristo. Vedete quei santi in abito bianco? Sono i fondatori dell'ordine camaldolese. Le fasce stellate rappresentano il paradiso medievale. L'allievo più famoso di Lorenzo? Fra Angelico, la cui Incoronazione è esposta qui vicino.",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "Lorenzo Monaco, Incoronazione della Vergine"
+      },
+      "viewing_tips": ["Nota il ricco blu oltremare usato in tutta l'opera", "Osserva gli elaborati motivi tessili"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "Adorazione dei Magi",
+      "roomCode": "A7",
+      "artist": "Gentile da Fabriano",
+      "year": "1423",
+      "description": "Cercate il committente nascosto! Palla Strozzi, l'uomo più ricco di Firenze, si è fatto ritrarre con un falcone in mano: un gioco di parole astuto, visto che 'strozzieri' in toscano significa falconiere. Pagò 300 fiorini (sei anni di stipendio di un artigiano!) per questa sfavillante pala d'altare. L'oro era stato pensato per brillare alla luce delle candele nella cappella di famiglia. Cercate leopardi, scimmie e persino una scena di rapina sullo sfondo. I Medici, acerrimi rivali, esiliarono poi gli Strozzi, ma il loro capolavoro è rimasto.",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "Gentile da Fabriano, Adorazione dei Magi"
+      },
+      "viewing_tips": ["Segui la processione dalle colline lontane fino al primo piano", "Cerca gli animali esotici nel corteo", "Nota i dettagli in foglia d'oro sui finimenti e le corone"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "Primo Rinascimento",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione incentrata sul primo Quattrocento, quando gli artisti trasformarono la pittura attraverso la prospettiva, l'anatomia e uno spazio più realistico.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "Madonna col Bambino e Sant'Anna",
+      "roomCode": "A8",
+      "artist": "Masaccio e Masolino",
+      "year": "c. 1424-1425",
+      "description": "Siete davanti al momento esatto in cui nacque il Rinascimento! Due artisti collaborarono qui nel 1424, ma guardate bene. Il giovane Masaccio, appena ventitreenne, dipinse Maria e Gesù con un uso rivoluzionario di luce e ombra: sembrano respirare. Dietro di loro, il quarantunenne Masolino dipinse Sant'Anna nel vecchio stile gotico, piatto ed etereo. Un dipinto, due epoche. Masaccio morì a soli 27 anni, ma cambiò l'arte per sempre.",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "Masaccio e Masolino, Madonna col Bambino e Sant'Anna"
+      },
+      "viewing_tips": ["Confronta la Vergine scultorea di Masaccio con la più delicata Sant'Anna di Masolino", "Nota come la luce crea forme solide"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "Battaglia di San Romano",
+      "roomCode": "A8",
+      "artist": "Paolo Uccello",
+      "year": "c. 1438-1440",
+      "description": "Lorenzo de' Medici desiderava questi dipinti così tanto che li sequestrò alla famiglia Bartolini! Questo è uno dei tre pannelli che mostrano la vittoria di Firenze su Siena nel 1432: gli altri sono a Londra e Parigi. Notate le lance cadute disposte come linee prospettiche. La moglie di Uccello si lamentava che restasse sveglio tutta la notte mormorando 'Oh, che dolce cosa è questa prospettiva!' L'armatura d'argento un tempo brillava splendidamente, ora è ossidata in grigio.",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "Paolo Uccello, Battaglia di San Romano"
+      },
+      "viewing_tips": ["Nota come le lance cadute creano linee prospettiche", "Cerca i motivi geometrici nella composizione", "Questo è uno dei tre pannelli - gli altri sono a Londra e Parigi"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "Duca e Duchessa di Urbino",
+      "roomCode": "A9",
+      "artist": "Piero della Francesca",
+      "year": "c. 1465-1472",
+      "description": "Questo dittico mostra il più grande capitano di ventura dell'Italia rinascimentale e la sua amata moglie. Federico posava sempre di profilo per nascondere l'occhio destro mancante, perso in un torneo del 1450 che gli ruppe anche il famoso naso. Battista fu ritratta postuma, dopo essere morta di parto a 26 anni. Il retro li mostra su carri trionfali circondati dalle virtù, uniti per sempre oltre la morte.",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "Piero della Francesca, Duca e Duchessa di Urbino"
+      },
+      "viewing_tips": ["Guarda il paesaggio continuo attraverso entrambi i pannelli", "Il profilo del Duca nasconde il lato destro - danneggiato in un torneo", "Nota le scene allegoriche sul retro"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "Madonna col Bambino e Due Angeli",
+      "roomCode": "A9",
+      "artist": "Filippo Lippi",
+      "year": "c. 1465",
+      "description": "Scandalo rinascimentale in arrivo! Nel 1456, il monaco Filippo Lippi rapì la sua modella, una giovane suora di nome Lucrezia Buti, durante una processione del convento. Fu il Papa in persona a dover sciogliere Lippi dai voti! Qui, probabilmente, lei contempla il bambino Gesù mentre il loro vero figlio Filippino fa capolino come angioletto birichino. Questo ritratto di famiglia in veste sacra divenne il modello di Botticelli, che fu allievo di Lippi e in seguito maestro dello stesso Filippino.",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "Filippo Lippi, Madonna col Bambino e Due Angeli"
+      },
+      "viewing_tips": ["Nota l'angelo giocoso che guarda direttamente l'osservatore", "Il paesaggio attraverso la finestra mostra l'interesse di Lippi per la natura", "Quest'opera influenzò molto Botticelli, allievo di Lippi"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "I Pollaiolo",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione incentrata sui fratelli Pollaiolo, noti per le figure dinamiche, gli studi anatomici e le energiche composizioni rinascimentali.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "Sale di Botticelli",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "Le gallerie più famose degli Uffizi per Botticelli, che ospitano iconici dipinti mitologici insieme a importanti opere religiose.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "Primavera",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1477-1482",
+      "description": "Entrate in questo giardino incantato! Commissionato intorno al 1482 per Lorenzo di Pierfrancesco de' Medici, cugino di Lorenzo il Magnifico, probabilmente per il suo matrimonio. I botanici hanno identificato oltre 200 specie vegetali reali. L'aranceto rimanda ai Medici, il cui stemma familiare includeva sfere dorate simili ad arance. Da destra: il dio del vento Zefiro, la ninfa Cloris che si trasforma in Flora, Venere, le Tre Grazie e Mercurio.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "Sandro Botticelli, Primavera"
+      },
+      "viewing_tips": ["Identifica le figure: Zefiro, Cloris, Flora, Venere, le Tre Grazie, Mercurio", "Nota le centinaia di specie vegetali raffigurate", "Cerca l'aranceto associato ai Medici"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "La Nascita di Venere",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1484-1486",
+      "description": "Ecco una curiosità: questo è il primo dipinto su tela di grandi dimensioni mai realizzato in Toscana! Venere emerge dal mare sulla sua conchiglia, sospinta a riva dai venti Zefiro e Aura. Originariamente alla Villa di Castello dei Medici, quest'opera iconica ha adornato per secoli i loro giardini privati prima di arrivare qui. Notate come la Venere di Botticelli riecheggi le pose delle sculture antiche.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "Sandro Botticelli, La Nascita di Venere"
+      },
+      "viewing_tips": ["Nota gli dei del vento Zefiro e Aura sulla sinistra", "L'Ora sulla destra offre un mantello decorato con fiori", "La posa riecheggia le antiche sculture della Venus Pudica"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "Madonna del Magnificat",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1481",
+      "description": "Guardate Maria mentre scrive 'Magnificat anima mea Dominum'—L'anima mia magnifica il Signore—la preghiera che pronunciò visitando Elisabetta. Botticelli curvò ogni elemento per adattarlo a questo formato rotondo del tondo, creando un effetto simile a uno specchio convesso. Due angeli la incoronano mentre altri reggono il calamaio e il libro. Il Bambino Gesù guida la mano di sua madre mentre scrive. Pura eleganza fiorentina!",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "Sandro Botticelli, Madonna del Magnificat"
+      },
+      "viewing_tips": ["Nota la prospettiva curva adattata al formato rotondo", "La Vergine scrive 'Magnificat anima mea Dominum'", "Gli angeli reggono un calamaio e un libro per lei"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "Trittico Portinari",
+      "roomCode": "A13",
+      "artist": "Hugo van der Goes",
+      "year": "c. 1475-1477",
+      "description": "Quando questo imponente capolavoro fiammingo arrivò nel 1483, gli artisti fiorentini rimasero sbalorditi. Vedete quei pastori dal volto ruvido, con la barba ispida e le mani segnate dal lavoro? Gli italiani non avevano mai visto contadini dipinti con tanto realismo! Ghirlandaio li copiò nel giro di due anni. Notate i fiori: iris per il dolore di Maria, grano per l'Eucaristia. Tragicamente, l'artista Hugo van der Goes morì in preda alla depressione in un monastero un anno prima che il suo dipinto raggiungesse Firenze: non seppe mai del suo successo.",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "Hugo van der Goes, Trittico Portinari"
+      },
+      "viewing_tips": ["Nota i pastori realistici rispetto alle figure italiane idealizzate", "Studia i dettagli della natura morta: fiori con significati simbolici", "Confronta gli approcci nordico e italiano al naturalismo"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "Terrazza verso la Sala delle Carte Geografiche",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "Un'area di terrazza di transizione che conduce verso la Sala delle Carte Geografiche, collegando i visitatori lungo il circuito del secondo piano.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "Stanzino delle Matematiche",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "Una sala specializzata storicamente legata agli strumenti scientifici e ai temi del sapere nel più ampio contesto mediceo degli Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "Tribuna del Buontalenti",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "Una storica sala ottagonale creata per esporre i più preziosi tesori dei Medici, famosa per la sua ricca decorazione e il ruolo centrale nella storia della galleria.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "Antica Armeria",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "Nella mappa ufficiale attuale, quest'area corrisponde alla sequenza dedicata al Rinascimento oltre le Alpi (A17-A20).",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "Adorazione dei Magi",
+      "roomCode": "A20",
+      "artist": "Albrecht Dürer",
+      "year": "1504",
+      "description": "Una raffigurazione della visita dei Magi del Rinascimento nordico di Dürer, nota per la precisione, i dettagli e un approccio distintivo alla forma e al paesaggio. L'opera mostra la maestria di Dürer dopo i suoi viaggi in Italia.",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "Albrecht Dürer, Adorazione dei Magi"
+      },
+      "viewing_tips": ["Nota l'attenzione nordeuropea alla texture e ai dettagli", "Confronta con i trattamenti italiani dello stesso soggetto", "Cerca la caratteristica precisione di Dürer nei panneggi"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "Gabinetto delle Miniature",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "Una galleria dedicata a opere di piccolo formato e miniature, evidenziando l'artigianalità raffinata in formati compatti.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "Corridoio di Mezzogiorno",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "Uno dei maggiori corridoi degli Uffizi, parte della struttura architettonica che collega le sale e ospita elementi della collezione.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "Corridoio di Ponente",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "Area del corridoio ovest lungo il percorso del secondo piano, che collega le principali sale rinascimentali e gli spazi espositivi maggiori.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "Laocoonte",
+      "roomCode": "A24",
+      "artist": "Baccio Bandinelli",
+      "year": "c. 1520-1525",
+      "description": "Un potente gruppo scultoreo basato sul tema antico del Laocoonte, associato a movimento drammatico ed espressione intensa.",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "Baccio Bandinelli, Laocoonte"
+      },
+      "viewing_tips": ["Confronta con il famoso originale romano in Vaticano"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "Secondo Rinascimento",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione incentrata sugli sviluppi maturi del Quattrocento, che collega l'innovazione fiorentina con le più ampie correnti del Rinascimento italiano.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "Pala di Santa Lucia dei Magnoli",
+      "roomCode": "A25",
+      "artist": "Domenico Veneziano",
+      "year": "c. 1445-1447",
+      "description": "Una pala d'altare fiorentina fondamentale, ammirata per la luce chiara, la composizione equilibrata e le raffinate armonie cromatiche. Il formato della sacra conversazione mostra santi riuniti attorno alla Vergine in un'ambientazione architettonica.",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "Domenico Veneziano, Pala di Santa Lucia dei Magnoli"
+      },
+      "viewing_tips": ["Nota la luce soffusa e diffusa - specialità di Domenico", "L'ambientazione architettonica crea profondità attraverso la prospettiva"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "Adorazione dei Magi",
+      "roomCode": "A28",
+      "artist": "Filippino Lippi",
+      "year": "1496",
+      "description": "Una ricca scena dell'Adorazione che riflette la complessità narrativa tardo-quattrocentesca e i dettagli espressivi dei personaggi. Filippino era figlio di Fra Filippo Lippi e continuò l'eredità del padre.",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "Filippino Lippi, Adorazione dei Magi"
+      },
+      "viewing_tips": ["Cerca i molti ritratti tra la folla", "Nota i dettagli archeologici dell'antica Roma"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "Perseo Libera Andromeda",
+      "roomCode": "A30",
+      "artist": "Piero di Cosimo",
+      "year": "c. 1510-1515",
+      "description": "Una scena mitologica di salvataggio e dramma, notevole per la narrazione fantasiosa e un mondo visivo insolito e onirico. Piero di Cosimo era noto per la sua personalità eccentrica e i soggetti fantastici.",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "Piero di Cosimo, Perseo Libera Andromeda"
+      },
+      "viewing_tips": ["Nota il bizzarro mostro marino", "Cerca la folla festante dopo il salvataggio"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "Sacra Famiglia",
+      "roomCode": "A31",
+      "artist": "Luca Signorelli",
+      "year": "c. 1490",
+      "description": "Una composizione della Sacra Famiglia associata all'interesse di Signorelli per l'anatomia, le forme forti e il disegno espressivo delle figure. Il suo stile muscoloso influenzò Michelangelo.",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "Luca Signorelli, Sacra Famiglia"
+      },
+      "viewing_tips": ["Nota l'enfasi di Signorelli sull'anatomia muscolare", "Il formato tondo era popolare per la devozione domestica"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "Sala di Leonardo",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "Una galleria dedicata alle opere di Leonardo da Vinci e dipinti correlati del tardo Quattrocento.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Annunciazione",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "Il giovane Leonardo dipinse quest'opera quando era ancora apprendista nella bottega del Verrocchio, aveva solo circa 20 anni! Ecco un segreto: quell'errore di prospettiva nel braccio destro di Maria? È intenzionale. Il dipinto era pensato per essere osservato dal basso a destra, facendo allineare tutto perfettamente. Cercate i cipressi, un marchio distintivo di Leonardo, e le sue famose montagne nebbiose realizzate con la tecnica dello sfumato sullo sfondo.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "Leonardo da Vinci, Annunciazione"
+      },
+      "viewing_tips": ["Nota la tecnica dello sfumato di Leonardo nel paesaggio lontano", "Studia l'accuratezza botanica dei fiori", "Il leggio in marmo mostra una prospettiva leggermente adattata per una visione laterale"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Adorazione dei Magi",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1481-1482",
+      "description": "Il padre di Leonardo, notaio di questi monaci, ottenne per il figlio questa commissione nel 1481. Ma nel giro di pochi mesi, Leonardo sparì alla volta di Milano, portando con sé, si dice, una lira d'argento da lui stesso intagliata come dono diplomatico! Un restauro del 2017 ha rivelato i suoi continui esperimenti: tre diverse teste di cavallo dipinte una sull'altra, un elefante nascosto, persino un misterioso abisso sotto i piedi di Maria. Quel giovane di spalle, all'estrema destra? Probabilmente è Leonardo stesso, a trent'anni.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "Leonardo da Vinci, Adorazione dei Magi"
+      },
+      "viewing_tips": ["Lo stato incompiuto rivela il processo di lavoro di Leonardo", "Nota la composizione vorticosa centrata sulla Vergine", "Le scene di sfondo includono cavalieri e rovine architettoniche"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Battesimo di Cristo",
+      "roomCode": "A35",
+      "artist": "Andrea del Verrocchio e Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "Vedete quell'angelo a sinistra che regge la veste di Cristo? È opera del giovane Leonardo—e secondo Vasari, era così bello che il suo maestro Verrocchio posò i pennelli per sempre! Confrontate i due angeli: quello di Leonardo ha un morbido sfumato luminoso; quello del Verrocchio è più rigido e tradizionale. Leonardo dipinse anche il paesaggio nebbioso. Un allievo che supera il maestro, immortalato su un'unica tavola.",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "Verrocchio e Leonardo, Battesimo di Cristo"
+      },
+      "viewing_tips": ["Confronta l'angelo di sinistra (Leonardo) con quello di destra (Verrocchio)", "Nota lo sfumato di Leonardo nel paesaggio lontano", "La storia narra che Verrocchio abbandonò la pittura dopo aver visto il lavoro di Leonardo"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "Ricetto delle Iscrizioni Antiche",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "Uno spazio di transizione associato a iscrizioni e antichità, che collega le sale nella sequenza del secondo piano.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "Raffaello e Michelangelo",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "Una sezione chiave che presenta opere di Raffaello e Michelangelo, tra i punti salienti più importanti delle collezioni rinascimentali degli Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "Tondo Doni (Sacra Famiglia)",
+      "roomCode": "A38",
+      "artist": "Michelangelo Buonarroti",
+      "year": "c. 1506-1508",
+      "description": "Questo è l'UNICO dipinto su tavola completato da Michelangelo: lui si considerava prima di tutto uno scultore! Commissionato dal ricco mercante Agnolo Doni per il suo matrimonio, c'è una storia famosa: Michelangelo chiese inizialmente 70 ducati, ma quando Doni tentò di contrattare, Michelangelo raddoppiò a 140! Non perdetevi la cornice originale: Michelangelo la disegnò personalmente, con teste scolpite di Cristo, profeti e sibille.",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "Michelangelo, Tondo Doni"
+      },
+      "viewing_tips": ["Nota come le figure si torcono come sculture", "I nudi sullo sfondo sono misteriosi - forse anime pagane prima di Cristo", "La cornice originale fu anch'essa progettata da Michelangelo"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "Madonna del Cardellino",
+      "roomCode": "A38",
+      "artist": "Raffaello",
+      "year": "c. 1505-1506",
+      "description": "Un regalo di nozze del ventitreenne Raffaello nel 1506! Il giovane Giovanni offre a Cristo un cardellino, simbolo della sua futura Passione: secondo la leggenda, l'uccello ottenne la testa rossa cercando di rimuovere le spine dalla corona di Cristo. Nel 1547, una frana frantumò questo dipinto in 17 pezzi! Un artista collega lo richiodò insieme, e un restauro moderno durato 10 anni, completato nel 2008, ha finalmente rivelato i luminosi colori originali di Raffaello.",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "Raffaello, Madonna del Cardellino"
+      },
+      "viewing_tips": ["La composizione piramidale crea un equilibrio perfetto", "Nota il morbido sfumato appreso da Leonardo", "Il dipinto fu frantumato nel 1547 e successivamente restaurato"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "Ritratti di Agnolo e Maddalena Doni",
+      "roomCode": "A38",
+      "artist": "Raffaello",
+      "year": "c. 1506",
+      "description": "Ecco la coppia d'oro che commissionò opere sia a Raffaello che a Michelangelo! Il mercante di stoffe Agnolo Doni provò a contrattare con Michelangelo per il Tondo Doni e finì per pagare il doppio. Notate come Maddalena richiami la Monna Lisa? Raffaello all'epoca stava studiando Leonardo. Il suo pendente con unicorno, rubino, smeraldo e zaffiro ostenta la loro ricchezza. I lati posteriori mostrano scene da Ovidio—chiedete di vederli!",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "Raffaello, Ritratti di Agnolo e Maddalena Doni"
+      },
+      "viewing_tips": ["Confronta con la Monna Lisa di Leonardo - nota la posa simile per Maddalena", "Lo sfondo paesaggistico mostra il debito di Raffaello verso la pittura fiamminga", "I ricchi gioielli mostrano la ricchezza della coppia"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "Sala della Niobe",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "Una sala monumentale associata alla scultura classica e uno degli spazi espositivi architettonicamente più suggestivi degli Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "Madonna delle Arpie",
+      "roomCode": "A41",
+      "artist": "Andrea del Sarto",
+      "year": "1517",
+      "description": "Ecco un pittore che non sapeva seguire le istruzioni! Le monache avevano ordinato San Bonaventura—lui dipinse San Francesco invece. Quelle creature sul piedistallo che Vasari chiamò 'arpie'? In realtà sono locuste apocalittiche dell'Apocalisse, con Maria che sigilla l'ingresso dell'Inferno! Andrea del Sarto fu chiamato 'il pittore senza errori' per la sua perfezione tecnica, eppure ignorò il contratto per creare qualcosa di ben più profondo.",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "Andrea del Sarto, Madonna delle Arpie"
+      },
+      "viewing_tips": ["Guarda le sfingi sul piedistallo (non arpie)", "Nota il perfetto equilibrio della composizione", "Del Sarto fu chiamato 'il pittore senza errori'"]
+    }
+  ],
+  "ui": {
+    "title": "Secondo Piano",
+    "subtitle": "Sale A1-A41",
+    "back": "Indietro",
+    "previous": "Precedente",
+    "next": "Successivo",
+    "room": "Sala",
+    "artworks": "Opere"
+  }
+}

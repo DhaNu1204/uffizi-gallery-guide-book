@@ -1,0 +1,387 @@
+{
+  "floor": "一层",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "一层重点展示文艺复兴晚期、巴洛克及主要欧洲画派的作品，包括著名的卡拉瓦乔收藏。",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "孔蒂尼-博纳科西收藏",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "横跨多个展厅的精选绘画、雕塑和装饰艺术品。通过展示重要作品以及家具和物品，帮助参观者理解不同时期的收藏和品味，为乌菲兹之旅增添深度。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "圣劳伦斯殉道",
+      "roomCode": "B8",
+      "artist": "吉安·洛伦佐·贝尔尼尼",
+      "year": "c. 1617",
+      "description": "一件以圣劳伦斯殉道为主题的戏剧性巴洛克雕塑。贝尔尼尼以将石头雕刻出栩栩如生的强度而著称——在这里，情感和身体的紧张感近在咫尺。",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "Gian Lorenzo Bernini, Saint Lawrence Martyred"
+      },
+      "viewing_tips": ["注意贝尔尼尼如何捕捉痛苦的瞬间", "这件作品创作时贝尔尼尼只有约18岁", "与他后期更精致的作品进行比较"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "艺术家自画像收藏",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "世界上最重要的艺术家自画像收藏之一，按时期和主题组织在多个展厅中。提供了一个难得的机会，看到艺术家几个世纪以来如何在社会、心理和职业层面展示自己。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "十六世纪",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "一层五百年代（1500年代）路线的起点，介绍向成熟文艺复兴风格的转变以及乌菲兹展示的各地区画派的多样性。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "长颈圣母",
+      "roomCode": "D4",
+      "artist": "帕尔米贾尼诺",
+      "year": "c. 1534-1540",
+      "description": "矫饰主义的标志：优雅的变形、拉长的比例和刻意不寻常的空间设计。效果既精致又令人不安，用更具表现力的风格化美感取代了文艺复兴的平衡。",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "Parmigianino, Madonna with the Long Neck"
+      },
+      "viewing_tips": ["注意不可能的拉长脖子和手指", "右下角的小先知似乎处于不同的比例", "这幅作品在帕尔米贾尼诺去世时未完成"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "逃往埃及途中的休息",
+      "roomCode": "D4",
+      "artist": "科雷乔",
+      "year": "c. 1520",
+      "description": "逃往埃及途中圣家庭的温馨时刻。科雷乔以柔和的明暗过渡和使神圣场景显得安静、人性化和亲密的温暖感而受到赞赏。",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "Correggio, Rest on the Flight into Egypt"
+      },
+      "viewing_tips": ["注意科雷乔柔和的晕涂技法", "亲密的尺度营造出个人虔诚的氛围"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "以马忤斯的晚餐",
+      "roomCode": "D12",
+      "artist": "蓬托尔莫",
+      "year": "1525",
+      "description": "对复活的基督被认出的圣经时刻的强有力的矫饰主义诠释。期待一种强烈的情感基调、令人惊讶的色彩和一种更具心理性而非纯叙事性的氛围。",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "Pontormo, Supper at Emmaus"
+      },
+      "viewing_tips": ["注意基督上方三角形中的上帝之眼", "人物似乎朝着意想不到的方向倾斜", "与达·芬奇更理性的《最后的晚餐》进行比较"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "斯佩达林戈祭坛画",
+      "roomCode": "D12",
+      "artist": "罗索·菲奥伦蒂诺",
+      "year": "1518",
+      "description": "与佛罗伦萨矫饰主义革命相关的祭坛画。罗索的风格通常偏好鲜明的特征、戏剧性的姿势和与早期文艺复兴和谐相比更大胆的创新感。",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "Rosso Fiorentino, Spedalingo Altarpiece"
+      },
+      "viewing_tips": ["注意刺眼的颜色和棱角分明的形式", "罗索后来在法国枫丹白露工作"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "演奏的天使",
+      "roomCode": "D12",
+      "artist": "罗索·菲奥伦蒂诺",
+      "year": "c. 1521",
+      "description": "带有罗索独特表现力的精致人物研究。即使在单个人物中，绘画和姿势也可能显得充满张力——更少平静的\"美\"，更多的个性和张力。",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "Rosso Fiorentino, Musical Angel"
+      },
+      "viewing_tips": ["注意不寻常的橙红色调", "强烈的表情区分了罗索的风格"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "托莱多的埃莉诺与其子肖像",
+      "roomCode": "D15",
+      "artist": "阿尼奥洛·布龙齐诺",
+      "year": "c. 1545",
+      "description": "与美第奇家族权力和形象塑造相关的宫廷肖像。布龙齐诺以精确、冷酷的优雅以及将华丽织物和珠宝转化为地位象征的方式而闻名。",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "Bronzino, Portrait of Eleanor of Toledo with Her Son"
+      },
+      "viewing_tips": ["研究锦缎礼服的惊人细节", "埃莉诺的礼服面料在她的墓中被发现保存完好", "这个儿子是乔凡尼，未来的美第奇枢机主教"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "人民圣母",
+      "roomCode": "D16",
+      "artist": "费德里科·巴罗奇",
+      "year": "1579",
+      "description": "巴罗奇的虔诚作品，他以情感温暖、优雅的动态和将晚期文艺复兴理想与更直接、更吸引人的灵性相连接的色彩而闻名。",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "Federico Barocci, Madonna del Popolo"
+      },
+      "viewing_tips": ["注意柔和的粉彩色调", "巴罗奇温暖的风格预示了巴洛克"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "圣约翰福音传道者与圣方济各",
+      "roomCode": "D21",
+      "artist": "埃尔·格列柯",
+      "year": "c. 1600",
+      "description": "典型的埃尔·格列柯风格的精神性、幻象性绘画：拉长的形式、强烈的表情，以及人物属于内心世界而非普通物理空间的感觉。",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "El Greco, Saints John the Evangelist and Francis"
+      },
+      "viewing_tips": ["注意埃尔·格列柯标志性的拉长人物", "超凡的光芒暗示神圣的存在"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "乌尔比诺的维纳斯",
+      "roomCode": "D23",
+      "artist": "提香",
+      "year": "1538",
+      "description": "马克·吐温曾称她为\"世界上最下流、最卑劣、最淫秽的画作\"——这反倒让她成为了艺术史上最受热议的裸体画像！这幅画于1538年为乌尔比诺公爵所作，后来作为维多利亚·德拉·罗维雷嫁入美第奇家族的嫁妆，于1631年来到佛罗伦萨。您注意到她脚边的那只小狗了吗？那是忠贞的象征。背景中的女仆们正在准备她的婚礼嫁妆箱呢。",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "Titian, Venus of Urbino"
+      },
+      "viewing_tips": ["注意温暖发光的肤色", "狗象征忠诚", "背景中的女仆正在准备她的婚礼箱", "这幅画影响了马奈的《奥林匹亚》"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "丽达与天鹅",
+      "roomCode": "D25",
+      "artist": "丁托列托",
+      "year": "c. 1555",
+      "description": "以戏剧性能量和动态画面运动著称的威尼斯神话题材。丁托列托常因大胆的构图和躁动、不安分的动感而受到认可。",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "Tintoretto, Leda and the Swan"
+      },
+      "viewing_tips": ["注意丁托列托的动态笔触", "场景捕捉了运动和戏剧性"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "以斯帖与亚哈随鲁",
+      "roomCode": "D26",
+      "artist": "保罗·委罗内塞",
+      "year": "c. 1556",
+      "description": "委罗内塞的宏大叙事场景，以优雅的舞台布置、丰富的色彩和戏剧感而著称。他的画作常常像戏剧一样：精美安排的人物、建筑和姿态。",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "Paolo Veronese, Esther and Ahasuerus"
+      },
+      "viewing_tips": ["注意戏剧性的舞台布置和华丽的服装", "委罗内塞擅长宏大的叙事场景"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "韦罗内（全景露台）",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "一层参观路线上的主要露台/观景点。它为参观提供了休息机会，也是博物馆面向阿诺河一侧的宏伟建筑体验的一部分。",
+      "image": null,
+      "viewing_tips": ["花点时间欣赏阿诺河的景色", "这是本层中段的良好休息点"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "卡拉瓦乔展厅",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "一层的亮点区域，聚焦于卡拉瓦乔及其戏剧性写实主义相关的关键作品——强烈的明暗对比、深刻的心理刻画和直接的物理存在感。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "朱迪斯斩杀赫罗弗尼斯",
+      "roomCode": "E4",
+      "artist": "阿尔泰米西亚·真蒂莱斯基",
+      "year": "c. 1620",
+      "description": "对圣经女英雄朱迪斯的有力巴洛克诠释。阿尔泰米西亚的作品以其强度、真实感和场景的震撼力而闻名——这是许多参观者离开后久久难忘的画面。",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "Artemisia Gentileschi, Judith Slaying Holofernes"
+      },
+      "viewing_tips": ["注意真实描绘的身体搏斗", "阿尔泰米西亚画过这个题材的多个版本", "与男性艺术家对同一场景的处理方式进行比较"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "以撒的献祭",
+      "roomCode": "E4",
+      "artist": "卡拉瓦乔",
+      "year": "c. 1601-1602",
+      "description": "亚伯拉罕和以撒故事中的紧张时刻，以卡拉瓦乔标志性的写实主义和情感即时性呈现。场景的布置让人感觉近在咫尺——几乎令人不安地在场。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "Caravaggio, Sacrifice of Isaac"
+      },
+      "viewing_tips": ["注意以撒惊恐的表情", "天使在最后一刻到达", "卡拉瓦乔使用真实的模特，通常来自罗马街头"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "美杜莎",
+      "roomCode": "E4",
+      "artist": "卡拉瓦乔",
+      "year": "c. 1597-1598",
+      "description": "美杜莎被斩首的惊人图像，旨在震撼和吸引观众。因其精湛的自然主义和直接面对观者的画面感而备受赞誉。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "Caravaggio, Medusa"
+      },
+      "viewing_tips": ["画在礼仪盾牌上", "鲜血仍从断颈喷出", "送给托斯卡纳大公的礼物", "有人认为这是卡拉瓦乔的自画像"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "酒神巴克斯",
+      "roomCode": "E5",
+      "artist": "卡拉瓦乔",
+      "year": "c. 1596-1597",
+      "description": "酒神巴克斯的感性、写实描绘。卡拉瓦乔的方法将神话转化为直接而人性化的东西——肉体、水果和目光以挑衅性的亲近感呈现。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "Caravaggio, Bacchus"
+      },
+      "viewing_tips": ["注意极其逼真的水果静物", "巴克斯似乎在向观者敬酒", "略微腐烂的水果可能象征着死亡", "X光揭示了酒壶中的小型自画像"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "霍恩索斯特与卡拉瓦乔主义者",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "与\"夜光\"绘画相关的区域——蜡烛或灯具的照明成为主要的戏剧引擎。这个圈子里的艺术家经常探索光线如何在黑暗中塑造面孔、物品和情绪。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "老人肖像",
+      "roomCode": "E7",
+      "artist": "伦勃朗·凡·莱因",
+      "year": "1665",
+      "description": "一幅感人的肖像，与伦勃朗通过光线、质感和微妙表情暗示内心生活的能力相关——更少展示，更多存在感和人性。",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "Rembrandt, Portrait of an Old Man"
+      },
+      "viewing_tips": ["注意光线如何从黑暗中浮现", "伦勃朗晚期作品聚焦于心理深度", "粗糙的笔触创造出质感和生命力"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "伊莎贝拉·布兰特肖像",
+      "roomCode": "E7",
+      "artist": "彼得·保罗·鲁本斯",
+      "year": "c. 1620-1625",
+      "description": "鲁本斯的肖像画，以活力、温暖和自信的笔触著称。与伦勃朗的内省相比，鲁本斯通常显得更开朗、更有活力、更明亮。",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "Peter Paul Rubens, Portrait of Isabella Brant"
+      },
+      "viewing_tips": ["伊莎贝拉是鲁本斯挚爱的第一任妻子", "注意鲁本斯典型的温暖发光的肤色"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "瓦萨里走廊 - 历史",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "简短的解说部分，解释瓦萨里走廊的起源和目的——一条历史上连接美第奇家族重要空间的高架通道，后来与重要收藏相关联。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "瓦萨里走廊 - 路线",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "聚焦于走廊路径及其在美第奇时代城市设计中的作用的部分，强调建筑和权力如何通过控制的移动在物理上相连。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "瓦萨里走廊 - 罗马胸像",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "介绍与乌菲兹收藏古董悠久传统相关的古典肖像和胸像的部分——这是美第奇家族如何构建文化、权威和学识的重要组成部分。",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "一层",
+    "subtitle": "B-E展厅",
+    "back": "返回",
+    "previous": "上一页",
+    "next": "下一页",
+    "room": "展厅",
+    "artworks": "艺术品"
+  }
+}

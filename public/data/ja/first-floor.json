@@ -1,0 +1,387 @@
+{
+  "floor": "1階",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "1階は後期ルネサンス、バロック、主要なヨーロッパの画派に焦点を当て、著名なカラヴァッジョコレクションを含みます。",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "コンティーニ・ボナコッシ・コレクション",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "複数の部屋にわたって展示される厳選された絵画、彫刻、装飾美術品。重要な作品とともに家具や美術品を展示し、訪問者が異なる時代の収集と趣味を理解するのに役立ち、ウフィツィ訪問に深みを加えます。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "聖ラウレンティウスの殉教",
+      "roomCode": "B8",
+      "artist": "ジャン・ロレンツォ・ベルニーニ",
+      "year": "1617年頃",
+      "description": "聖ラウレンティウスの殉教を中心としたドラマチックなバロック彫刻。ベルニーニは石に生き生きとした強度をもたらすことで知られています。ここでは感情と身体的緊張が間近で感じられるようになっています。",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "ジャン・ロレンツォ・ベルニーニ、聖ラウレンティウスの殉教"
+      },
+      "viewing_tips": ["ベルニーニがいかに苦悶の瞬間を捉えているか注目してください", "この作品はベルニーニがわずか18歳頃に制作されました", "彼の後期のより洗練された作品と比較してください"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "芸術家の自画像コレクション",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "世界で最も重要な芸術家の自画像コレクションの一つで、時代とテーマ別に複数の部屋に編成されています。何世紀にもわたって芸術家たちが社会的、心理的、職業的にどのように自己を表現してきたかを見る貴重な機会を提供します。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "16世紀",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "1階のチンクエチェント（1500年代）ルートの出発点で、成熟したルネサンス様式への移行とウフィツィに展示されている地方画派の多様性を紹介します。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "首の長い聖母",
+      "roomCode": "D4",
+      "artist": "パルミジャニーノ",
+      "year": "1534-1540年頃",
+      "description": "マニエリスムの特徴：優雅な歪み、引き伸ばされたプロポーション、意図的に変わった空間デザイン。効果は洗練されていると同時に不安を与え、ルネサンスのバランスをより表現的で様式化された美しさに置き換えています。",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "パルミジャニーノ、首の長い聖母"
+      },
+      "viewing_tips": ["あり得ないほど引き伸ばされた首と指に注目してください", "右下の小さな預言者は別のスケールにいるように見えます", "この作品はパルミジャニーノの死により未完成のまま残されました"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "エジプト逃避途上の休息",
+      "roomCode": "D4",
+      "artist": "コレッジョ",
+      "year": "1520年頃",
+      "description": "エジプト逃避途上の聖家族の優しい瞬間。コレッジョは光と影の柔らかな移り変わりと、聖なる場面を静かに人間的で親密に感じさせる温かみで賞賛されています。",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "コレッジョ、エジプト逃避途上の休息"
+      },
+      "viewing_tips": ["コレッジョの柔らかなスフマート技法に注目してください", "親密なスケールが個人的な信仰の雰囲気を作り出しています"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "エマオの晩餐",
+      "roomCode": "D12",
+      "artist": "ポントルモ",
+      "year": "1525年",
+      "description": "復活したキリストが認識される聖書の瞬間の力強いマニエリスム的解釈。高まった感情的トーン、驚くべき色彩、純粋な物語よりも心理的に感じられる雰囲気を期待してください。",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "ポントルモ、エマオの晩餐"
+      },
+      "viewing_tips": ["キリストの上の三角形の中の神の目に注目してください", "人物たちは予想外の方向に傾いているように見えます", "レオナルドのより合理的な『最後の晩餐』と比較してください"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "スペダリンゴ祭壇画",
+      "roomCode": "D12",
+      "artist": "ロッソ・フィオレンティーノ",
+      "year": "1518年",
+      "description": "フィレンツェのマニエリスム革命に関連する祭壇画。ロッソのスタイルは、初期ルネサンスの調和と比較して、鋭い性格、劇的なポーズ、大胆な創造性を好むことが多いです。",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "ロッソ・フィオレンティーノ、スペダリンゴ祭壇画"
+      },
+      "viewing_tips": ["不協和な色彩と角張った形に注目してください", "ロッソは後にフランスのフォンテーヌブローで活動しました"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "楽器を奏でる天使",
+      "roomCode": "D12",
+      "artist": "ロッソ・フィオレンティーノ",
+      "year": "1521年頃",
+      "description": "ロッソの特徴的な表現力のある洗練された人物研究。単一の人物でも、描画とポーズは緊張感を帯びることがあります。穏やかな「美」よりも、個性と緊張感が感じられます。",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "ロッソ・フィオレンティーノ、楽器を奏でる天使"
+      },
+      "viewing_tips": ["珍しいオレンジがかった赤い色彩に注目してください", "強烈な表情がロッソのスタイルを特徴づけています"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "トレドのエレオノーラと息子の肖像",
+      "roomCode": "D15",
+      "artist": "アニョロ・ブロンズィーノ",
+      "year": "1545年頃",
+      "description": "メディチ家の権力とイメージ形成に関連する宮廷肖像画。ブロンズィーノは正確さ、冷たい優雅さ、そして豪華な織物や宝石を装飾と同様に地位の表明とする方法で有名です。",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "ブロンズィーノ、トレドのエレオノーラと息子の肖像"
+      },
+      "viewing_tips": ["ブロケードのドレスの驚くべき細部を研究してください", "エレオノーラのドレスの生地は彼女の墓で保存された状態で発見されました", "息子は将来の枢機卿ジョヴァンニ・デ・メディチです"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "民衆の聖母",
+      "roomCode": "D16",
+      "artist": "フェデリコ・バロッチ",
+      "year": "1579年",
+      "description": "感情的な温かみ、優雅な動き、後期ルネサンスの理想とより直接的で魅力的な精神性を橋渡しする色彩で知られる芸術家バロッチによる信仰的作品。",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "フェデリコ・バロッチ、民衆の聖母"
+      },
+      "viewing_tips": ["柔らかなパステルカラーのパレットに注目してください", "バロッチの温かみのあるスタイルはバロックを予告しました"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "福音書記者聖ヨハネと聖フランチェスコ",
+      "roomCode": "D21",
+      "artist": "エル・グレコ",
+      "year": "1600年頃",
+      "description": "エル・グレコのスタイルに典型的な精神的で幻視的な絵画：引き伸ばされた形、強烈な表現、そして人物が通常の物理的空間ではなく内面の世界に属しているという感覚。",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "エル・グレコ、福音書記者聖ヨハネと聖フランチェスコ"
+      },
+      "viewing_tips": ["エル・グレコの特徴的な引き伸ばされた人物に注目してください", "超自然的な光が神の存在を示唆しています"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "ウルビーノのヴィーナス",
+      "roomCode": "D23",
+      "artist": "ティツィアーノ",
+      "year": "1538年",
+      "description": "マーク・トウェインはこの絵を「世界で最も下品で、最も卑しく、最もわいせつな絵画」と呼びました—そのおかげで、これは美術史上最も話題になった裸体画となったのです！1538年にウルビーノ公爵のために描かれ、1631年にヴィットーリア・デッラ・ローヴェレがメディチ家に嫁いだ際の婚礼持参品の一部としてフィレンツェにやってきました。足元の小さな犬に注目してください—忠誠の象徴です—そして背景では侍女たちが彼女の婚礼用の嫁入り道具を用意しています。",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "ティツィアーノ、ウルビーノのヴィーナス"
+      },
+      "viewing_tips": ["温かく輝く肌の色調に注目してください", "犬は忠誠を象徴しています", "背景の侍女たちが彼女の婚礼箱を準備しています", "この絵画はマネの『オランピア』に影響を与えました"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "レダと白鳥",
+      "roomCode": "D25",
+      "artist": "ティントレット",
+      "year": "1555年頃",
+      "description": "劇的なエネルギーとドラマチックな絵画的動きで知られるヴェネツィアの神話主題。ティントレットは大胆な構図と生き生きとした落ち着きのない動きの感覚でよく認められています。",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "ティントレット、レダと白鳥"
+      },
+      "viewing_tips": ["ティントレットのダイナミックな筆さばきに注目してください", "この場面は動きとドラマを捉えています"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "エステルとアハシュエロス",
+      "roomCode": "D26",
+      "artist": "パオロ・ヴェロネーゼ",
+      "year": "1556年頃",
+      "description": "優雅な演出、豊かな色彩、壮大さの感覚で知られるヴェロネーゼによる壮大な物語場面。彼の絵画はしばしば演劇のように見えます：美しく配置された人物、建築、身振り。",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "パオロ・ヴェロネーゼ、エステルとアハシュエロス"
+      },
+      "viewing_tips": ["演劇的な演出と豪華な衣装に注目してください", "ヴェロネーゼは壮大な物語場面に秀でていました"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "ヴェローネ（パノラマテラス）",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "1階ルート沿いの主要なテラス/展望スペース。訪問の休憩を提供し、アルノ川側の美術館の記念碑的な建築体験の一部でもあります。",
+      "image": null,
+      "viewing_tips": ["アルノ川の景色を楽しむ時間を取ってください", "ここはフロア中間の良い休憩ポイントです"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "カラヴァッジョ室",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "カラヴァッジョと彼のドラマチックなリアリズムに関連する主要作品に焦点を当てた1階のハイライトセクション。強い明暗のコントラスト、強烈な心理描写、直接的な物理的存在感が特徴です。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "ホロフェルネスを斬首するユディト",
+      "roomCode": "E4",
+      "artist": "アルテミジア・ジェンティレスキ",
+      "year": "1620年頃",
+      "description": "聖書の女性英雄ユディトの力強いバロック的解釈。アルテミジアの作品はその強度、リアリズム、そして場面の圧倒的な力で知られています。多くの訪問者が去った後も長く記憶に残るイメージです。",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "アルテミジア・ジェンティレスキ、ホロフェルネスを斬首するユディト"
+      },
+      "viewing_tips": ["リアルに描かれた身体的格闘に注目してください", "アルテミジアはこの主題の複数のバージョンを描きました", "同じ場面を描いた男性芸術家の作品と比較してください"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "イサクの犠牲",
+      "roomCode": "E4",
+      "artist": "カラヴァッジョ",
+      "year": "1601-1602年頃",
+      "description": "アブラハムとイサクの物語からの緊迫した瞬間。カラヴァッジョの特徴的なリアリズムと感情的な即時性で提示されています。場面は近くに感じられるように演出されています。ほとんど不快なほど存在感があります。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "カラヴァッジョ、イサクの犠牲"
+      },
+      "viewing_tips": ["イサクの恐怖の表情に注目してください", "天使は最後の瞬間に到着します", "カラヴァッジョはしばしばローマの街頭から実際のモデルを使いました"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "メドゥーサ",
+      "roomCode": "E4",
+      "artist": "カラヴァッジョ",
+      "year": "1597-1598年頃",
+      "description": "メドゥーサの切断された頭部の衝撃的なイメージで、ショックを与え魅了するようデザインされています。その巧みな自然主義と、鑑賞者を直接対峙させるような画像の感覚で称賛されています。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "カラヴァッジョ、メドゥーサ"
+      },
+      "viewing_tips": ["儀式用の盾に描かれています", "血がまだ切断された首から噴き出しています", "トスカーナ大公への贈り物でした", "カラヴァッジョの自画像だと考える人もいます"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "バッカス",
+      "roomCode": "E5",
+      "artist": "カラヴァッジョ",
+      "year": "1596-1597年頃",
+      "description": "ワインの神バッカスの官能的でリアルな描写。カラヴァッジョのアプローチは神話を即時的で人間的なものに変えています。肉体、果物、視線が挑発的な近さで表現されています。",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "カラヴァッジョ、バッカス"
+      },
+      "viewing_tips": ["驚くほどリアルな果物の静物画に注目してください", "バッカスは鑑賞者にワインのグラスを差し出しているようです", "わずかに傷んだ果物は死を象徴しているかもしれません", "X線でワインのカラフの中に小さな自画像が発見されました"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "ファン・ホントホルストとカラヴァジェスキ",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "ろうそくやランプからの照明が主要なドラマチックなエンジンとなる「夜光」絵画に関連するセクション。この軌道にいる芸術家たちは、暗闘の中で光がどのように顔、物体、雰囲気を形作るかをしばしば探求しています。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "老人の肖像",
+      "roomCode": "E7",
+      "artist": "レンブラント・ファン・レイン",
+      "year": "1665年",
+      "description": "光、質感、微妙な表情を通じて内面の生活を示唆するレンブラントの能力に関連する感動的な肖像画。誇示よりも存在感と人間性を重視しています。",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "レンブラント、老人の肖像"
+      },
+      "viewing_tips": ["光がどのように暗闇から現れるか注目してください", "レンブラントの後期作品は心理的深さに焦点を当てています", "粗い筆使いが質感と生命を生み出しています"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "イザベラ・ブラントの肖像",
+      "roomCode": "E7",
+      "artist": "ピーテル・パウル・ルーベンス",
+      "year": "1620-1625年頃",
+      "description": "活力、温かさ、自信に満ちた筆致で知られるルーベンスの肖像画。レンブラントの内省と比較すると、ルーベンスはしばしばよりオープンにエネルギッシュで輝かしく感じられます。",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "ピーテル・パウル・ルーベンス、イザベラ・ブラントの肖像"
+      },
+      "viewing_tips": ["イザベラはルーベンスの最愛の最初の妻でした", "ルーベンスに典型的な温かく輝く肌の色調に注目してください"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "ヴァザーリ回廊 - 歴史",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "ヴァザーリ回廊の起源と目的を説明する短い解説セクション。歴史的にメディチ家の主要な空間を結ぶ高架通路で、後に重要なコレクションと関連付けられました。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "ヴァザーリ回廊 - ルート",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "回廊のルートとメディチ時代の都市計画における役割に焦点を当てたセクション。建築と権力が制御された移動を通じてどのように物理的に結びついていたかを強調しています。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "ヴァザーリ回廊 - ローマの胸像",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "ウフィツィの長い古代美術品収集の伝統に関連する古典的な肖像画と胸像を紹介するセクション。メディチ家がどのように文化、権威、学識を形作ったかの重要な部分です。",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "1階",
+    "subtitle": "B-E室",
+    "back": "戻る",
+    "previous": "前へ",
+    "next": "次へ",
+    "room": "室",
+    "artworks": "作品"
+  }
+}

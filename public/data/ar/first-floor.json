@@ -1,0 +1,387 @@
+{
+  "floor": "الطابق الأول",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "يركز الطابق الأول على عصر النهضة المتأخر والباروك والمدارس الأوروبية الكبرى، بما في ذلك مجموعة كارافاجيو الشهيرة.",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "مجموعة كونتيني بوناكوسي",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "مجموعة منتقاة من اللوحات والمنحوتات والفنون الزخرفية معروضة عبر عدة قاعات. تضيف عمقاً لزيارة أوفيتزي من خلال عرض أعمال مهمة إلى جانب الأثاث والتحف التي تساعد الزوار على فهم الذوق وجمع التحف في فترات مختلفة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "استشهاد القديس لورنزو",
+      "roomCode": "B8",
+      "artist": "جان لورنزو برنيني",
+      "year": "حوالي 1617",
+      "description": "منحوتة باروكية درامية تتمحور حول استشهاد القديس لورنزو. يُعرف برنيني بدفع الحجر نحو حيوية واقعية - هنا يُقصد الشعور بالعاطفة والتوتر الجسدي عن قرب.",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "جان لورنزو برنيني، استشهاد القديس لورنزو"
+      },
+      "viewing_tips": ["لاحظ كيف يلتقط برنيني لحظة العذاب", "أُنجز هذا العمل عندما كان برنيني في الثامنة عشرة من عمره تقريباً", "قارن مع أعماله اللاحقة الأكثر صقلاً"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "مجموعة الصور الذاتية للفنانين",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "واحدة من أهم مجموعات الصور الذاتية للفنانين في العالم، منظمة عبر قاعات متعددة حسب الفترة والموضوع. تقدم فرصة نادرة لرؤية كيف قدم الفنانون أنفسهم - اجتماعياً ونفسياً ومهنياً - عبر القرون.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "القرن السادس عشر",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "نقطة انطلاق لمسار القرن السادس عشر في الطابق الأول، تقدم التحول نحو أساليب عصر النهضة الناضجة وتنوع المدارس الإقليمية الممثلة في أوفيتزي.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "العذراء ذات العنق الطويل",
+      "roomCode": "D4",
+      "artist": "بارميجانينو",
+      "year": "حوالي 1534-1540",
+      "description": "علامة مميزة للمانييريزم: تشوهات أنيقة، نسب مطولة، وتصميم مكاني غير تقليدي متعمد. التأثير راقٍ ومقلق في آن واحد، يستبدل توازن عصر النهضة بجمال أكثر تعبيراً وأسلوبية.",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "بارميجانينو، العذراء ذات العنق الطويل"
+      },
+      "viewing_tips": ["لاحظ العنق والأصابع المطولة بشكل مستحيل", "النبي الصغير في أسفل اليمين يبدو بمقياس مختلف", "بقي العمل غير مكتمل عند وفاة بارميجانينو"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "الراحة أثناء الهروب إلى مصر",
+      "roomCode": "D4",
+      "artist": "كوريجيو",
+      "year": "حوالي 1520",
+      "description": "لحظة حنونة للعائلة المقدسة من الهروب إلى مصر. يُحتفى بكوريجيو لانتقالاته الناعمة للضوء والظل ودفء يجعل المشاهد المقدسة تبدو إنسانية وحميمية بهدوء.",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "كوريجيو، الراحة أثناء الهروب إلى مصر"
+      },
+      "viewing_tips": ["لاحظ تقنية السفوماتو الناعمة لكوريجيو", "المقياس الحميم يخلق جواً تعبدياً شخصياً"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "العشاء في عمواس",
+      "roomCode": "D12",
+      "artist": "بونتورمو",
+      "year": "1525",
+      "description": "تفسير مانييري قوي للحظة الكتابية عندما يُعرف المسيح القائم. توقع نبرة عاطفية مكثفة، ألوان مفاجئة، وجواً يبدو نفسياً أكثر منه سردياً بحتاً.",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "بونتورمو، العشاء في عمواس"
+      },
+      "viewing_tips": ["لاحظ عين الله في المثلث فوق المسيح", "يبدو أن الشخصيات تميل في اتجاهات غير متوقعة", "قارن مع العشاء الأخير الأكثر عقلانية لليوناردو"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "مذبح سبيدالينجو",
+      "roomCode": "D12",
+      "artist": "روسو فيورنتينو",
+      "year": "1518",
+      "description": "مذبح مرتبط بثورة المانييريزم الفلورنسية. أسلوب روسو غالباً ما يفضل الشخصية الحادة، والأوضاع الدرامية، وإحساس جريء بالابتكار مقارنة بتناغم عصر النهضة السابق.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "روسو فيورنتينو، مذبح سبيدالينجو"
+      },
+      "viewing_tips": ["لاحظ الألوان المتنافرة والأشكال الزاوية", "عمل روسو لاحقاً في فونتينبلو في فرنسا"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "الملاك الموسيقي",
+      "roomCode": "D12",
+      "artist": "روسو فيورنتينو",
+      "year": "حوالي 1521",
+      "description": "دراسة شخصية راقية مع حافة روسو التعبيرية المميزة. حتى في شخصية واحدة، يمكن أن يبدو الرسم والوضعية مشحونين - جمال أقل هدوءاً، وشخصية وتوتر أكثر.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "روسو فيورنتينو، الملاك الموسيقي"
+      },
+      "viewing_tips": ["لاحظ اللون البرتقالي-الأحمر غير المعتاد", "التعبير المكثف يميز أسلوب روسو"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "صورة إليونورا دي توليدو مع ابنها",
+      "roomCode": "D15",
+      "artist": "أنيولو برونزينو",
+      "year": "حوالي 1545",
+      "description": "صورة بلاط مرتبطة بسلطة آل ميديتشي وصناعة صورتهم. يشتهر برونزينو بالدقة، والأناقة الباردة، والطريقة التي تصبح بها الأقمشة الفاخرة والمجوهرات تصريحات عن المكانة بقدر ما هي زينة.",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "برونزينو، صورة إليونورا دي توليدو مع ابنها"
+      },
+      "viewing_tips": ["ادرس التفاصيل المذهلة لثوب الديباج", "وُجد قماش ثوب إليونورا محفوظاً في قبرها", "الابن هو جيوفاني، الكاردينال المستقبلي من آل ميديتشي"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "مادونا دل بوبولو",
+      "roomCode": "D16",
+      "artist": "فيديريكو باروتشي",
+      "year": "1579",
+      "description": "عمل تعبدي لباروتشي، فنان معروف بالدفء العاطفي، والحركة الرشيقة، والألوان التي تجسر المثل العليا لعصر النهضة المتأخر مع روحانية أكثر مباشرة وجذباً.",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "فيديريكو باروتشي، مادونا دل بوبولو"
+      },
+      "viewing_tips": ["لاحظ لوحة الألوان الباستيلية الناعمة", "أسلوب باروتشي الدافئ استبق الباروك"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "القديسان يوحنا الإنجيلي وفرنسيس",
+      "roomCode": "D21",
+      "artist": "إل غريكو",
+      "year": "حوالي 1600",
+      "description": "لوحة روحانية رؤيوية نموذجية لأسلوب إل غريكو: أشكال مطولة، تعبير مكثف، وإحساس بأن الشخصيات تنتمي إلى عالم داخلي بدلاً من الفضاء المادي العادي.",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "إل غريكو، القديسان يوحنا الإنجيلي وفرنسيس"
+      },
+      "viewing_tips": ["لاحظ الشخصيات المطولة المميزة لإل غريكو", "الضوء من عالم آخر يوحي بحضور إلهي"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "فينوس أوربينو",
+      "roomCode": "D23",
+      "artist": "تيتيان",
+      "year": "1538",
+      "description": "وصفها مارك توين بأنها 'أقذر وأحقر وأفحش صورة يمتلكها العالم' — مما جعلها أكثر لوحة عارية يُتحدث عنها في تاريخ الفن! رُسمت عام 1538 لدوق أوربينو، ووصلت إلى فلورنسا كجزء من مهر زفاف فيتوريا ديلا روفيري لآل ميديشي عام 1631. لاحظ الكلب الصغير عند قدميها — رمز للإخلاص — والخادمات اللواتي يحضرن جهاز زفافها في الخلفية.",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "تيتيان، فينوس أوربينو"
+      },
+      "viewing_tips": ["لاحظ درجات البشرة الدافئة المتوهجة", "الكلب يرمز للإخلاص", "الخادمات في الخلفية يحضرن صندوق زفافها", "أثرت هذه اللوحة على أولمبيا لمانيه"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "ليدا والبجعة",
+      "roomCode": "D25",
+      "artist": "تينتوريتو",
+      "year": "حوالي 1555",
+      "description": "موضوع أسطوري فينيسي معروف بطاقته المسرحية وحركته التصويرية الدرامية. غالباً ما يُعرف تينتوريتو بتكويناته الجريئة وإحساسه الحي بالحركة.",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "تينتوريتو، ليدا والبجعة"
+      },
+      "viewing_tips": ["لاحظ ضربات فرشاة تينتوريتو الديناميكية", "المشهد يلتقط الحركة والدراما"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "إستير وأحشويروش",
+      "roomCode": "D26",
+      "artist": "باولو فيرونيزي",
+      "year": "حوالي 1556",
+      "description": "مشهد سردي عظيم لفيرونيزي، المعروف بإخراجه الأنيق، وألوانه الغنية، وإحساسه بالفخامة. غالباً ما تُقرأ لوحاته كمسرح: شخصيات مرتبة بشكل جميل، وعمارة، وإيماءات.",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "باولو فيرونيزي، إستير وأحشويروش"
+      },
+      "viewing_tips": ["لاحظ الإخراج المسرحي والأزياء الغنية", "برع فيرونيزي في المشاهد السردية العظيمة"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "الشرفة البانورامية (فيروني)",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "شرفة/نقطة مشاهدة رئيسية على مسار الطابق الأول. تقدم استراحة في الزيارة وهي أيضاً جزء من التجربة المعمارية الأثرية للمتحف على جانب نهر أرنو.",
+      "image": null,
+      "viewing_tips": ["خذ لحظة للاستمتاع بالمناظر على نهر أرنو", "هذه نقطة استراحة جيدة في منتصف الطابق"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "قاعة كارافاجيو",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "قسم بارز في الطابق الأول يركز على كارافاجيو وأعمال رئيسية مرتبطة بواقعيته الدرامية - تباينات قوية بين الضوء والظل، وعلم نفس مكثف، وحضور مادي مباشر.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "يهوديت تقتل هولوفيرنيس",
+      "roomCode": "E4",
+      "artist": "أرتيميزيا جنتيليسكي",
+      "year": "حوالي 1620",
+      "description": "تفسير باروكي قوي للبطلة الكتابية يهوديت. يُعرف عمل أرتيميزيا بكثافته، وواقعيته، والقوة المطلقة للمشهد - صورة يتذكرها كثير من الزوار طويلاً بعد المغادرة.",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "أرتيميزيا جنتيليسكي، يهوديت تقتل هولوفيرنيس"
+      },
+      "viewing_tips": ["لاحظ الصراع الجسدي المصور بواقعية", "رسمت أرتيميزيا عدة نسخ من هذا الموضوع", "قارن مع معالجات الفنانين الذكور لنفس المشهد"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "تضحية إسحاق",
+      "roomCode": "E4",
+      "artist": "كارافاجيو",
+      "year": "حوالي 1601-1602",
+      "description": "لحظة متوترة من قصة إبراهيم وإسحاق، مقدمة بواقعية كارافاجيو المميزة وحضوره العاطفي الفوري. المشهد مُعد ليبدو قريباً - حاضراً بشكل غير مريح تقريباً.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "كارافاجيو، تضحية إسحاق"
+      },
+      "viewing_tips": ["لاحظ تعبير إسحاق المرعوب", "يصل الملاك في آخر لحظة ممكنة", "استخدم كارافاجيو نماذج حقيقية، غالباً من شوارع روما"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "ميدوسا",
+      "roomCode": "E4",
+      "artist": "كارافاجيو",
+      "year": "حوالي 1597-1598",
+      "description": "صورة مذهلة لرأس ميدوسا المقطوع، مصممة للصدمة والسحر. يُحتفى بها لواقعيتها البارعة والإحساس بصورة تبدو وكأنها تواجه المشاهد مباشرة.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "كارافاجيو، ميدوسا"
+      },
+      "viewing_tips": ["رُسمت على درع احتفالي", "لا يزال الدم ينفجر من العنق المقطوع", "هدية لدوق توسكانا الأكبر", "يعتقد البعض أنها صورة ذاتية لكارافاجيو"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "باخوس",
+      "roomCode": "E5",
+      "artist": "كارافاجيو",
+      "year": "حوالي 1596-1597",
+      "description": "تصوير حسي واقعي لباخوس، إله النبيذ. نهج كارافاجيو يحول الأسطورة إلى شيء فوري وإنساني - جسد، وفاكهة، ونظرة مُقدمة بقرب استفزازي.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "كارافاجيو، باخوس"
+      },
+      "viewing_tips": ["لاحظ الطبيعة الصامتة للفاكهة الواقعية بشكل لا يصدق", "يبدو أن باخوس يقدم للمشاهد كأس نبيذ", "قد ترمز الفاكهة الفاسدة قليلاً للفناء", "كشفت الأشعة السينية عن صورة ذاتية صغيرة في إبريق النبيذ"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "فان هونتهورست والكارافاجيون",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "قسم متصل برسم 'ضوء الليل' - أعمال حيث تصبح الإضاءة من الشموع أو المصابيح المحرك الدرامي الرئيسي. غالباً ما يستكشف الفنانون في هذا المحيط كيف يشكل الضوء الوجوه والأشياء والمزاج في الظلام.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "صورة رجل عجوز",
+      "roomCode": "E7",
+      "artist": "رمبرانت فان راين",
+      "year": "1665",
+      "description": "صورة مؤثرة مرتبطة بقدرة رمبرانت على إيحاء الحياة الداخلية من خلال الضوء والملمس والتعبير الدقيق - أقل عن العرض، وأكثر عن الحضور والإنسانية.",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "رمبرانت، صورة رجل عجوز"
+      },
+      "viewing_tips": ["لاحظ كيف يبرز الضوء من الظلام", "أعمال رمبرانت المتأخرة تركز على العمق النفسي", "ضربات الفرشاة الخشنة تخلق الملمس والحياة"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "صورة إيزابيلا برانت",
+      "roomCode": "E7",
+      "artist": "بيتر بول روبنز",
+      "year": "حوالي 1620-1625",
+      "description": "صورة لروبنز، المعروف بالحيوية والدفء وضربات الفرشاة الواثقة. مقارنة باستبطان رمبرانت، غالباً ما يبدو روبنز أكثر طاقة وإشراقاً بشكل مفتوح.",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "بيتر بول روبنز، صورة إيزابيلا برانت"
+      },
+      "viewing_tips": ["كانت إيزابيلا زوجة روبنز الأولى الحبيبة", "لاحظ درجات البشرة الدافئة المتوهجة النموذجية لروبنز"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "ممر فازاري - التاريخ",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "قسم تفسيري قصير يشرح أصل وغرض ممر فازاري - ممر مرتفع يربط تاريخياً فضاءات ميديتشي الرئيسية وارتبط لاحقاً بمجموعات مهمة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "ممر فازاري - المسار",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "قسم يركز على مسار الممر ودوره في التصميم الحضري لعصر ميديتشي، مؤكداً كيف ارتبطت العمارة والسلطة مادياً من خلال الحركة المنظمة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "ممر فازاري - التماثيل النصفية الرومانية",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "قسم يقدم الصور الكلاسيكية والتماثيل النصفية المرتبطة بتقليد أوفيتزي الطويل في جمع الآثار - جزء أساسي من كيفية تأطير آل ميديتشي للثقافة والسلطة والتعلم.",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "الطابق الأول",
+    "subtitle": "القاعات B-E",
+    "back": "رجوع",
+    "previous": "السابق",
+    "next": "التالي",
+    "room": "قاعة",
+    "artworks": "الأعمال الفنية"
+  }
+}

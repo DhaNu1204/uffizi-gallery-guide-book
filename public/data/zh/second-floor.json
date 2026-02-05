@@ -1,0 +1,661 @@
+{
+  "floor": "二层",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "二层展示从早期意大利绘画到文艺复兴盛期的作品，包括从乔托到米开朗基罗的杰作。",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "导言",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "乌菲兹美术馆二层参观路线概述，介绍主要历史时期和展厅布局。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "洛林前厅",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "入口前厅区域，通往二层的早期绘画展厅。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "东廊",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "长廊是二层主要参观路线的一部分，连接多个展厅和区域。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "13世纪绘画",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "馆藏最早期木板画的起点，介绍中世纪意大利绘画及其宗教画形式。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "\"原始派\"展厅",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "专门展示早期意大利绘画的展厅，重点关注塑造中世纪晚期艺术的里程碑式艺术家。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "诸圣圣母",
+      "roomCode": "A4",
+      "artist": "乔托·迪·邦多内",
+      "year": "c. 1310",
+      "description": "这幅1310年的杰作开启了文艺复兴的大门！请看乔托如何突破了平面化的拜占庭艺术传统：圣母的宝座呈现出真实的纵深感，圣婴有着婴儿特有的肉嘟嘟的脸颊，天使们在空间中层层叠叠。圣母身着白衣——那是委托创作这幅画的\"乌米利亚蒂\"羊毛商人行会的代表色，这幅画就是为他们的教堂而作。但丁本人曾盛赞乔托为画家之首。您可以在天使手捧的水晶花瓶中找到玫瑰和百合花。",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "Giotto, Ognissanti Madonna"
+      },
+      "viewing_tips": ["注意乔托如何创造三维空间感", "与同一展厅中拜占庭风格的圣母像比较", "观察天使面部的真实表情"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "14世纪锡耶纳画派",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "专门展示14世纪锡耶纳绘画的区域，以其优雅、精致的线条和明亮的色彩著称。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "天使报喜",
+      "roomCode": "A5",
+      "artist": "西蒙尼·马尔蒂尼和利波·梅米",
+      "year": "1333",
+      "description": "这幅1333年的哥特式杰作彻底革新了艺术家们描绘天使报喜的方式。请注意圣母惊讶后退的姿态——我们看到的正是她在接受命运之前那一刻的惊惧。画中的真金在锡耶纳大教堂的烛光下曾闪烁着迷人的光芒。加百列手持的是橄榄枝，而不是百合花——这是锡耶纳对竞争对手佛罗伦萨的一个巧妙讽刺！您还可以找找他那象征复活的孔雀羽翼。",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "Simone Martini and Lippo Memmi, Annunciation"
+      },
+      "viewing_tips": ["欣赏背景中精美的金饰工艺", "注意圣母惊讶的姿态", "寻找天使手持的橄榄枝"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "圣殿献婴",
+      "roomCode": "A5",
+      "artist": "安布罗乔·洛伦泽蒂",
+      "year": "1342",
+      "description": "找找正在吮吸拇指的耶稣！洛伦泽蒂打破传统，将基督画成一个卷着脚趾的真实婴儿。这幅1342年的杰作与西蒙尼·马尔蒂尼的《天使报喜》同属锡耶纳大教堂的一个系列。注意大理石地板——其汇聚的线条比透视法\"正式发明\"早了整整一个世纪就已开创先河。令人惋惜的是，安布罗乔和他的兄弟皮耶特罗很可能都在1348年的黑死病中去世了。",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "Ambrogio Lorenzetti, Presentation at the Temple"
+      },
+      "viewing_tips": ["研究建筑透视", "注意人物如何在空间中互动"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "14世纪的佛罗伦萨",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "探索14世纪佛罗伦萨绘画的区域，连接中世纪传统与早期文艺复兴发展。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "国际哥特式杰作",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "与国际哥特风格相关的作品，以优雅、丰富的表面细节和宫廷式精致为特征。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "圣母加冕",
+      "roomCode": "A7",
+      "artist": "洛伦佐·摩纳科",
+      "year": "1414",
+      "description": "这幅高达5米的巨作是一位修士为修士同仁们绑制的！洛伦佐修士生活在天使圣母修道院，他用比黄金还贵的青金石颜料画出了基督那件璀璨的蓝色长袍。看到那些身穿白袍的圣徒了吗？他们是卡马尔多利修会的创始人。那些布满星辰的条带象征着中世纪人眼中的天堂。洛伦佐最著名的学生是谁？正是弗拉·安杰利科，他画的另一幅《圣母加冕》就挂在附近。",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "Lorenzo Monaco, The Coronation of the Virgin"
+      },
+      "viewing_tips": ["注意整幅画中使用的丰富群青蓝", "观察精致的织物图案"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "三博士来朝",
+      "roomCode": "A7",
+      "artist": "真蒂莱·达·法布里亚诺",
+      "year": "1423",
+      "description": "来找找隐藏的赞助人吧！佛罗伦萨首富帕拉·斯特罗齐把自己画进了画中，手里还托着一只猎鹰——这可是个巧妙的双关语，因为在托斯卡纳方言里，\"strozzieri\"就是驯鹰人的意思。他为这幅金碧辉煌的祭坛画支付了300弗罗林（相当于一个工匠六年的工资！）。画中的黄金就是为了在他家族礼拜堂的烛光下闪闪发光而设计的。仔细找找背景里的豹子、猴子，甚至还有一幕抢劫场景。后来美第奇家族把斯特罗齐流放了，但他的杰作却留了下来。",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "Gentile da Fabriano, Adoration of the Magi"
+      },
+      "viewing_tips": ["跟随队伍从远处山丘到前景", "寻找随行队伍中的异国动物", "注意马具和王冠上的金箔细节"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "早期文艺复兴",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "聚焦15世纪初期的区域，当时艺术家通过透视、解剖和更真实的空间改变了绘画。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "圣母子与圣安妮",
+      "roomCode": "A8",
+      "artist": "马萨乔和马索利诺",
+      "year": "c. 1424-1425",
+      "description": "您正站在文艺复兴诞生的那个确切时刻面前！1424年，两位艺术家在此合作——但请仔细看。年仅23岁的马萨乔用革命性的光影技法绘制了圣母和圣婴，他们仿佛在呼吸。在他们身后，41岁的马索利诺用旧式哥特风格画了圣安妮——平面而缥缈。一幅画，两个时代。马萨乔27岁便英年早逝，却永远改变了艺术。",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "Masaccio and Masolino, Madonna and Child with Saint Anne"
+      },
+      "viewing_tips": ["比较马萨乔雕塑般的圣母与马索利诺更柔美的圣安妮", "注意光线如何创造立体形态"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "圣罗马诺之战",
+      "roomCode": "A8",
+      "artist": "保罗·乌切洛",
+      "year": "c. 1438-1440",
+      "description": "洛伦佐·德·美第奇太想得到这些画了，不惜从巴尔托利尼家族手中强行夺取！这是描绘佛罗伦萨1432年战胜锡耶纳的三幅画之一——另外两幅分别在伦敦和巴黎。请注意倒下的长矛是如何排列成透视线的。据说乌切洛的妻子抱怨他整夜不睡，嘴里喃喃自语：\"啊，透视真是太美妙了！\"画中银色的盔甲曾经闪闪发亮——如今已氧化成灰色了。",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "Paolo Uccello, Battle of San Romano"
+      },
+      "viewing_tips": ["注意倒下的长矛如何创造透视线", "寻找构图中的几何图案", "这是三联画之一——另外两幅分别在伦敦和巴黎"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "乌尔比诺公爵夫妇",
+      "roomCode": "A9",
+      "artist": "皮耶罗·德拉·弗朗切斯卡",
+      "year": "c. 1465-1472",
+      "description": "这幅双联画描绘的是文艺复兴时期意大利最伟大的雇佣军统帅和他挚爱的妻子。费德里科总是以侧面示人，是为了隐藏他失去的右眼——那是在1450年的一次比武中受的伤，那次比武还打断了他那著名的鼻梁。巴蒂斯塔的肖像是在她去世后绘制的，她年仅26岁便因难产而离世。画的背面描绘了他们各自乘坐凯旋马车，周围环绕着美德的化身，象征着他们在死亡面前永远相守。",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "Piero della Francesca, Duke and Duchess of Urbino"
+      },
+      "viewing_tips": ["观察横跨两幅画板的连续风景", "公爵的侧面像隐藏了他在比武中受伤的右侧", "注意背面的寓意场景"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "圣母子与两天使",
+      "roomCode": "A9",
+      "artist": "菲利波·利皮",
+      "year": "c. 1465",
+      "description": "文艺复兴的丑闻警报！1456年，修士菲利波·利皮在一次修道院游行中劫走了他的模特——一位名叫卢克蕾齐娅·布蒂的年轻修女。最后连教皇本人都不得不出面解除了利皮的圣职！画中凝望着小耶稣的很可能就是她，而那个调皮地探出头来的小天使，正是他们的亲生儿子菲利皮诺。这幅披着神圣外衣的家庭肖像后来成了波提切利的范本——他曾是利皮的学徒，后来又亲自培养了菲利皮诺。",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "Filippo Lippi, Madonna and Child with Two Angels"
+      },
+      "viewing_tips": ["注意直视观众的调皮天使", "窗外的风景展示了利皮对自然的兴趣", "这幅作品深刻影响了利皮的学生波提切利"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "波拉约洛兄弟",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "以波拉约洛兄弟为中心的区域，以动态人物、解剖研究和充满活力的文艺复兴构图著称。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "波提切利展厅",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "乌菲兹美术馆最著名的波提切利展厅，收藏标志性的神话画作和重要的宗教作品。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "春",
+      "roomCode": "A11-A12",
+      "artist": "桑德罗·波提切利",
+      "year": "c. 1477-1482",
+      "description": "欢迎走进这座梦幻的花园！这幅画大约在1482年为洛伦佐·迪·皮耶弗朗切斯科·德·美第奇——也就是\"伟大的洛伦佐\"的堂弟——而作，很可能是为了庆祝他的婚礼。植物学家们在画中辨认出了200多种真实存在的植物！画中的橘树林与美第奇家族息息相关，因为他们的家徽上就有像橘子一样的金球。从右往左看：风神泽菲罗斯、正在变身为花神弗洛拉的仙女克洛里斯、维纳斯、美惠三女神，以及墨丘利。",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "Sandro Botticelli, Primavera (Spring)"
+      },
+      "viewing_tips": ["识别人物：西风之神、克洛里斯、花神、维纳斯、美惠三女神、墨丘利", "注意画中描绘的数百种植物", "寻找与美第奇家族相关的橘园"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "维纳斯的诞生",
+      "roomCode": "A11-A12",
+      "artist": "桑德罗·波提切利",
+      "year": "c. 1484-1486",
+      "description": "告诉您一个有趣的小知识——这是托斯卡纳地区有史以来第一幅大型画布绘画！维纳斯踩着贝壳从海中升起，被风神泽菲罗斯和奥拉吹向岸边。这幅画原本收藏在美第奇家族的卡斯特洛别墅，在他们的私人花园里装点了好几个世纪，后来才来到这里。您注意到了吗？波提切利笔下的维纳斯姿态呼应了古代的雕塑造型呢。",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "Sandro Botticelli, The Birth of Venus"
+      },
+      "viewing_tips": ["注意左侧的风神泽菲罗斯和奥拉", "右侧的季节女神递上饰有花朵的斗篷", "姿态呼应古代维纳斯·普迪卡雕塑"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "尊主颂圣母",
+      "roomCode": "A11-A12",
+      "artist": "桑德罗·波提切利",
+      "year": "c. 1481",
+      "description": "看，圣母正在书写\"Magnificat anima mea Dominum\"——我心尊主为大——这正是她拜访伊丽莎白时所说的祷词。波提切利将每一个元素都弯曲处理，以适应这个圆形画面，营造出一种凸面镜般的视觉效果。两位天使为她加冕，其他天使则捧着墨水瓶和书本。圣婴正引导着母亲书写的手。纯正的佛罗伦萨式优雅！",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "Sandro Botticelli, Madonna del Magnificat"
+      },
+      "viewing_tips": ["注意适应圆形画面的弯曲透视", "圣母正在书写\"我心尊主为大\"", "天使为她拿着墨水瓶和书本"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "波尔蒂纳里三联画",
+      "roomCode": "A13",
+      "artist": "胡戈·凡·德·古斯",
+      "year": "c. 1475-1477",
+      "description": "1483年，当这幅巨大的弗兰德杰作抵达佛罗伦萨时，当地的艺术家们都惊呆了。您看那些满脸胡茬、双手粗糙的牧羊人？意大利人从未见过农民被画得如此真实！吉兰达约两年内就临摹了他们。注意画中的花卉：鸢尾花象征圣母的悲伤，麦穗代表圣餐。令人惋惜的是，画家胡戈·凡·德·古斯在画作抵达佛罗伦萨的前一年便在修道院中抑郁而终——他从未知晓。",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "Hugo van der Goes, Portinari Triptych"
+      },
+      "viewing_tips": ["注意与理想化意大利人物相比的写实牧羊人", "研究静物细节：带有象征意义的花卉", "比较北方与意大利对自然主义的处理方法"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "通往地图室的露台",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "通往地图室的过渡露台区域，连接二层参观路线上的游客。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "数学小室",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "历史上与科学仪器和学习主题相关的专门房间，属于乌菲兹更广泛的美第奇背景的一部分。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "布翁塔伦蒂八角厅",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "历史悠久的八角形房间，专为展示珍贵的美第奇珍宝而建，以其丰富的装饰和在画廊历史中的核心地位而闻名。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "古代兵器库",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "在当前官方地图中，该区域对应阿尔卑斯山以北文艺复兴的展区（A17-A20）。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "三博士来朝",
+      "roomCode": "A20",
+      "artist": "阿尔布雷希特·丢勒",
+      "year": "1504",
+      "description": "1517年路德在教堂门上钉下他的95条论纲时，这幅画就挂在门内！这幅画是为智者弗里德里希的维滕贝格教堂而作，丢勒把自己画成了第二位国王——认出那头金色卷发了吗？找找象征基督复活的锹甲虫吧。乌菲兹于1792年用一幅弗拉·巴尔托洛梅奥的画从维也纳换来了它。德国最伟大的艺术家与意大利最伟大的博物馆相遇！",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "Albrecht Durer, Adoration of the Magi"
+      },
+      "viewing_tips": ["注意北欧对质感和细节的关注", "与意大利对同一题材的处理方法比较", "寻找丢勒在衣褶中特有的精确度"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "微型画陈列室",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "专门展示小型作品和微型画的展厅，突出紧凑形式中的精致工艺。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "南廊",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "乌菲兹主要走廊之一，是连接展厅和展示藏品元素的建筑主轴的一部分。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "西廊",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "沿二层路线的西侧走廊区域，连接重要的文艺复兴展厅和主要展示空间。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "拉奥孔",
+      "roomCode": "A24",
+      "artist": "巴乔·班迪内利",
+      "year": "c. 1520-1525",
+      "description": "基于古代拉奥孔主题的有力雕塑群，与戏剧性的动感和强烈的表现力相关联。",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "Baccio Bandinelli, Laocoon"
+      },
+      "viewing_tips": ["与梵蒂冈著名的罗马原作比较"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "第二文艺复兴",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "聚焦15世纪成熟发展的区域，将佛罗伦萨创新与更广泛的意大利文艺复兴潮流联系起来。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "马尼奥利圣卢西亚祭坛画",
+      "roomCode": "A25",
+      "artist": "多梅尼科·韦内齐亚诺",
+      "year": "c. 1445-1447",
+      "description": "这幅1445年的画作发明了此后每幅文艺复兴祭坛画都会模仿的形式！在此之前，圣徒们站在哥特式的分隔区间里——这里他们首次共享同一个统一的空间。这位\"光之画家\"曾以皮耶罗·德拉·弗朗切斯卡为助手来培养他！瓦萨里曾错误地声称竞争对手卡斯塔尼奥谋杀了韦内齐亚诺——但档案证明卡斯塔尼奥比他早四年去世。一个持续了几个世纪的诽谤终于被揭穿！",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "Domenico Veneziano, Altarpiece of Santa Lucia dei Magnoli"
+      },
+      "viewing_tips": ["注意柔和弥漫的光线——多梅尼科的专长", "建筑背景通过透视创造深度"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "三博士来朝",
+      "roomCode": "A28",
+      "artist": "菲利皮诺·利皮",
+      "year": "1496",
+      "description": "修士们等了达·芬奇15年让他完成他们的《三博士来朝》——他始终没完成！于是在1496年他们聘请了菲利皮诺·利皮，那位丑闻缠身的修士画家弗拉·菲利波的儿子。找找美第奇家族的肖像：皮耶弗朗切斯科穿着黄色皮袍，手持星盘。达·芬奇那幅未完成的版本和这幅替代作品现在都挂在乌菲兹——您可以亲自比较！艺术的竞争就这样被永恒地保存了下来。",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "Filippino Lippi, Adoration of the Magi"
+      },
+      "viewing_tips": ["在人群中寻找众多肖像人物", "注意来自古罗马的考古细节"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "珀耳修斯解救安德洛墨达",
+      "roomCode": "A30",
+      "artist": "皮耶罗·迪·科西莫",
+      "year": "c. 1510-1515",
+      "description": "瓦萨里称这只海怪是\"有史以来画过的最怪异的生物\"——您一看便知！这幅画约在1510年为斯特罗齐-美第奇婚礼而作，珀耳修斯出现了两次：一次从左边飞来，一次在与怪兽搏斗。这位画家以古怪著称——他曾一次煮50个鸡蛋以节省燃料，而且从不打扫地板！注意右边已经开始的庆祝活动，还有异国情调的乐器。纯粹的文艺复兴奇幻！",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "Piero di Cosimo, Perseus Freeing Andromeda"
+      },
+      "viewing_tips": ["注意奇异的海怪", "寻找救援后庆祝的人群"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "圣家族",
+      "roomCode": "A31",
+      "artist": "卢卡·西尼奥雷利",
+      "year": "c. 1490",
+      "description": "圣家族构图，与西尼奥雷利对解剖、有力形式和富有表现力的人物设计的兴趣相关。他健壮的风格影响了米开朗基罗。",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "Luca Signorelli, Holy Family"
+      },
+      "viewing_tips": ["注意西尼奥雷利对肌肉解剖的强调", "圆形画（tondo）形式在家庭宗教中很流行"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "达·芬奇展厅",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "专门展示达·芬奇作品和15世纪晚期相关绘画的画廊。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "天使报喜",
+      "roomCode": "A35",
+      "artist": "列奥纳多·达·芬奇",
+      "year": "c. 1472-1475",
+      "description": "年轻的达·芬奇在韦罗基奥工作室当学徒时就画出了这幅作品——当时他才二十岁左右！我来告诉您一个小秘密：圣母玛利亚右臂那个所谓的\"透视错误\"？其实是故意为之的。这幅画原本设计从右下方观看，那样一来所有的透视就完美对齐了。您可以找找画中的柏树——那是达·芬奇标志性的元素——还有背景中运用晕涂法绘制的朦胧远山，这也是他的拿手绝活。",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "Leonardo da Vinci, Annunciation"
+      },
+      "viewing_tips": ["注意达·芬奇在远景中的晕涂法技法", "研究花卉的植物学精确性", "大理石书架的透视略有调整以适应侧视角度"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "三博士来朝",
+      "roomCode": "A35",
+      "artist": "列奥纳多·达·芬奇",
+      "year": "c. 1481-1482",
+      "description": "达·芬奇的父亲是这些修士的公证人，为儿子争取到了这份1481年的委托。但几个月后，达·芬奇就消失去了米兰，据说还随身带着一把他亲手雕刻的银制里拉琴作为外交礼物！2017年的修复揭示了他不断试验的过程：三个不同的马头相互叠加、一头隐藏的大象，甚至在圣母脚下还有一道神秘的深渊。最右边那个背对着我们的年轻人？很可能就是30岁的达·芬奇本人。",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "Leonardo da Vinci, Adoration of the Magi"
+      },
+      "viewing_tips": ["未完成状态揭示了达·芬奇的创作过程", "注意以圣母为中心的旋涡式构图", "背景场景包括骑手和建筑废墟"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "基督受洗",
+      "roomCode": "A35",
+      "artist": "安德烈亚·德尔·韦罗基奥和列奥纳多·达·芬奇",
+      "year": "c. 1472-1475",
+      "description": "看到左边那位捧着基督袍子的天使了吗？那是年轻的达·芬奇画的——据瓦萨里记载，这位天使美得让他的老师韦罗基奥从此放下了画笔，再也不画了！比较一下这两位天使：达·芬奇笔下的天使柔和、明亮，带着他标志性的晕涂法；而韦罗基奥画的则更硬朗、更传统。达·芬奇还画了那片朦胧的远景。学生超越老师的故事，就定格在这一块画板上。",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "Verrocchio and Leonardo, The Baptism of Christ"
+      },
+      "viewing_tips": ["比较左侧天使（达·芬奇）与右侧天使（韦罗基奥）", "注意达·芬奇在远景中的晕涂法", "传说韦罗基奥看到达·芬奇的作品后放弃了绘画"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "古代铭文前厅",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "与铭文和古物相关的过渡空间，连接二层展区的各个房间。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "拉斐尔和米开朗基罗",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "展示拉斐尔和米开朗基罗作品的核心区域，是乌菲兹文艺复兴藏品中最重要的亮点之一。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "多尼圆形画（圣家族）",
+      "roomCode": "A38",
+      "artist": "米开朗基罗·博纳罗蒂",
+      "year": "c. 1506-1508",
+      "description": "这可是米开朗基罗唯一完成的木板绘画——要知道，他首先认为自己是个雕塑家！这幅画是富商阿尼奥洛·多尼为了自己的婚礼而委托创作的。关于这幅画还有一个著名的故事：米开朗基罗最初开价70杜卡特，但当多尼想讨价还价时，米开朗基罗直接把价格翻倍到了140杜卡特！千万别错过那个原装画框——是米开朗基罗亲自设计的，上面雕刻着基督、先知和女预言家的头像。",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "Michelangelo, Doni Tondo"
+      },
+      "viewing_tips": ["注意人物如何像雕塑般扭转", "背景中的裸体人物神秘莫测——可能是基督之前的异教灵魂", "原始画框也是米开朗基罗设计的"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "金翅雀圣母",
+      "roomCode": "A38",
+      "artist": "拉斐尔",
+      "year": "c. 1505-1506",
+      "description": "这是23岁的拉斐尔在1506年送出的一份结婚礼物！小约翰向基督递上一只金翅雀——象征着他未来的受难，传说这种小鸟的红头是在试图拔除基督荆棘冠上的刺时染上的。1547年，一场山体滑坡将这幅画砸成了17块碎片！一位画家同行用钉子把它重新拼接在一起，而一项长达10年的现代修复工程于2008年完成，终于让拉斐尔原作那明亮通透的色彩重见天日。",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "Raphael, Madonna del Cardellino"
+      },
+      "viewing_tips": ["金字塔形构图创造完美平衡", "注意拉斐尔从达·芬奇学来的柔和晕涂法", "画作在1547年破碎后经过修复"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "阿尼奥洛和玛达莱娜·多尼肖像",
+      "roomCode": "A38",
+      "artist": "拉斐尔",
+      "year": "c. 1506",
+      "description": "来认识一下这对同时委托过拉斐尔和米开朗基罗的权贵夫妇吧！布商阿尼奥洛·多尼曾试图和米开朗基罗讨价还价《多尼圆形画》的价格，结果最后付了双倍的钱。注意到玛达莱娜的姿势和《蒙娜丽莎》很像吗？那是因为拉斐尔当时正在研究达·芬奇的作品。她佩戴的独角兽吊坠镶嵌着红宝石、祖母绿和蓝宝石，高调展示着他们的财富。画板背面还有奥维德神话故事的场景——记得去看看！",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "Raphael, Portraits of Agnolo and Maddalena Doni"
+      },
+      "viewing_tips": ["与达·芬奇的蒙娜丽莎比较——注意玛达莱娜相似的姿势", "风景背景展示了拉斐尔对佛兰德绘画的借鉴", "华贵的珠宝展示了这对夫妇的财富"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "尼俄伯厅",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "与古典雕塑相关的宏伟展厅，是乌菲兹美术馆建筑上最引人注目的画廊空间之一。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "鹰身女妖圣母",
+      "roomCode": "A41",
+      "artist": "安德烈亚·德尔·萨尔托",
+      "year": "1517",
+      "description": "这位画家可真是不听指挥！修女们订的是圣博纳文图拉——他却画成了圣方济各。基座上那些被瓦萨里称为\"鹰身女妖\"的生物？其实是《启示录》里的末日蝗虫，而圣母正封印着地狱的入口！安德烈亚·德尔·萨尔托因其精湛的技艺被誉为\"无瑕画家\"，但他无视合同，创作出了一件远超预期更深刻的作品。",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "Andrea del Sarto, Madonna of the Harpies"
+      },
+      "viewing_tips": ["观察基座上的斯芬克斯（不是鹰身女妖）", "注意构图的完美平衡", "德尔·萨尔托被称为\"无瑕画家\""]
+    }
+  ],
+  "ui": {
+    "title": "二层",
+    "subtitle": "展厅A1-A41",
+    "back": "返回",
+    "previous": "上一页",
+    "next": "下一页",
+    "room": "展厅",
+    "artworks": "艺术作品"
+  }
+}

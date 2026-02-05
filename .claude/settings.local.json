@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.uffizi.it)",
+      "WebFetch(domain:www.khanacademy.org)",
+      "WebFetch(domain:smarthistory.org)",
+      "WebFetch(domain:www.dailyartmagazine.com)",
+      "WebFetch(domain:www.britannica.com)",
+      "WebFetch(domain:www.virtualuffizi.com)",
+      "WebFetch(domain:www.sandro-botticelli.com)",
+      "WebFetch(domain:owlcation.com)",
+      "WebFetch(domain:www.nationalgallery.org.uk)",
+      "WebFetch(domain:www.discoveringdavinci.com)",
+      "WebFetch(domain:www.artchive.com)",
+      "WebFetch(domain:www.leonardodavincisinventions.com)",
+      "WebFetch(domain:medicipatronsaints.wordpress.com)",
+      "WebFetch(domain:www.metmuseum.org)"
+    ]
+  }
+}

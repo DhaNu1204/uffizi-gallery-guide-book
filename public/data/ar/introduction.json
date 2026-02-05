@@ -1,0 +1,138 @@
+{
+  "id": "uffizi-introduction",
+  "rtl": true,
+  "title": "معرض أوفيتزي: التاريخ والمقدمة",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "ما هو معرض أوفيتزي",
+      "content": "يعد معرض أوفيتزي من أهم المتاحف الفنية في العالم، ويشتهر بشكل خاص بروائع الرسم الإيطالي من القرن الثالث عشر إلى القرن السابع عشر، فضلاً عن أعمال بارزة من المدارس الفنية لشمال أوروبا. يمتد مسار الزيارة اليوم بشكل رئيسي عبر الطابقين الأول والثاني من مبنى أوفيتزي.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "منظر خارجي لمعرض أوفيتزي"
+      },
+      "tags": ["نظرة عامة"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "لماذا تم بناؤه",
+      "content": "لم يُنشأ مجمع أوفيتزي في الأصل كمتحف. في عام 1560، كلّف كوزيمو الأول دي ميديتشي ببناء مبنى جديد لإيواء المكاتب الإدارية والقضائية في فلورنسا (\"أوفيتزي\" تعني المكاتب). صمم جورجو فازاري المشروع، مبتكراً التصميم الشهير على شكل حرف U مع أجنحة طويلة وحضور حضري بارز بجوار ساحة سينيوريا ونهر أرنو.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "التصميم المعماري لفازاري لأوفيتزي"
+      },
+      "tags": ["العمارة", "ميديتشي"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "كيف بدأ المتحف",
+      "content": "ترتبط أصول المتحف بفرانشيسكو الأول دي ميديتشي. في عام 1581، أنشأ معرضاً في الطابق العلوي من الجناح الشرقي، وُصف في أواخر القرن السادس عشر بأنه مجموعة رائعة من اللوحات والتماثيل والأشياء الثمينة. أصبح هذا المعرض المبكر نواة ما سيتطور ليصبح أوفيتزي كما نعرفه اليوم.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "تصوير تاريخي لمعرض أوفيتزي المبكر"
+      },
+      "tags": ["الأصول", "المجموعات"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "التريبونا",
+      "content": "بالقرب من المعرض الأصلي، اكتملت التريبونا عام 1584 على يد برناردو بوونتالنتي. صُممت كمساحة عرض مذهلة لأثمن كنوز آل ميديتشي، وأصبحت القلب الرمزي للمتحف المبكر: \"صندوق مجوهرات\" حيث عُرضت اللوحات والمنحوتات والأحجار الكريمة والأشياء النادرة للاحتفاء بقوة وذوق وثقافة آل ميديتشي.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "قاعة التريبونا في أوفيتزي"
+      },
+      "tags": ["التريبونا", "أبرز المعالم"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "ممر فازاري",
+      "content": "في عام 1565، ولاحتفالات زفاف فرانشيسكو الأول، أنشأ فازاري ممر فازاري المرتفع الذي يربط أوفيتزي بقصر بيتي. يعبر نهر أرنو فوق جسر فيكيو ويمر عبر كنيسة سانتا فيليتشيتا، وكان مخصصاً لآل ميديتشي وكبار رجال البلاط - مشروع حضري ذو معنى رمزي قوي وتعبير مباشر عن السلطة الأسرية.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "ممر فازاري يعبر جسر فيكيو"
+      },
+      "tags": ["ممر فازاري", "ميديتشي", "المدينة"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "من مجموعة أسرية إلى تراث عام",
+      "content": "مع مرور الوقت، توسعت مجموعات أوفيتزي وتعزز الدور العام للمتحف. جاءت لحظة حاسمة مع آخر وريثة لآل ميديتشي، آنا ماريا لويزا دي ميديتشي، التي ضمنت بقاء المجموعات في فلورنسا كتراث عام دائم. في القرون اللاحقة، واصلت سلالات وإدارات جديدة إعادة تنظيم المتحف وإثرائه، مشكّلة أوفيتزي كمؤسسة حديثة.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "صورة آنا ماريا لويزا دي ميديتشي"
+      },
+      "tags": ["التاريخ", "المجموعات"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "مسار الزيارة اليوم",
+      "content": "يُنظم مسار زيارة أوفيتزي على مستويين رئيسيين: يعرض الطابق الثاني الرسم الإيطالي المبكر حتى عصر النهضة، بينما يركز الطابق الأول بشكل خاص على عصر النهضة المتأخر والباروك والمدارس الأوروبية الرئيسية، إلى جانب مجموعات مخصصة. قد تتغير تخطيطات القاعات والعروض بسبب أعمال الترميم ومشاريع المتحف الجارية - اتبع دائماً الخريطة الرسمية واللافتات الموجودة في الموقع أثناء زيارتك.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "منظر حديث لممرات معرض أوفيتزي"
+      },
+      "tags": ["عملي", "المسار"]
+    }
+  ],
+  "ui": {
+    "title": "مقدمة",
+    "subtitle": "تاريخ معرض أوفيزي",
+    "back": "رجوع",
+    "previous": "السابق",
+    "next": "التالي",
+    "welcome": {
+      "appTitle": "أوفيزي مكشوف",
+      "appSubtitle": "دليلك الفني الشخصي",
+      "languagesAvailable": "15 لغة متاحة",
+      "enterButton": "دخول الدليل",
+      "offlineNote": "يعمل بدون إنترنت بعد التحميل الأول"
+    },
+    "languageModal": {
+      "title": "اختر اللغة",
+      "subtitle": "اختر لغتك المفضلة",
+      "searchPlaceholder": "البحث عن لغات...",
+      "popular": "شائعة",
+      "allLanguages": "جميع اللغات",
+      "results": "النتائج",
+      "noResults": "لم يتم العثور على لغات",
+      "noResultsHint": "جرب مصطلح بحث آخر",
+      "rtlEnabled": "تخطيط RTL مفعّل لـ"
+    },
+    "mainMenu": {
+      "header": "أوفيزي مكشوف",
+      "loading": "جاري تحميل بيانات المعرض...",
+      "errorTitle": "خطأ في تحميل البيانات",
+      "tryAgain": "حاول مرة أخرى",
+      "introduction": "مقدمة",
+      "introSubtitle": "تاريخ معرض أوفيزي",
+      "secondFloor": "الطابق الثاني",
+      "firstFloor": "الطابق الأول",
+      "artworks": "عمل فني",
+      "footer": "Florence With Locals · متاح بدون إنترنت"
+    },
+    "navigation": {
+      "introduction": "مقدمة",
+      "secondFloor": "الطابق 2",
+      "firstFloor": "الطابق 1",
+      "menu": "القائمة",
+      "backToList": "العودة للقائمة",
+      "list": "القائمة"
+    },
+    "floorPage": {
+      "artworksToDiscover": "عمل فني للاكتشاف",
+      "masterpieces": "روائع",
+      "exploreText": "اكتشف روائع هذا الطابق."
+    },
+    "artworkDetail": {
+      "viewingTips": "نصائح المشاهدة:",
+      "offlineNote": "*هذا المحتوى مخزّن محلياً ومتاح بدون إنترنت."
+    }
+  }
+}

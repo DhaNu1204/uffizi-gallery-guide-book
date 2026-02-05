@@ -1,0 +1,387 @@
+{
+  "floor": "Premier Étage",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "Le Premier Étage se concentre sur la Renaissance tardive, le Baroque et les principales écoles européennes, notamment la célèbre collection du Caravage.",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "Collection Contini-Bonacossi",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "Une sélection de peintures, sculptures et arts décoratifs exposée dans plusieurs salles. Elle enrichit la visite des Offices en présentant des œuvres importantes aux côtés de mobilier et d'objets qui aident à comprendre le collectionnisme et le goût à différentes époques.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "Saint Laurent Martyrisé",
+      "roomCode": "B8",
+      "artist": "Gian Lorenzo Bernini",
+      "year": "c. 1617",
+      "description": "Une sculpture baroque dramatique centrée sur le martyre de saint Laurent. Bernini est connu pour pousser la pierre vers une intensité réaliste - ici l'émotion et la tension physique sont conçues pour être ressenties de près.",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "Gian Lorenzo Bernini, Saint Laurent Martyrisé"
+      },
+      "viewing_tips": ["Remarquez comment Bernini capture le moment d'agonie", "L'œuvre fut créée quand Bernini n'avait qu'environ 18 ans", "Comparez avec ses œuvres ultérieures plus raffinées"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "Collection d'Autoportraits d'Artistes",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "L'une des plus importantes collections d'autoportraits d'artistes au monde, organisée dans plusieurs salles par période et thème. Elle offre une occasion rare de voir comment les artistes se présentaient - socialement, psychologiquement et professionnellement - à travers les siècles.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "Le XVIe Siècle",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "Un point de départ pour le parcours du Cinquecento (1500) au Premier Étage, introduisant le passage vers les styles matures de la Renaissance et la variété des écoles régionales représentées aux Offices.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "Madone au Long Cou",
+      "roomCode": "D4",
+      "artist": "Parmigianino",
+      "year": "c. 1534-1540",
+      "description": "Un emblème du Maniérisme : distorsions élégantes, proportions allongées et une conception spatiale délibérément inhabituelle. L'effet est à la fois raffiné et troublant, remplaçant l'équilibre de la Renaissance par une beauté plus expressive et stylisée.",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "Parmigianino, Madone au Long Cou"
+      },
+      "viewing_tips": ["Remarquez le cou et les doigts impossiblement allongés", "Le minuscule prophète en bas à droite semble être à une échelle différente", "L'œuvre resta inachevée à la mort de Parmigianino"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "Repos pendant la Fuite en Égypte",
+      "roomCode": "D4",
+      "artist": "Correggio",
+      "year": "c. 1520",
+      "description": "Un tendre moment de la Sainte Famille lors de la Fuite en Égypte. Correggio est admiré pour ses douces transitions de lumière et d'ombre et une chaleur qui rend les scènes sacrées paisiblement humaines et intimes.",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "Correggio, Repos pendant la Fuite en Égypte"
+      },
+      "viewing_tips": ["Remarquez la douce technique de sfumato de Correggio", "L'échelle intime crée une atmosphère dévotionnelle personnelle"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "Souper à Emmaüs",
+      "roomCode": "D12",
+      "artist": "Pontormo",
+      "year": "1525",
+      "description": "Une puissante interprétation maniériste du moment biblique où le Christ ressuscité est reconnu. Attendez-vous à un ton émotionnel intensifié, des couleurs surprenantes et une atmosphère plus psychologique que purement narrative.",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "Pontormo, Souper à Emmaüs"
+      },
+      "viewing_tips": ["Remarquez l'Œil de Dieu dans le triangle au-dessus du Christ", "Les figures semblent se pencher dans des directions inattendues", "Comparez avec la Cène plus rationnelle de Léonard"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "Retable Spedalingo",
+      "roomCode": "D12",
+      "artist": "Rosso Fiorentino",
+      "year": "1518",
+      "description": "Un retable associé à la révolution maniériste florentine. Le style de Rosso favorise souvent le caractère marqué, les poses dramatiques et un sens audacieux de l'invention comparé à l'harmonie de la Renaissance antérieure.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "Rosso Fiorentino, Retable Spedalingo"
+      },
+      "viewing_tips": ["Remarquez les couleurs discordantes et les formes angulaires", "Rosso travailla ensuite à Fontainebleau en France"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "Ange Musicien",
+      "roomCode": "D12",
+      "artist": "Rosso Fiorentino",
+      "year": "c. 1521",
+      "description": "Une étude de figure raffinée avec le tranchant expressif distinctif de Rosso. Même dans une seule figure, le dessin et la pose peuvent sembler chargés - moins de 'beauté' sereine, plus de personnalité et de tension.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "Rosso Fiorentino, Ange Musicien"
+      },
+      "viewing_tips": ["Remarquez la coloration orange-rouge inhabituelle", "L'expression intense distingue le style de Rosso"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "Portrait d'Éléonore de Tolède avec son Fils",
+      "roomCode": "D15",
+      "artist": "Agnolo Bronzino",
+      "year": "c. 1545",
+      "description": "Un portrait de cour associé au pouvoir et à la construction d'image des Médicis. Bronzino est célèbre pour sa précision, son élégance froide et la manière dont les tissus luxueux et les bijoux deviennent des déclarations de statut autant que de la décoration.",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "Bronzino, Portrait d'Éléonore de Tolède avec son Fils"
+      },
+      "viewing_tips": ["Étudiez l'incroyable détail de la robe en brocart", "Le tissu de la robe d'Éléonore fut trouvé préservé dans sa tombe", "Le fils est Giovanni, futur Cardinal de' Medici"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "Madonna del Popolo",
+      "roomCode": "D16",
+      "artist": "Federico Barocci",
+      "year": "1579",
+      "description": "Une œuvre dévotionnelle de Barocci, un artiste connu pour sa chaleur émotionnelle, son mouvement gracieux et sa couleur qui relie les idéaux de la Renaissance tardive à une spiritualité plus immédiate et engageante.",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "Federico Barocci, Madonna del Popolo"
+      },
+      "viewing_tips": ["Remarquez la douce palette de couleurs pastel", "Le style chaleureux de Barocci anticipa le Baroque"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "Saints Jean l'Évangéliste et François",
+      "roomCode": "D21",
+      "artist": "El Greco",
+      "year": "c. 1600",
+      "description": "Une peinture spirituelle et visionnaire typique du style d'El Greco : formes allongées, expression intense et sentiment que les figures appartiennent à un monde intérieur plutôt qu'à l'espace physique ordinaire.",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "El Greco, Saints Jean l'Évangéliste et François"
+      },
+      "viewing_tips": ["Remarquez les figures allongées caractéristiques d'El Greco", "La lumière surnaturelle suggère une présence divine"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "Vénus d'Urbino",
+      "roomCode": "D23",
+      "artist": "Titien",
+      "year": "1538",
+      "description": "Mark Twain l'a qualifiee de 'l'image la plus ignoble, la plus vile, la plus obscene que le monde possede', ce qui en fait le nu le plus commente de l'histoire de l'art ! Peinte en 1538 pour le Duc d'Urbino, elle arriva a Florence dans le cadre de la dot de mariage de Vittoria della Rovere aux Medicis en 1631. Remarquez le petit chien a ses pieds, symbole de fidelite, et les servantes preparant son trousseau de mariage en arriere-plan.",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "Titien, Vénus d'Urbino"
+      },
+      "viewing_tips": ["Remarquez les tons chair chauds et lumineux", "Le chien symbolise la fidélité", "Les servantes à l'arrière-plan préparent son coffre nuptial", "Cette peinture a influencé l'Olympia de Manet"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "Léda et le Cygne",
+      "roomCode": "D25",
+      "artist": "Tintoretto",
+      "year": "c. 1555",
+      "description": "Un sujet mythologique vénitien connu pour son énergie théâtrale et son mouvement pictural dramatique. Tintoretto est souvent reconnu pour ses compositions audacieuses et un sens vif et agité de l'action.",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "Tintoretto, Léda et le Cygne"
+      },
+      "viewing_tips": ["Remarquez la touche dynamique de Tintoretto", "La scène capture le mouvement et le drame"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "Esther et Assuérus",
+      "roomCode": "D26",
+      "artist": "Paolo Veronese",
+      "year": "c. 1556",
+      "description": "Une grande scène narrative de Veronese, connu pour sa mise en scène élégante, sa riche couleur et son sens du spectacle. Ses peintures se lisent souvent comme du théâtre : figures, architecture et gestes magnifiquement arrangés.",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "Paolo Veronese, Esther et Assuérus"
+      },
+      "viewing_tips": ["Remarquez la mise en scène théâtrale et les riches costumes", "Veronese excellait dans les grandes scènes narratives"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "Verone (Terrasse Panoramique)",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "Un important espace de terrasse/belvédère le long du parcours du Premier Étage. Il offre une pause dans la visite et fait également partie de l'expérience architecturale monumentale du musée côté Arno.",
+      "image": null,
+      "viewing_tips": ["Prenez un moment pour profiter des vues sur l'Arno", "C'est un bon point de repos à mi-parcours"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "Salle du Caravage",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "Une section phare du Premier Étage centrée sur le Caravage et les œuvres clés associées à son réalisme dramatique - forts contrastes de lumière et d'ombre, psychologie intense et présence physique directe.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "Judith Décapitant Holopherne",
+      "roomCode": "E4",
+      "artist": "Artemisia Gentileschi",
+      "year": "c. 1620",
+      "description": "Une puissante interprétation baroque de l'héroïne biblique Judith. L'œuvre d'Artemisia est connue pour son intensité, son réalisme et la pure force de la scène - une image que beaucoup de visiteurs se rappellent longtemps après leur départ.",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "Artemisia Gentileschi, Judith Décapitant Holopherne"
+      },
+      "viewing_tips": ["Remarquez la lutte physique représentée avec réalisme", "Artemisia a peint plusieurs versions de ce sujet", "Comparez avec les traitements des artistes masculins de la même scène"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "Sacrifice d'Isaac",
+      "roomCode": "E4",
+      "artist": "Caravaggio",
+      "year": "c. 1601-1602",
+      "description": "Un moment tendu de l'histoire d'Abraham et Isaac, présenté avec le réalisme caractéristique et l'immédiateté émotionnelle du Caravage. La scène est mise en scène pour sembler proche - presque inconfortablement présente.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "Caravaggio, Sacrifice d'Isaac"
+      },
+      "viewing_tips": ["Remarquez l'expression terrifiée d'Isaac", "L'ange arrive au tout dernier moment", "Le Caravage utilisait de vrais modèles, souvent des rues de Rome"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "Méduse",
+      "roomCode": "E4",
+      "artist": "Caravaggio",
+      "year": "c. 1597-1598",
+      "description": "Une image saisissante de la tête tranchée de Méduse, conçue pour choquer et captiver. Elle est célébrée pour son naturalisme virtuose et la sensation d'une image qui semble confronter directement le spectateur.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "Caravaggio, Méduse"
+      },
+      "viewing_tips": ["Peinte sur un bouclier cérémoniel", "Le sang jaillit encore du cou tranché", "Un cadeau pour le Grand-Duc de Toscane", "Certains croient que c'est un autoportrait du Caravage"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "Bacchus",
+      "roomCode": "E5",
+      "artist": "Caravaggio",
+      "year": "c. 1596-1597",
+      "description": "Une représentation sensuelle et réaliste de Bacchus, dieu du vin. L'approche du Caravage transforme la mythologie en quelque chose d'immédiat et d'humain - chair, fruit et regard rendus avec une proximité provocante.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "Caravaggio, Bacchus"
+      },
+      "viewing_tips": ["Remarquez la nature morte de fruits incroyablement réaliste", "Bacchus semble offrir au spectateur un verre de vin", "Le fruit légèrement gâté peut symboliser la mortalité", "Les rayons X ont révélé un minuscule autoportrait dans la carafe de vin"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "Van Honthorst et les Caravagesques",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "Une section liée à la peinture de 'lumière nocturne' - des œuvres où l'éclairage des bougies ou des lampes devient le moteur dramatique principal. Les artistes de ce cercle explorent souvent comment la lumière façonne les visages, les objets et l'atmosphère dans l'obscurité.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "Portrait d'un Vieil Homme",
+      "roomCode": "E7",
+      "artist": "Rembrandt van Rijn",
+      "year": "1665",
+      "description": "Un portrait émouvant associé à la capacité de Rembrandt à suggérer la vie intérieure à travers la lumière, la texture et l'expression subtile - moins axé sur l'apparat, plus sur la présence et l'humanité.",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "Rembrandt, Portrait d'un Vieil Homme"
+      },
+      "viewing_tips": ["Remarquez comment la lumière émerge de l'obscurité", "Les œuvres tardives de Rembrandt se concentrent sur la profondeur psychologique", "La touche rugueuse crée texture et vie"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "Portrait d'Isabella Brant",
+      "roomCode": "E7",
+      "artist": "Peter Paul Rubens",
+      "year": "c. 1620-1625",
+      "description": "Un portrait de Rubens, connu pour sa vitalité, sa chaleur et sa touche assurée. Comparé à l'introspection de Rembrandt, Rubens semble souvent plus ouvertement énergique et lumineux.",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "Peter Paul Rubens, Portrait d'Isabella Brant"
+      },
+      "viewing_tips": ["Isabella était la première épouse bien-aimée de Rubens", "Remarquez les tons de peau chauds et lumineux typiques de Rubens"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "Corridor de Vasari - Histoire",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Une brève section interprétative expliquant l'origine et le but du Corridor de Vasari - un passage surélevé reliant historiquement les espaces clés des Médicis et plus tard associé à d'importantes collections.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "Corridor de Vasari - Le Parcours",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Une section centrée sur le tracé du corridor et son rôle dans la conception urbaine de l'ère des Médicis, soulignant comment architecture et pouvoir étaient physiquement connectés à travers le mouvement contrôlé.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "Corridor de Vasari - Les Bustes Romains",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Une section présentant des portraits et bustes classiques liés à la longue tradition des Offices de collectionner des antiquités - une partie essentielle de la façon dont les Médicis encadraient culture, autorité et savoir.",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "Premier Étage",
+    "subtitle": "Salles B-E",
+    "back": "Retour",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "room": "Salle",
+    "artworks": "Œuvres"
+  }
+}

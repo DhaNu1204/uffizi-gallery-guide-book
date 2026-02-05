@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Galerie des Offices : Histoire et Introduction",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "Qu'est-ce que la Galerie des Offices",
+      "content": "Les Offices sont l'un des musées d'art les plus importants au monde, célèbre surtout pour ses chefs-d'œuvre de la peinture italienne du XIIIe au XVIIe siècle, ainsi que pour des œuvres majeures des écoles d'Europe du Nord. Aujourd'hui, le parcours de visite se déploie principalement sur les Premier et Deuxième Étages du bâtiment des Offices.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Vue extérieure de la Galerie des Offices"
+      },
+      "tags": ["aperçu"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Pourquoi Il Fut Construit",
+      "content": "Le complexe des Offices ne fut pas créé à l'origine comme musée. En 1560, Cosme Ier de Médicis commanda un nouveau bâtiment pour abriter les bureaux administratifs et judiciaires de Florence (les « uffizi », ou bureaux). Giorgio Vasari conçut le projet, créant le célèbre plan en U avec de longues ailes et une présence urbaine imposante près de la Piazza della Signoria et de l'Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Le projet architectural de Vasari pour les Offices"
+      },
+      "tags": ["architecture", "médicis"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "Comment le Musée a Commencé",
+      "content": "Les origines du musée sont liées à François Ier de Médicis. En 1581, il établit une galerie au niveau supérieur de l'Aile Est, décrite à la fin du XVIe siècle comme une magnifique collection de peintures, statues et objets précieux. Cette première galerie devint le noyau de ce qui allait devenir les Offices tels que nous les connaissons.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Représentation historique de la première Galerie des Offices"
+      },
+      "tags": ["origines", "collections"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "La Tribune",
+      "content": "Près de la galerie originale, la Tribune fut achevée en 1584 par Bernardo Buontalenti. Conçue comme un espace d'exposition spectaculaire pour les trésors les plus précieux des Médicis, elle devint le cœur symbolique du premier musée : un « écrin » où peinture, sculpture, gemmes et objets rares étaient mis en scène pour célébrer le pouvoir, le goût et le savoir des Médicis.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "La salle de la Tribune aux Offices"
+      },
+      "tags": ["tribune", "points-forts"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "Le Corridor de Vasari",
+      "content": "En 1565, pour les célébrations du mariage de François Ier, Vasari créa le Corridor de Vasari surélevé reliant les Offices au Palais Pitti. Traversant l'Arno sur le Ponte Vecchio et passant par Santa Felicita, il était réservé aux Médicis et aux hautes figures de la cour - un projet urbain au fort sens symbolique et expression directe du pouvoir dynastique.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "Le Corridor de Vasari traversant le Ponte Vecchio"
+      },
+      "tags": ["corridor-vasari", "médicis", "ville"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "De Collection Dynastique à Patrimoine Public",
+      "content": "Au fil du temps, les collections des Offices se sont enrichies et le rôle public du musée s'est renforcé. Un moment décisif survint avec la dernière héritière des Médicis, Anne-Marie-Louise de Médicis, qui s'assura que les collections resteraient à Florence comme patrimoine public durable. Dans les siècles suivants, de nouvelles dynasties et administrations ont continué à réorganiser et enrichir le musée, façonnant les Offices en institution moderne.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Portrait d'Anne-Marie-Louise de Médicis"
+      },
+      "tags": ["histoire", "collections"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "Le Parcours de Visite Aujourd'hui",
+      "content": "Le parcours de visite des Offices est organisé sur deux niveaux principaux : le Deuxième Étage présente la peinture italienne des origines à la Renaissance, tandis que le Premier Étage se concentre notamment sur la Renaissance tardive, le Baroque et les principales écoles européennes, ainsi que des collections dédiées. La disposition des salles peut changer en raison de la conservation et des projets muséaux en cours - suivez toujours le plan officiel et la signalétique lors de votre visite.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Vue moderne des corridors de la Galerie des Offices"
+      },
+      "tags": ["pratique", "parcours"]
+    }
+  ],
+  "ui": {
+    "title": "Introduction",
+    "subtitle": "Histoire de la Galerie des Offices",
+    "back": "Retour",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "welcome": {
+      "appTitle": "Uffizi Dévoilé",
+      "appSubtitle": "Votre Guide d'Art Personnel",
+      "languagesAvailable": "15 langues disponibles",
+      "enterButton": "Entrer dans le Guide",
+      "offlineNote": "Fonctionne hors ligne après le premier chargement"
+    },
+    "languageModal": {
+      "title": "Sélectionner la Langue",
+      "subtitle": "Choisissez votre langue préférée",
+      "searchPlaceholder": "Rechercher des langues...",
+      "popular": "Populaires",
+      "allLanguages": "Toutes les Langues",
+      "results": "Résultats",
+      "noResults": "Aucune langue trouvée",
+      "noResultsHint": "Essayez un autre terme de recherche",
+      "rtlEnabled": "Mise en page RTL activée pour"
+    },
+    "mainMenu": {
+      "header": "Uffizi Dévoilé",
+      "loading": "Chargement des données...",
+      "errorTitle": "Erreur de chargement",
+      "tryAgain": "Réessayer",
+      "introduction": "Introduction",
+      "introSubtitle": "Histoire de la Galerie des Offices",
+      "secondFloor": "Deuxième Étage",
+      "firstFloor": "Premier Étage",
+      "artworks": "œuvres d'art",
+      "footer": "Florence With Locals · Disponible Hors Ligne"
+    },
+    "navigation": {
+      "introduction": "Introduction",
+      "secondFloor": "2e Étage",
+      "firstFloor": "1er Étage",
+      "menu": "Menu",
+      "backToList": "Retour à la Liste",
+      "list": "Liste"
+    },
+    "floorPage": {
+      "artworksToDiscover": "œuvres d'art à découvrir",
+      "masterpieces": "Chefs-d'œuvre",
+      "exploreText": "Explorez les chefs-d'œuvre de cet étage."
+    },
+    "artworkDetail": {
+      "viewingTips": "Conseils de Visite:",
+      "offlineNote": "*Ce contenu est stocké localement et accessible sans internet."
+    }
+  }
+}

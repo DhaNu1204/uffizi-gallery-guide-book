@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Uffizien-Galerie: Geschichte & Einführung",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "Was die Uffizien sind",
+      "content": "Die Uffizien sind eines der bedeutendsten Kunstmuseen der Welt, berühmt vor allem für ihre Meisterwerke der italienischen Malerei vom 13. bis zum 17. Jahrhundert sowie für wichtige Werke der nordeuropäischen Schulen. Der Besucherrundgang erstreckt sich heute hauptsächlich über das erste und zweite Stockwerk des Uffizien-Gebäudes.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Außenansicht der Uffizien-Galerie"
+      },
+      "tags": ["überblick"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Warum es gebaut wurde",
+      "content": "Der Uffizien-Komplex wurde ursprünglich nicht als Museum errichtet. 1560 beauftragte Cosimo I. de' Medici ein neues Gebäude zur Unterbringung der florentinischen Verwaltungs- und Justizbüros (die \"uffizi\" oder Büros). Giorgio Vasari entwarf das Projekt und schuf den berühmten U-förmigen Grundriss mit langen Flügeln und einer beeindruckenden städtischen Präsenz neben der Piazza della Signoria und dem Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Vasaris architektonischer Entwurf der Uffizien"
+      },
+      "tags": ["architektur", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "Wie das Museum begann",
+      "content": "Die Ursprünge des Museums sind mit Francesco I. de' Medici verbunden. 1581 richtete er eine Galerie im obersten Stockwerk des Ostflügels ein, die Ende des 16. Jahrhunderts als prächtige Sammlung von Gemälden, Statuen und kostbaren Objekten beschrieben wurde. Diese frühe Galerie wurde zum Kern dessen, was zu den Uffizien heranwachsen sollte, wie wir sie heute kennen.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Historische Darstellung der frühen Uffizien-Galerie"
+      },
+      "tags": ["ursprünge", "sammlungen"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "Die Tribuna",
+      "content": "Nahe der ursprünglichen Galerie wurde die Tribuna 1584 von Bernardo Buontalenti fertiggestellt. Als spektakulärer Ausstellungsraum für die wertvollsten Schätze der Medici konzipiert, wurde sie zum symbolischen Herzen des frühen Museums: ein \"Schmuckkästchen\", in dem Malerei, Skulptur, Edelsteine und seltene Objekte inszeniert wurden, um Macht, Geschmack und Gelehrsamkeit der Medici zu feiern.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "Der Tribuna-Raum in den Uffizien"
+      },
+      "tags": ["tribuna", "höhepunkte"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "Der Vasari-Korridor",
+      "content": "1565 schuf Vasari für die Hochzeitsfeierlichkeiten von Francesco I. den erhöhten Vasari-Korridor, der die Uffizien mit dem Palazzo Pitti verbindet. Er überquert den Arno über die Ponte Vecchio und führt durch Santa Felicita - er war den Medici und hohen Hofwürdenträgern vorbehalten, ein urbanes Projekt mit starker symbolischer Bedeutung und direktem Ausdruck dynastischer Macht.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "Der Vasari-Korridor über der Ponte Vecchio"
+      },
+      "tags": ["vasari-korridor", "medici", "stadt"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "Von der Dynastischen Sammlung zum Öffentlichen Erbe",
+      "content": "Im Laufe der Zeit erweiterten sich die Sammlungen der Uffizien und die öffentliche Rolle des Museums wurde gestärkt. Ein entscheidender Moment kam mit der letzten Medici-Erbin, Anna Maria Luisa de' Medici, die sicherstellte, dass die Sammlungen als bleibendes öffentliches Erbe in Florenz verbleiben. In späteren Jahrhunderten reorganisierten und bereicherten neue Dynastien und Verwaltungen das Museum und formten die Uffizien zu einer modernen Institution.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Porträt von Anna Maria Luisa de' Medici"
+      },
+      "tags": ["geschichte", "sammlungen"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "Der Besucherrundgang Heute",
+      "content": "Der Besucherrundgang der Uffizien ist auf zwei Hauptebenen organisiert: Das zweite Stockwerk präsentiert frühe italienische Malerei bis zur Renaissance, während sich das erste Stockwerk besonders auf Spätrenaissance, Barock und wichtige europäische Schulen sowie spezielle Sammlungen konzentriert. Raumanordnungen und Ausstellungen können sich aufgrund von Restaurierungsarbeiten und laufenden Museumsprojekten ändern - folgen Sie während Ihres Besuchs immer dem offiziellen Plan und den Beschilderungen vor Ort.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Moderne Ansicht der Korridore der Uffizien-Galerie"
+      },
+      "tags": ["praktisch", "rundgang"]
+    }
+  ],
+  "ui": {
+    "title": "Einführung",
+    "subtitle": "Geschichte der Uffizien-Galerie",
+    "back": "Zurück",
+    "previous": "Vorherige",
+    "next": "Nächste",
+    "welcome": {
+      "appTitle": "Uffizien Enthüllt",
+      "appSubtitle": "Ihr Persönlicher Kunstführer",
+      "languagesAvailable": "15 Sprachen verfügbar",
+      "enterButton": "Galerie-Guide Starten",
+      "offlineNote": "Funktioniert offline nach dem ersten Laden"
+    },
+    "languageModal": {
+      "title": "Sprache Auswählen",
+      "subtitle": "Wählen Sie Ihre bevorzugte Sprache",
+      "searchPlaceholder": "Sprachen suchen...",
+      "popular": "Beliebt",
+      "allLanguages": "Alle Sprachen",
+      "results": "Ergebnisse",
+      "noResults": "Keine Sprachen gefunden",
+      "noResultsHint": "Versuchen Sie einen anderen Suchbegriff",
+      "rtlEnabled": "RTL-Layout aktiviert für"
+    },
+    "mainMenu": {
+      "header": "Uffizien Enthüllt",
+      "loading": "Galerie-Daten werden geladen...",
+      "errorTitle": "Fehler beim Laden",
+      "tryAgain": "Erneut Versuchen",
+      "introduction": "Einführung",
+      "introSubtitle": "Geschichte der Uffizien-Galerie",
+      "secondFloor": "Zweites Stockwerk",
+      "firstFloor": "Erstes Stockwerk",
+      "artworks": "Kunstwerke",
+      "footer": "Florence With Locals · Offline Verfügbar"
+    },
+    "navigation": {
+      "introduction": "Einführung",
+      "secondFloor": "2. Stock",
+      "firstFloor": "1. Stock",
+      "menu": "Menü",
+      "backToList": "Zurück zur Liste",
+      "list": "Liste"
+    },
+    "floorPage": {
+      "artworksToDiscover": "Kunstwerke zu entdecken",
+      "masterpieces": "Meisterwerke",
+      "exploreText": "Entdecken Sie die Meisterwerke dieser Etage."
+    },
+    "artworkDetail": {
+      "viewingTips": "Betrachtungstipps:",
+      "offlineNote": "*Dieser Inhalt ist lokal gespeichert und ohne Internet zugänglich."
+    }
+  }
+}

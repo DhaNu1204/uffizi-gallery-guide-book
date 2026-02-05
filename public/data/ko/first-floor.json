@@ -1,0 +1,387 @@
+{
+  "floor": "1층",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "1층은 후기 르네상스, 바로크 및 주요 유럽 화파에 초점을 맞추고 있으며, 유명한 카라바조 컬렉션을 포함합니다.",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "콘티니-보나코시 컬렉션",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "여러 전시실에 걸쳐 전시되는 엄선된 회화, 조각 및 장식 예술품. 중요한 작품들과 함께 가구와 물건들을 전시하여 방문객들이 다양한 시대의 수집 활동과 취향을 이해하는 데 도움을 줌으로써 우피치 방문에 깊이를 더합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "성 라우렌시오의 순교",
+      "roomCode": "B8",
+      "artist": "잔 로렌초 베르니니",
+      "year": "약 1617년",
+      "description": "성 라우렌시오의 순교를 중심으로 한 극적인 바로크 조각. 베르니니는 돌을 생생한 강렬함으로 이끌어내는 것으로 유명합니다. 여기서 감정과 신체적 긴장감은 가까이서 느껴질 수 있도록 의도되었습니다.",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "잔 로렌초 베르니니, 성 라우렌시오의 순교"
+      },
+      "viewing_tips": ["베르니니가 고통의 순간을 어떻게 포착했는지 주목하세요", "이 작품은 베르니니가 약 18세였을 때 제작되었습니다", "그의 후기 더 정교한 작품들과 비교해 보세요"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "예술가 자화상 컬렉션",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "세계에서 가장 중요한 예술가 자화상 컬렉션 중 하나로, 시대와 주제별로 여러 전시실에 걸쳐 구성되어 있습니다. 수세기에 걸쳐 예술가들이 사회적, 심리적, 전문적으로 자신을 어떻게 표현했는지 볼 수 있는 드문 기회를 제공합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "16세기",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "1층의 친퀘첸토(1500년대) 경로의 출발점으로, 성숙한 르네상스 양식으로의 전환과 우피치에서 대표되는 지역 화파의 다양성을 소개합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "긴 목의 성모",
+      "roomCode": "D4",
+      "artist": "파르미자니노",
+      "year": "약 1534-1540년",
+      "description": "매너리즘의 특징: 우아한 왜곡, 길어진 비율, 의도적으로 특이한 공간 디자인. 그 효과는 정제되면서도 불안하며, 르네상스의 균형을 더 표현적이고 양식화된 아름다움으로 대체합니다.",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "파르미자니노, 긴 목의 성모"
+      },
+      "viewing_tips": ["불가능할 정도로 길어진 목과 손가락을 주목하세요", "오른쪽 하단의 작은 예언자는 다른 비율에 있는 것처럼 보입니다", "이 작품은 파르미자니노가 사망할 때 미완성으로 남았습니다"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "이집트 피난 중의 휴식",
+      "roomCode": "D4",
+      "artist": "코레조",
+      "year": "약 1520년",
+      "description": "이집트 피난 중 성가족의 다정한 순간. 코레조는 빛과 그림자의 부드러운 전환과 성스러운 장면을 조용히 인간적이고 친밀하게 느끼게 하는 따뜻함으로 칭송받습니다.",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "코레조, 이집트 피난 중의 휴식"
+      },
+      "viewing_tips": ["코레조의 부드러운 스푸마토 기법을 주목하세요", "친밀한 규모가 개인적인 경건한 분위기를 만들어냅니다"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "엠마오에서의 만찬",
+      "roomCode": "D12",
+      "artist": "폰토르모",
+      "year": "1525년",
+      "description": "부활하신 그리스도가 인식되는 성경적 순간의 강력한 매너리즘적 해석. 고조된 감정적 톤, 놀라운 색채, 순수한 서사보다 더 심리적으로 느껴지는 분위기를 기대하세요.",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "폰토르모, 엠마오에서의 만찬"
+      },
+      "viewing_tips": ["그리스도 위 삼각형 안의 하나님의 눈을 주목하세요", "인물들은 예상치 못한 방향으로 기울어져 있는 것처럼 보입니다", "레오나르도의 더 합리적인 '최후의 만찬'과 비교해 보세요"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "스페달링고 제단화",
+      "roomCode": "D12",
+      "artist": "로소 피오렌티노",
+      "year": "1518년",
+      "description": "피렌체 매너리즘 혁명과 관련된 제단화. 로소의 스타일은 종종 초기 르네상스 조화에 비해 날카로운 성격, 극적인 포즈, 대담한 창의성을 선호합니다.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "로소 피오렌티노, 스페달링고 제단화"
+      },
+      "viewing_tips": ["불협화음적인 색상과 각진 형태를 주목하세요", "로소는 나중에 프랑스 퐁텐블로에서 활동했습니다"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "악기를 연주하는 천사",
+      "roomCode": "D12",
+      "artist": "로소 피오렌티노",
+      "year": "약 1521년",
+      "description": "로소의 독특한 표현적 특성을 가진 정교한 인물 연구. 단일 인물에서도 드로잉과 포즈는 긴장감을 띨 수 있습니다. 차분한 '아름다움'보다 더 많은 개성과 긴장감이 있습니다.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "로소 피오렌티노, 악기를 연주하는 천사"
+      },
+      "viewing_tips": ["특이한 주황빛 빨간색 채색을 주목하세요", "강렬한 표현이 로소의 스타일을 구별합니다"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "톨레도의 엘레오노라와 아들의 초상",
+      "roomCode": "D15",
+      "artist": "아뇰로 브론치노",
+      "year": "약 1545년",
+      "description": "메디치 가문의 권력과 이미지 형성과 관련된 궁정 초상화. 브론치노는 정밀함, 차가운 우아함, 그리고 화려한 직물과 보석이 장식만큼이나 지위의 표현이 되는 방식으로 유명합니다.",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "브론치노, 톨레도의 엘레오노라와 아들의 초상"
+      },
+      "viewing_tips": ["브로케이드 드레스의 놀라운 세부 사항을 연구하세요", "엘레오노라의 드레스 천은 그녀의 무덤에서 보존된 상태로 발견되었습니다", "아들은 미래의 추기경 조반니 데 메디치입니다"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "민중의 성모",
+      "roomCode": "D16",
+      "artist": "페데리코 바로치",
+      "year": "1579년",
+      "description": "감정적 따뜻함, 우아한 움직임, 후기 르네상스 이상과 더 직접적이고 매력적인 영성을 연결하는 색채로 알려진 예술가 바로치의 신앙적 작품.",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "페데리코 바로치, 민중의 성모"
+      },
+      "viewing_tips": ["부드러운 파스텔 색조 팔레트를 주목하세요", "바로치의 따뜻한 스타일은 바로크를 예고했습니다"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "복음사가 성 요한과 성 프란치스코",
+      "roomCode": "D21",
+      "artist": "엘 그레코",
+      "year": "약 1600년",
+      "description": "엘 그레코 스타일의 전형적인 영적이고 환상적인 그림: 길어진 형태, 강렬한 표현, 그리고 인물들이 일반적인 물리적 공간이 아닌 내면 세계에 속해 있다는 느낌.",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "엘 그레코, 복음사가 성 요한과 성 프란치스코"
+      },
+      "viewing_tips": ["엘 그레코의 특징적인 길어진 인물들을 주목하세요", "초자연적인 빛이 신성한 존재를 암시합니다"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "우르비노의 비너스",
+      "roomCode": "D23",
+      "artist": "티치아노",
+      "year": "1538년",
+      "description": "마크 트웨인은 이 작품을 '세상에서 가장 음란하고, 가장 저속하고, 가장 외설적인 그림'이라고 불렀는데—덕분에 미술사에서 가장 많이 회자되는 누드화가 되었죠! 1538년 우르비노 공작을 위해 그려진 이 작품은 1631년 비토리아 델라 로베레가 메디치 가문과 결혼할 때 혼수품의 일부로 피렌체에 도착했답니다. 발치에 있는 작은 강아지를 주목해 보세요—충성의 상징이에요—그리고 배경에서 시녀들이 그녀의 혼수 상자를 준비하고 있는 모습도요.",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "티치아노, 우르비노의 비너스"
+      },
+      "viewing_tips": ["따뜻하고 빛나는 피부 톤을 주목하세요", "개는 충성을 상징합니다", "배경의 시녀들이 그녀의 혼수 상자를 준비하고 있습니다", "이 그림은 마네의 '올랭피아'에 영향을 주었습니다"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "레다와 백조",
+      "roomCode": "D25",
+      "artist": "틴토레토",
+      "year": "약 1555년",
+      "description": "연극적 에너지와 극적인 회화적 움직임으로 알려진 베네치아 신화 주제. 틴토레토는 대담한 구성과 생생하고 불안정한 행동감으로 종종 인정받습니다.",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "틴토레토, 레다와 백조"
+      },
+      "viewing_tips": ["틴토레토의 역동적인 붓놀림을 주목하세요", "이 장면은 움직임과 드라마를 포착합니다"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "에스더와 아하수에로",
+      "roomCode": "D26",
+      "artist": "파올로 베로네세",
+      "year": "약 1556년",
+      "description": "우아한 연출, 풍부한 색채, 화려함의 감각으로 알려진 베로네세의 웅장한 서사적 장면. 그의 그림들은 종종 연극처럼 읽힙니다: 아름답게 배열된 인물들, 건축물, 제스처.",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "파올로 베로네세, 에스더와 아하수에로"
+      },
+      "viewing_tips": ["연극적인 연출과 화려한 의상을 주목하세요", "베로네세는 웅장한 서사적 장면에 뛰어났습니다"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "베로네 (파노라마 테라스)",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "1층 경로를 따라 있는 주요 테라스/전망대 공간. 방문 중 휴식을 제공하며 아르노 강 쪽 박물관의 기념비적인 건축적 경험의 일부이기도 합니다.",
+      "image": null,
+      "viewing_tips": ["아르노 강의 전망을 감상할 시간을 가지세요", "이곳은 층 중간의 좋은 휴식 지점입니다"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "카라바조 전시실",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "카라바조와 그의 극적인 사실주의와 관련된 주요 작품들에 초점을 맞춘 1층의 하이라이트 섹션. 강한 명암 대비, 강렬한 심리 묘사, 직접적인 물리적 존재감이 특징입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "홀로페르네스를 참수하는 유디트",
+      "roomCode": "E4",
+      "artist": "아르테미시아 젠틸레스키",
+      "year": "약 1620년",
+      "description": "성경의 여성 영웅 유디트에 대한 강력한 바로크적 해석. 아르테미시아의 작품은 그 강렬함, 사실주의, 그리고 장면의 순수한 힘으로 알려져 있습니다. 많은 방문객들이 떠난 후에도 오래 기억하는 이미지입니다.",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "아르테미시아 젠틸레스키, 홀로페르네스를 참수하는 유디트"
+      },
+      "viewing_tips": ["사실적으로 묘사된 신체적 투쟁을 주목하세요", "아르테미시아는 이 주제의 여러 버전을 그렸습니다", "같은 장면에 대한 남성 예술가들의 처리와 비교해 보세요"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "이삭의 희생",
+      "roomCode": "E4",
+      "artist": "카라바조",
+      "year": "약 1601-1602년",
+      "description": "아브라함과 이삭 이야기의 긴장된 순간으로, 카라바조 특유의 사실주의와 감정적 즉시성으로 제시됩니다. 장면은 가깝게 느껴지도록 연출되어 있습니다. 거의 불편할 정도로 현재감이 있습니다.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "카라바조, 이삭의 희생"
+      },
+      "viewing_tips": ["이삭의 공포에 질린 표정을 주목하세요", "천사가 가능한 마지막 순간에 도착합니다", "카라바조는 종종 로마 거리에서 실제 모델을 사용했습니다"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "메두사",
+      "roomCode": "E4",
+      "artist": "카라바조",
+      "year": "약 1597-1598년",
+      "description": "충격을 주고 매료시키도록 디자인된 메두사의 잘린 머리의 강렬한 이미지. 그 탁월한 자연주의와 관객을 직접 마주하는 듯한 이미지의 감각으로 찬사를 받습니다.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "카라바조, 메두사"
+      },
+      "viewing_tips": ["의례용 방패에 그려졌습니다", "피가 여전히 잘린 목에서 뿜어져 나옵니다", "토스카나 대공에게 보낸 선물이었습니다", "일부는 이것이 카라바조의 자화상이라고 믿습니다"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "바쿠스",
+      "roomCode": "E5",
+      "artist": "카라바조",
+      "year": "약 1596-1597년",
+      "description": "포도주의 신 바쿠스의 관능적이고 사실적인 묘사. 카라바조의 접근 방식은 신화를 즉각적이고 인간적인 것으로 바꿉니다. 살, 과일, 시선이 도발적인 근접성으로 표현됩니다.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "카라바조, 바쿠스"
+      },
+      "viewing_tips": ["놀랍도록 사실적인 과일 정물화를 주목하세요", "바쿠스는 관람자에게 와인 잔을 권하는 것처럼 보입니다", "약간 상한 과일은 죽음을 상징할 수 있습니다", "X선 검사에서 와인 카라페 안에 작은 자화상이 발견되었습니다"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "반 혼토르스트와 카라바지스티",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "양초나 램프의 조명이 주요 극적 동력이 되는 '야간 조명' 회화와 연결된 섹션. 이 영역의 예술가들은 종종 어둠 속에서 빛이 얼굴, 사물, 분위기를 어떻게 형성하는지 탐구합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "노인의 초상",
+      "roomCode": "E7",
+      "artist": "렘브란트 판 레인",
+      "year": "1665년",
+      "description": "빛, 질감, 미묘한 표현을 통해 내면의 삶을 암시하는 렘브란트의 능력과 관련된 감동적인 초상화. 과시보다 존재감과 인간성에 더 초점을 맞춥니다.",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "렘브란트, 노인의 초상"
+      },
+      "viewing_tips": ["빛이 어둠에서 어떻게 나타나는지 주목하세요", "렘브란트의 후기 작품은 심리적 깊이에 초점을 맞춥니다", "거친 붓놀림이 질감과 생명력을 만들어냅니다"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "이사벨라 브란트의 초상",
+      "roomCode": "E7",
+      "artist": "피터 파울 루벤스",
+      "year": "약 1620-1625년",
+      "description": "활력, 따뜻함, 자신감 있는 붓놀림으로 알려진 루벤스의 초상화. 렘브란트의 내성과 비교하면, 루벤스는 종종 더 개방적으로 에너지 넘치고 빛나는 느낌을 줍니다.",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "피터 파울 루벤스, 이사벨라 브란트의 초상"
+      },
+      "viewing_tips": ["이사벨라는 루벤스가 사랑한 첫 번째 아내였습니다", "루벤스에게 전형적인 따뜻하고 빛나는 피부 톤을 주목하세요"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "바사리 회랑 - 역사",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "바사리 회랑의 기원과 목적을 설명하는 짧은 해설 섹션. 역사적으로 주요 메디치 공간들을 연결하고 나중에 중요한 컬렉션과 관련된 높은 통로입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "바사리 회랑 - 경로",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "회랑의 경로와 메디치 시대 도시 설계에서의 역할에 초점을 맞춘 섹션으로, 건축과 권력이 통제된 이동을 통해 어떻게 물리적으로 연결되었는지 강조합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "바사리 회랑 - 로마 흉상",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "우피치의 오랜 고대 유물 수집 전통과 연결된 고전 초상화와 흉상을 소개하는 섹션. 메디치 가문이 어떻게 문화, 권위, 학문을 구성했는지의 핵심적인 부분입니다.",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "1층",
+    "subtitle": "B-E 전시실",
+    "back": "뒤로",
+    "previous": "이전",
+    "next": "다음",
+    "room": "전시실",
+    "artworks": "작품"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "floor": "Eerste Verdieping",
+  "floorId": "first",
+  "floorNumber": 1,
+  "lastVerified": "2025-11",
+  "description": "De Eerste Verdieping richt zich op de late Renaissance, Barok en belangrijke Europese scholen, waaronder de befaamde Caravaggio-collectie.",
+  "items": [
+    {
+      "id": "contini-bonacossi-collection",
+      "type": "collection",
+      "title": "Contini-Bonacossi Collectie",
+      "roomCode": "B2-B8",
+      "artist": null,
+      "year": null,
+      "description": "Een gecureerde selectie van schilderijen, beeldhouwwerken en decoratieve kunsten, tentoongesteld in meerdere zalen. Het verrijkt het Uffizi-bezoek door belangrijke werken te tonen samen met meubels en objecten die bezoekers helpen het verzamelen en de smaak in verschillende periodes te begrijpen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "saint-lawrence-martyred-bernini",
+      "type": "sculpture",
+      "title": "Het Martelaarschap van de Heilige Laurentius",
+      "roomCode": "B8",
+      "artist": "Gian Lorenzo Bernini",
+      "year": "ca. 1617",
+      "description": "Een dramatisch barok beeldhouwwerk gewijd aan het martelaarschap van de Heilige Laurentius. Bernini staat bekend om het brengen van steen naar levensechte intensiteit - hier zijn emotie en fysieke spanning bedoeld om van dichtbij te worden ervaren.",
+      "image": {
+        "hero": "/images/hero/Bernini_Saint_Lawrence_Martyred.webp",
+        "thumbnail": "/images/thumbnails/Bernini_Saint_Lawrence_Martyred.webp",
+        "alt": "Gian Lorenzo Bernini, Het Martelaarschap van de Heilige Laurentius"
+      },
+      "viewing_tips": ["Let op hoe Bernini het moment van doodsstrijd vangt", "Het werk werd gemaakt toen Bernini slechts ongeveer 18 jaar oud was", "Vergelijk met zijn latere, meer verfijnde werken"]
+    },
+    {
+      "id": "artists-self-portraits-collection",
+      "type": "collection",
+      "title": "Collectie Zelfportretten van Kunstenaars",
+      "roomCode": "C1-C12",
+      "artist": null,
+      "year": null,
+      "description": "Een van 's werelds belangrijkste collecties zelfportretten van kunstenaars, georganiseerd in meerdere zalen naar periode en thema. Het biedt een zeldzame kans om te zien hoe kunstenaars zichzelf - sociaal, psychologisch en professioneel - door de eeuwen heen hebben gepresenteerd.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-sixteenth-century",
+      "type": "section",
+      "title": "De Zestiende Eeuw",
+      "roomCode": "D1",
+      "artist": null,
+      "year": null,
+      "description": "Een startpunt voor de Cinquecento-route (1500s) op de Eerste Verdieping, met een introductie van de verschuiving naar rijpe Renaissance-stijlen en de verscheidenheid aan regionale scholen vertegenwoordigd in de Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-with-the-long-neck-parmigianino",
+      "type": "artwork",
+      "title": "Madonna met de Lange Hals",
+      "roomCode": "D4",
+      "artist": "Parmigianino",
+      "year": "ca. 1534-1540",
+      "description": "Een kenmerk van het Maniërisme: elegante vervormingen, verlengde proporties en een opzettelijk ongebruikelijk ruimtelijk ontwerp. Het effect is zowel verfijnd als verontrustend, waarbij Renaissance-evenwicht wordt vervangen door een meer expressieve, gestileerde schoonheid.",
+      "image": {
+        "hero": "/images/hero/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "thumbnail": "/images/thumbnails/PARMIGIANINO_MADONNA_LONG_NECK.webp",
+        "alt": "Parmigianino, Madonna met de Lange Hals"
+      },
+      "viewing_tips": ["Let op de onmogelijk verlengde hals en vingers", "De kleine profeet rechtsonder lijkt op een andere schaal te zijn", "Het werk bleef onvoltooid bij Parmigianino's dood"]
+    },
+    {
+      "id": "rest-on-the-flight-into-egypt-correggio",
+      "type": "artwork",
+      "title": "Rust op de Vlucht naar Egypte",
+      "roomCode": "D4",
+      "artist": "Correggio",
+      "year": "ca. 1520",
+      "description": "Een teder moment van de Heilige Familie tijdens de Vlucht naar Egypte. Correggio wordt bewonderd om zachte overgangen van licht en schaduw en een warmte die heilige scènes stil menselijk en intiem laat aanvoelen.",
+      "image": {
+        "hero": "/images/hero/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "thumbnail": "/images/thumbnails/Correggio_Rest_on_the_Flight_into_Egypt.webp",
+        "alt": "Correggio, Rust op de Vlucht naar Egypte"
+      },
+      "viewing_tips": ["Let op Correggio's zachte sfumato-techniek", "De intieme schaal creëert een persoonlijke devotionele sfeer"]
+    },
+    {
+      "id": "supper-at-emmaus-pontormo",
+      "type": "artwork",
+      "title": "Het Avondmaal in Emmaüs",
+      "roomCode": "D12",
+      "artist": "Pontormo",
+      "year": "1525",
+      "description": "Een krachtige maniëristische interpretatie van het bijbelse moment waarop de verrezen Christus wordt herkend. Verwacht een verhoogde emotionele toon, verrassende kleuren en een sfeer die meer psychologisch dan puur verhalend aanvoelt.",
+      "image": {
+        "hero": "/images/hero/Pontormo_Supper_at_Emmaus.webp",
+        "thumbnail": "/images/thumbnails/Pontormo_Supper_at_Emmaus.webp",
+        "alt": "Pontormo, Het Avondmaal in Emmaüs"
+      },
+      "viewing_tips": ["Let op het Oog van God in de driehoek boven Christus", "De figuren lijken in onverwachte richtingen te leunen", "Vergelijk met Leonardo's rationeler Laatste Avondmaal"]
+    },
+    {
+      "id": "spedalingo-altarpiece-rosso-fiorentino",
+      "type": "artwork",
+      "title": "Spedalingo Altaarstuk",
+      "roomCode": "D12",
+      "artist": "Rosso Fiorentino",
+      "year": "1518",
+      "description": "Een altaarstuk verbonden met de Florentijnse maniëristische revolutie. Rosso's stijl geeft vaak de voorkeur aan scherp karakter, dramatische poses en een gedurfd gevoel voor inventie vergeleken met eerdere Renaissance-harmonie.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Spedalingo_Altarpiece.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Spedalingo_Altarpiece.webp",
+        "alt": "Rosso Fiorentino, Spedalingo Altaarstuk"
+      },
+      "viewing_tips": ["Let op de schrille kleuren en hoekige vormen", "Rosso werkte later in Fontainebleau in Frankrijk"]
+    },
+    {
+      "id": "musical-angel-rosso-fiorentino",
+      "type": "artwork",
+      "title": "Musicerende Engel",
+      "roomCode": "D12",
+      "artist": "Rosso Fiorentino",
+      "year": "ca. 1521",
+      "description": "Een verfijnde figuurstudie met Rosso's kenmerkende expressieve rand. Zelfs in één enkele figuur kunnen tekening en pose geladen aanvoelen - minder kalme 'schoonheid', meer persoonlijkheid en spanning.",
+      "image": {
+        "hero": "/images/hero/Fiorentino_Musical_Angel.webp",
+        "thumbnail": "/images/thumbnails/Fiorentino_Musical_Angel.webp",
+        "alt": "Rosso Fiorentino, Musicerende Engel"
+      },
+      "viewing_tips": ["Let op de ongebruikelijke oranje-rode kleuring", "De intense expressie onderscheidt Rosso's stijl"]
+    },
+    {
+      "id": "portrait-of-eleanor-of-toledo-bronzino",
+      "type": "artwork",
+      "title": "Portret van Eleonora van Toledo met Haar Zoon",
+      "roomCode": "D15",
+      "artist": "Agnolo Bronzino",
+      "year": "ca. 1545",
+      "description": "Een hofportret verbonden met Medici-macht en beeldvorming. Bronzino is beroemd om precisie, koele elegantie en de manier waarop luxueuze stoffen en juwelen zowel statusverklaringen als decoratie worden.",
+      "image": {
+        "hero": "/images/hero/BRONZINO_ELEANOR_TOLEDO.webp",
+        "thumbnail": "/images/thumbnails/BRONZINO_ELEANOR_TOLEDO.webp",
+        "alt": "Bronzino, Portret van Eleonora van Toledo met Haar Zoon"
+      },
+      "viewing_tips": ["Bestudeer de ongelooflijke details van de brokaten jurk", "De stof van Eleonora's jurk werd bewaard gevonden in haar graf", "De zoon is Giovanni, de toekomstige Kardinaal de' Medici"]
+    },
+    {
+      "id": "madonna-del-popolo-barocci",
+      "type": "artwork",
+      "title": "Madonna van het Volk",
+      "roomCode": "D16",
+      "artist": "Federico Barocci",
+      "year": "1579",
+      "description": "Een devotioneel werk van Barocci, een kunstenaar bekend om emotionele warmte, sierlijke beweging en kleuren die late Renaissance-idealen verbinden met een meer directe, boeiende spiritualiteit.",
+      "image": {
+        "hero": "/images/hero/Barocci_Madonna_del_Popolo.webp",
+        "thumbnail": "/images/thumbnails/Barocci_Madonna_del_Popolo.webp",
+        "alt": "Federico Barocci, Madonna van het Volk"
+      },
+      "viewing_tips": ["Let op het zachte, pastelkleurige palet", "Barocci's warme stijl anticipeerde op de Barok"]
+    },
+    {
+      "id": "saints-john-the-evangelist-and-francis-el-greco",
+      "type": "artwork",
+      "title": "De Heiligen Johannes de Evangelist en Franciscus",
+      "roomCode": "D21",
+      "artist": "El Greco",
+      "year": "ca. 1600",
+      "description": "Een spiritueel, visionair schilderij typisch voor El Greco's stijl: verlengde vormen, intense expressie en het gevoel dat de figuren tot een innerlijke wereld behoren in plaats van gewone fysieke ruimte.",
+      "image": {
+        "hero": "/images/hero/Greco_Saints_John_and_Francis.webp",
+        "thumbnail": "/images/thumbnails/Greco_Saints_John_and_Francis.webp",
+        "alt": "El Greco, De Heiligen Johannes de Evangelist en Franciscus"
+      },
+      "viewing_tips": ["Let op El Greco's kenmerkende verlengde figuren", "Het bovennatuurlijke licht suggereert goddelijke aanwezigheid"]
+    },
+    {
+      "id": "venus-of-urbino-titian",
+      "type": "artwork",
+      "title": "Venus van Urbino",
+      "roomCode": "D23",
+      "artist": "Titiaan",
+      "year": "1538",
+      "description": "Mark Twain noemde haar 'het smerigste, het laagste, het obscenste schilderij dat de wereld bezit'—waarmee dit het meest besproken naakt in de kunstgeschiedenis werd! Geschilderd in 1538 voor de Hertog van Urbino, kwam ze in Florence terecht als onderdeel van de bruidsschat van Vittoria della Rovere aan de Medici in 1631. Let op het hondje aan haar voeten—een symbool van trouw—en de dienstmeisjes die haar bruidsschat klaarmaken op de achtergrond.",
+      "image": {
+        "hero": "/images/hero/TITIAN_VENUS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/TITIAN_VENUS_URBINO.webp",
+        "alt": "Titiaan, Venus van Urbino"
+      },
+      "viewing_tips": ["Let op de warme, gloeiende huidtinten", "De hond symboliseert trouw", "Dienstmeisjes op de achtergrond bereiden haar bruidskist voor", "Dit schilderij beïnvloedde Manets Olympia"]
+    },
+    {
+      "id": "leda-and-the-swan-tintoretto",
+      "type": "artwork",
+      "title": "Leda en de Zwaan",
+      "roomCode": "D25",
+      "artist": "Tintoretto",
+      "year": "ca. 1555",
+      "description": "Een Venetiaans mythologisch onderwerp bekend om theatrale energie en dramatische beeldbeweging. Tintoretto wordt vaak erkend voor gedurfde composities en een levendig, rusteloos gevoel voor actie.",
+      "image": {
+        "hero": "/images/hero/TINTORETTO_LEDA_SWAN.webp",
+        "thumbnail": "/images/thumbnails/TINTORETTO_LEDA_SWAN.webp",
+        "alt": "Tintoretto, Leda en de Zwaan"
+      },
+      "viewing_tips": ["Let op Tintoretto's dynamische penseelwerk", "De scène vangt beweging en drama"]
+    },
+    {
+      "id": "esther-and-ahasuerus-veronese",
+      "type": "artwork",
+      "title": "Esther en Ahasveros",
+      "roomCode": "D26",
+      "artist": "Paolo Veronese",
+      "year": "ca. 1556",
+      "description": "Een grootse verhalende scène van Veronese, bekend om elegante enscenering, rijke kleuren en gevoel voor spektakel. Zijn schilderijen lezen vaak als theater: prachtig gerangschikt figuren, architectuur en gebaren.",
+      "image": {
+        "hero": "/images/hero/Veronese_Esther_and_Ahasuerus.webp",
+        "thumbnail": "/images/thumbnails/Veronese_Esther_and_Ahasuerus.webp",
+        "alt": "Paolo Veronese, Esther en Ahasveros"
+      },
+      "viewing_tips": ["Let op de theatrale enscenering en rijke kostuums", "Veronese excelleerde in grote verhalende scènes"]
+    },
+    {
+      "id": "verone-terrace",
+      "type": "room",
+      "title": "Verone (Panoramaterras)",
+      "roomCode": "D28",
+      "artist": null,
+      "year": null,
+      "description": "Een belangrijk terras/uitzichtpunt langs de route van de Eerste Verdieping. Het biedt een pauze in het bezoek en maakt ook deel uit van de monumentale architectonische ervaring van het museum aan de Arno-zijde.",
+      "image": null,
+      "viewing_tips": ["Neem even de tijd om te genieten van het uitzicht over de Arno", "Dit is een goed rustpunt halverwege de verdieping"]
+    },
+    {
+      "id": "caravaggio-room",
+      "type": "section",
+      "title": "Caravaggio-Zaal",
+      "roomCode": "E4",
+      "artist": null,
+      "year": null,
+      "description": "Een hoogtepuntsectie van de Eerste Verdieping gericht op Caravaggio en belangrijke werken geassocieerd met zijn dramatisch realisme - sterke contrasten van licht en schaduw, intense psychologie en directe fysieke aanwezigheid.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "judith-slaying-holofernes-artemisia-gentileschi",
+      "type": "artwork",
+      "title": "Judith Onthoofdt Holofernes",
+      "roomCode": "E4",
+      "artist": "Artemisia Gentileschi",
+      "year": "ca. 1620",
+      "description": "Een krachtige barokke interpretatie van de bijbelse heldin Judith. Artemisia's werk staat bekend om zijn intensiteit, realisme en de pure kracht van de scène - een beeld dat veel bezoekers lang na vertrek onthouden.",
+      "image": {
+        "hero": "/images/hero/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "thumbnail": "/images/thumbnails/GENTILESCHI_JUDITH_HOLOFERNES.webp",
+        "alt": "Artemisia Gentileschi, Judith Onthoofdt Holofernes"
+      },
+      "viewing_tips": ["Let op de realistisch afgebeelde fysieke worsteling", "Artemisia schilderde verschillende versies van dit onderwerp", "Vergelijk met de behandeling van dezelfde scène door mannelijke kunstenaars"]
+    },
+    {
+      "id": "sacrifice-of-isaac-caravaggio",
+      "type": "artwork",
+      "title": "Het Offer van Isaak",
+      "roomCode": "E4",
+      "artist": "Caravaggio",
+      "year": "ca. 1601-1602",
+      "description": "Een gespannen moment uit het verhaal van Abraham en Isaak, gepresenteerd met Caravaggio's kenmerkende realisme en emotionele directheid. De scène is zo geënsceneerd dat hij dichtbij voelt - bijna oncomfortabel aanwezig.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_SACRIFICE_ISAAC.webp",
+        "alt": "Caravaggio, Het Offer van Isaak"
+      },
+      "viewing_tips": ["Let op Isaaks angstige gezichtsuitdrukking", "De engel arriveert op het laatst mogelijke moment", "Caravaggio gebruikte echte modellen, vaak van de straten van Rome"]
+    },
+    {
+      "id": "medusa-caravaggio",
+      "type": "artwork",
+      "title": "Medusa",
+      "roomCode": "E4",
+      "artist": "Caravaggio",
+      "year": "ca. 1597-1598",
+      "description": "Een opvallend beeld van het afgehouwen hoofd van Medusa, ontworpen om te shockeren en te boeien. Het wordt gevierd om zijn virtuoos naturalisme en het gevoel van een beeld dat de kijker direct lijkt te confronteren.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_MEDUSA.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_MEDUSA.webp",
+        "alt": "Caravaggio, Medusa"
+      },
+      "viewing_tips": ["Geschilderd op een ceremonieel schild", "Het bloed spuit nog uit de afgehouwen nek", "Een geschenk voor de Groothertog van Toscane", "Sommigen geloven dat het Caravaggio's zelfportret is"]
+    },
+    {
+      "id": "bacchus-caravaggio",
+      "type": "artwork",
+      "title": "Bacchus",
+      "roomCode": "E5",
+      "artist": "Caravaggio",
+      "year": "ca. 1596-1597",
+      "description": "Een sensuele, realistische afbeelding van Bacchus, god van de wijn. Caravaggio's benadering verandert mythologie in iets onmiddellijks en menselijks - vlees, fruit en blik weergegeven met provocerende nabijheid.",
+      "image": {
+        "hero": "/images/hero/CARAVAGGIO_BACCHUS.webp",
+        "thumbnail": "/images/thumbnails/CARAVAGGIO_BACCHUS.webp",
+        "alt": "Caravaggio, Bacchus"
+      },
+      "viewing_tips": ["Let op het ongelooflijk realistische fruit-stilleven", "Bacchus lijkt de kijker een glas wijn aan te bieden", "Het licht bedorven fruit kan sterfelijkheid symboliseren", "Röntgenfoto's onthulden een klein zelfportret in de wijnkaraf"]
+    },
+    {
+      "id": "van-honthorst-and-night-lighting",
+      "type": "section",
+      "title": "Van Honthorst en de Caravaggisten",
+      "roomCode": "E6",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie verbonden met 'nachtlicht'-schilderkunst - werken waarbij verlichting van kaarsen of lampen de belangrijkste dramatische motor wordt. Kunstenaars in deze kring verkennen vaak hoe licht gezichten, objecten en stemming vormt in duisternis.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "portrait-of-an-old-man-the-old-rabbi-rembrandt",
+      "type": "artwork",
+      "title": "Portret van een Oude Man",
+      "roomCode": "E7",
+      "artist": "Rembrandt van Rijn",
+      "year": "1665",
+      "description": "Een ontroerend portret geassocieerd met Rembrandts vermogen om innerlijk leven te suggereren door licht, textuur en subtiele expressie - minder gericht op vertoon, meer op aanwezigheid en menselijkheid.",
+      "image": {
+        "hero": "/images/hero/REMBRANDT_SELF_PORTRAIT.webp",
+        "thumbnail": "/images/thumbnails/REMBRANDT_SELF_PORTRAIT.webp",
+        "alt": "Rembrandt, Portret van een Oude Man"
+      },
+      "viewing_tips": ["Let op hoe licht uit de duisternis opkomt", "Rembrandts late werken richten zich op psychologische diepte", "Het ruwe penseelwerk creëert textuur en leven"]
+    },
+    {
+      "id": "portrait-of-isabella-brant-rubens",
+      "type": "artwork",
+      "title": "Portret van Isabella Brant",
+      "roomCode": "E7",
+      "artist": "Peter Paul Rubens",
+      "year": "ca. 1620-1625",
+      "description": "Een portret van Rubens, bekend om vitaliteit, warmte en zelfverzekerd penseelwerk. Vergeleken met Rembrandts introspectie voelt Rubens vaak opener energiek en lichtgevend aan.",
+      "image": {
+        "hero": "/images/hero/Rubens_Portrait_Isabella_Brant.webp",
+        "thumbnail": "/images/thumbnails/Rubens_Portrait_Isabella_Brant.webp",
+        "alt": "Peter Paul Rubens, Portret van Isabella Brant"
+      },
+      "viewing_tips": ["Isabella was Rubens' geliefde eerste vrouw", "Let op de warme, gloeiende huidtinten typisch voor Rubens"]
+    },
+    {
+      "id": "vasari-corridor-history",
+      "type": "section",
+      "title": "Vasari-Corridor - Geschiedenis",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Een korte interpretatieve sectie die de oorsprong en het doel van de Vasari-Corridor uitlegt - een verhoogde doorgang die historisch belangrijke Medici-ruimtes verbond en later werd geassocieerd met belangrijke collecties.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-route",
+      "type": "section",
+      "title": "Vasari-Corridor - De Route",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Een sectie gericht op het pad van de corridor en zijn rol in het stedelijk ontwerp uit het Medici-tijdperk, met nadruk op hoe architectuur en macht fysiek verbonden waren door gecontroleerde beweging.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "vasari-corridor-the-roman-busts",
+      "type": "section",
+      "title": "Vasari-Corridor - De Romeinse Bustes",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Een sectie die klassieke portretten en bustes introduceert verbonden met de lange traditie van de Uffizi in het verzamelen van oudheden - een essentieel onderdeel van hoe de Medici cultuur, autoriteit en geleerdheid kadreerden.",
+      "image": null,
+      "viewing_tips": []
+    }
+  ],
+  "ui": {
+    "title": "Eerste Verdieping",
+    "subtitle": "Zalen B-E",
+    "back": "Terug",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "room": "Zaal",
+    "artworks": "Kunstwerken"
+  }
+}

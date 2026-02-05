@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+<meta name="description" content="우피치 미술관 방문을 위한 필수 안내 — 준비물, 미술관 규정, 입장 안내 등 모든 정보를 확인하세요.">
+<meta name="color-scheme" content="light dark">
+<title>방문 전 안내 — 우피치 미술관 | Florence with Locals</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  /* ─── VARIABLES ─── */
+  :root {
+    --purple-900: #4C1D95;
+    --purple-700: #6D28D9;
+    --purple-600: #7C3AED;
+    --purple-500: #8B5CF6;
+    --purple-100: #EDE9FE;
+    --purple-50: #F5F3FF;
+    --bg-page: #F8FAFC;
+    --bg-card: #FFFFFF;
+    --bg-card-alt: #F9FAFB;
+    --text-primary: #0F172A;
+    --text-secondary: #334155;
+    --text-tertiary: #475569;
+    --text-muted: #64748B;
+    --text-faint: #94A3B8;
+    --border-light: #E2E8F0;
+    --border-faint: #F1F5F9;
+    --green-700: #15803D;
+    --green-100: #DCFCE7;
+    --green-50: #F0FDF4;
+    --green-text: #14532D;
+    --amber-700: #B45309;
+    --amber-100: #FEF3C7;
+    --amber-50: #FFFBEB;
+    --amber-text-title: #92400E;
+    --amber-text: #78350F;
+    --red-600: #DC2626;
+    --red-100: #FEE2E2;
+    --red-50: #FEF2F2;
+    --red-text: #7F1D1D;
+    --blue-600: #2563EB;
+    --blue-100: #DBEAFE;
+    --blue-50: #EFF6FF;
+    --purple-notice-bg: #F5F3FF;
+    --purple-notice-text: #4C1D95;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.06);
+    --shadow-md: 0 2px 12px rgba(0,0,0,0.06);
+    --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-body: 'DM Sans', 'Segoe UI', Helvetica, Arial, sans-serif;
+    --max-w: 720px;
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+
+  /* ─── DARK MODE ─── */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-page: #0F172A;
+      --bg-card: #1E293B;
+      --bg-card-alt: #1E293B;
+      --text-primary: #F1F5F9;
+      --text-secondary: #CBD5E1;
+      --text-tertiary: #94A3B8;
+      --text-muted: #94A3B8;
+      --text-faint: #64748B;
+      --border-light: #334155;
+      --border-faint: #1E293B;
+      --green-100: #052E16;
+      --green-50: #052E16;
+      --green-text: #86EFAC;
+      --green-700: #4ADE80;
+      --amber-100: #451A03;
+      --amber-50: #451A03;
+      --amber-text-title: #FCD34D;
+      --amber-text: #FDE68A;
+      --amber-700: #FBBF24;
+      --red-100: #450A0A;
+      --red-50: #450A0A;
+      --red-text: #FCA5A5;
+      --red-600: #F87171;
+      --blue-100: #1E3A5F;
+      --blue-50: #172554;
+      --purple-100: #2E1065;
+      --purple-50: #2E1065;
+      --purple-notice-bg: #2E1065;
+      --purple-notice-text: #C4B5FD;
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
+      --shadow-md: 0 2px 12px rgba(0,0,0,0.2);
+    }
+  }
+
+  /* ─── RESET ─── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    background: var(--bg-page);
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  /* ─── LANGUAGE BAR ─── */
+  .lang-bar {
+    background: #0F172A;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .lang-bar-inner {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 10px 16px;
+    flex-wrap: wrap;
+  }
+  .lang-bar a {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 10px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #94A3B8;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s;
+    letter-spacing: 0.3px;
+  }
+  .lang-bar a .flag {
+    width: 20px;
+    height: 15px;
+    border-radius: 2px;
+    object-fit: cover;
+  }
+  .lang-bar a:hover { color: #fff; background: rgba(255,255,255,0.08); }
+  .lang-bar a.active {
+    color: #fff;
+    background: var(--purple-600);
+    font-weight: 600;
+  }
+
+  /* Mobile: Grid layout for language bar */
+  @media (max-width: 640px) {
+    .lang-bar-inner {
+      padding: 12px 10px;
+      gap: 6px;
+    }
+    .lang-bar a {
+      flex-direction: column;
+      gap: 3px;
+      padding: 6px;
+      min-width: 44px;
+      min-height: 44px;
+      justify-content: center;
+      font-size: 10px;
+      letter-spacing: 0.5px;
+    }
+    .lang-bar a .flag {
+      width: 24px;
+      height: 18px;
+    }
+  }
+
+  /* ─── HERO ─── */
+  .hero {
+    background: linear-gradient(160deg, var(--purple-900) 0%, var(--purple-700) 50%, var(--purple-600) 100%);
+    color: #fff;
+    padding: 40px 20px 52px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -60%;
+    right: -30%;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(255,255,255,0.06) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero-brand {
+    font-family: var(--font-display);
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-bottom: 2px;
+  }
+  .hero-brand-sub {
+    font-family: var(--font-display);
+    font-size: 11px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    opacity: 0.55;
+    margin-bottom: 28px;
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-bottom: 10px;
+  }
+  .hero p {
+    font-size: 15px;
+    opacity: 0.8;
+    max-width: 480px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  /* ─── MAIN CONTENT ─── */
+  .content {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 16px 48px;
+  }
+
+  /* ─── QUICK ESSENTIALS ─── */
+  .essentials {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: -28px 0 32px;
+    position: relative;
+    z-index: 2;
+  }
+  .essential-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    padding: 16px 12px;
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--border-light);
+  }
+  .essential-card .icon {
+    font-size: 26px;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .essential-card .label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    margin-bottom: 3px;
+  }
+  .essential-card .value {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.3;
+  }
+  .essential-card .sub {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  /* ─── SECTIONS ─── */
+  .section {
+    margin-bottom: 32px;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--purple-100);
+  }
+  .section-icon {
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 19px;
+    flex-shrink: 0;
+  }
+  .section-icon.purple { background: var(--purple-100); }
+  .section-icon.green { background: var(--green-100); }
+  .section-icon.amber { background: var(--amber-100); }
+  .section-icon.red { background: var(--red-100); }
+  .section-icon.blue { background: var(--blue-100); }
+
+  .section h2 {
+    font-family: var(--font-display);
+    font-size: 21px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.3;
+  }
+  .section p {
+    margin-bottom: 14px;
+    font-size: 15px;
+    color: var(--text-tertiary);
+  }
+
+  /* ─── DOOR IMAGE CARD ─── */
+  .door-image-card {
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    margin-bottom: 16px;
+    border: 1px solid var(--border-light);
+  }
+  .door-image-card img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    display: block;
+  }
+  .door-image-card .caption {
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .door-image-card .caption-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--purple-100);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .door-image-card .caption-text strong {
+    display: block;
+    font-size: 14px;
+    color: var(--text-primary);
+  }
+  .door-image-card .caption-text span {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  /* ─── NOTICE BOXES ─── */
+  .notice {
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .notice.amber {
+    background: var(--amber-50);
+    border-left: 4px solid var(--amber-700);
+    color: var(--amber-text);
+  }
+  .notice.amber strong { color: var(--amber-text-title); }
+  .notice.green {
+    background: var(--green-50);
+    border-left: 4px solid var(--green-700);
+    color: var(--green-text);
+  }
+  .notice.purple {
+    background: var(--purple-notice-bg);
+    border-left: 4px solid var(--purple-600);
+    color: var(--purple-notice-text);
+  }
+  .notice.red {
+    background: var(--red-50);
+    border-left: 4px solid var(--red-600);
+    color: var(--red-text);
+  }
+  .notice strong {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 14px;
+  }
+
+  /* ─── CHECKLIST CARDS ─── */
+  .checklist {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .checklist-card {
+    background: var(--bg-card);
+    border-radius: var(--radius-sm);
+    padding: 14px;
+    border: 1px solid var(--border-light);
+  }
+  .checklist-card.bring { border-top: 3px solid var(--green-700); }
+  .checklist-card.not-allowed { border-top: 3px solid var(--red-600); }
+  .checklist-card h3 {
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    margin-bottom: 10px;
+  }
+  .checklist-card.bring h3 { color: var(--green-700); }
+  .checklist-card.not-allowed h3 { color: var(--red-600); }
+  .checklist-card ul {
+    list-style: none;
+    padding: 0;
+  }
+  .checklist-card li {
+    font-size: 14px;
+    padding: 4px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+  }
+  .checklist-card li::before {
+    flex-shrink: 0;
+    font-size: 13px;
+    margin-top: 2px;
+    font-weight: 700;
+  }
+  .checklist-card.bring li::before { content: '✓'; color: var(--green-700); }
+  .checklist-card.not-allowed li::before { content: '✕'; color: var(--red-600); }
+
+  /* ─── RULES LIST ─── */
+  .rules-list {
+    padding: 0;
+    list-style: none;
+    margin-bottom: 14px;
+  }
+  .rules-list li {
+    font-size: 14px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border-faint);
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    color: var(--text-tertiary);
+    line-height: 1.55;
+  }
+  .rules-list li:last-child { border-bottom: none; }
+  .rules-list li .rule-icon {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    background: var(--red-50);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 1px;
+  }
+  .rules-list li strong { color: var(--text-primary); }
+
+  /* ─── FACILITIES GRID ─── */
+  .facilities-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .facility-item {
+    background: var(--bg-card);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    padding: 14px;
+    text-align: center;
+  }
+  .facility-item .f-icon {
+    font-size: 24px;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .facility-item .f-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 3px;
+  }
+  .facility-item .f-desc {
+    font-size: 12px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  /* ─── AUDIO GUIDE BOX ─── */
+  .audio-box {
+    background: linear-gradient(160deg, #1E1B4B 0%, #312E81 100%);
+    border-radius: var(--radius);
+    padding: 24px 20px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 14px;
+  }
+  .audio-box h3 {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+  .audio-box > p {
+    font-size: 14px;
+    color: #C4B5FD;
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .audio-box ul {
+    list-style: none;
+    text-align: left;
+    margin-bottom: 12px;
+  }
+  .audio-box li {
+    font-size: 14px;
+    color: #E0E7FF;
+    padding: 6px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+  }
+  .audio-box li .step-num {
+    width: 24px;
+    height: 24px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .audio-box .note {
+    font-size: 12px;
+    color: #A5B4FC;
+    line-height: 1.5;
+    margin-top: 8px;
+  }
+
+  /* ─── MAP LINK ─── */
+  .map-link {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    background: var(--purple-notice-bg);
+    border: 1px solid var(--purple-100);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-bottom: 14px;
+    transition: all 0.2s;
+  }
+  .map-link:hover { opacity: 0.9; }
+  .map-link .ml-icon {
+    width: 42px;
+    height: 42px;
+    background: var(--purple-600);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+  .map-link .ml-text strong {
+    display: block;
+    font-size: 14px;
+    color: var(--text-primary);
+  }
+  .map-link .ml-text span {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  /* ─── CTA BUTTON ─── */
+  .cta-btn {
+    display: inline-block;
+    background: var(--purple-600);
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: var(--radius-sm);
+    font-size: 15px;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .cta-btn:hover { background: var(--purple-700); }
+
+  /* ─── FOOTER ─── */
+  .footer {
+    background: #0F172A;
+    color: #94A3B8;
+    padding: 28px 20px;
+    text-align: center;
+  }
+  .footer-brand {
+    font-family: var(--font-display);
+    font-size: 15px;
+    color: #fff;
+    letter-spacing: 2px;
+    margin-bottom: 2px;
+  }
+  .footer-sub {
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #64748B;
+    margin-bottom: 16px;
+  }
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .footer-links a {
+    font-size: 14px;
+    color: var(--purple-500);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover { color: #fff; }
+  .footer-copy {
+    font-size: 12px;
+    color: #475569;
+  }
+  .footer-stripe {
+    height: 4px;
+    background: linear-gradient(90deg, var(--purple-600), var(--purple-900));
+  }
+
+  /* ─── ACCORDION ─── */
+  .accordion { margin-bottom: 14px; }
+  .accordion details {
+    background: var(--bg-card);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-sm);
+    margin-bottom: 8px;
+    overflow: hidden;
+  }
+  .accordion summary {
+    padding: 14px 16px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-primary);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background 0.15s;
+  }
+  .accordion summary:hover { background: var(--bg-card-alt); }
+  .accordion summary::-webkit-details-marker { display: none; }
+  .accordion summary::after {
+    content: '+';
+    margin-left: auto;
+    font-size: 18px;
+    color: var(--text-faint);
+    font-weight: 400;
+    transition: transform 0.2s;
+  }
+  .accordion details[open] summary::after {
+    content: '−';
+    color: var(--purple-600);
+  }
+  .accordion .acc-body {
+    padding: 4px 16px 16px;
+    font-size: 14px;
+    color: var(--text-tertiary);
+    line-height: 1.65;
+  }
+  .accordion .acc-body p { margin-bottom: 10px; font-size: 14px; color: var(--text-tertiary); }
+  .accordion .acc-body ul {
+    margin: 8px 0;
+    padding-left: 18px;
+  }
+  .accordion .acc-body li {
+    margin-bottom: 6px;
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--text-tertiary);
+  }
+  .accordion .acc-body a { color: var(--purple-600); }
+
+  /* ─── DIVIDER ─── */
+  .divider {
+    border: none;
+    border-top: 1px solid var(--border-light);
+    margin: 32px 0;
+  }
+
+  /* ─── RESPONSIVE — MOBILE FIRST ─── */
+  @media (max-width: 480px) {
+    .hero { padding: 32px 16px 44px; }
+    .hero h1 { font-size: 26px; }
+    .hero p { font-size: 14px; }
+    .content { padding: 0 12px 40px; }
+    .essentials { gap: 8px; margin: -26px 0 28px; }
+    .essential-card { padding: 14px 10px; }
+    .essential-card .icon { font-size: 22px; margin-bottom: 4px; }
+    .essential-card .label { font-size: 9px; }
+    .essential-card .value { font-size: 13px; }
+    .essential-card .sub { font-size: 10px; }
+    .section h2 { font-size: 19px; }
+    .section-icon { width: 34px; height: 34px; font-size: 17px; }
+    .door-image-card img { height: 260px; }
+    .checklist-card { padding: 12px; }
+    .checklist-card li { font-size: 13px; }
+    .facilities-grid { gap: 8px; }
+    .facility-item { padding: 12px 10px; }
+    .facility-item .f-title { font-size: 13px; }
+    .facility-item .f-desc { font-size: 11px; }
+    .audio-box { padding: 20px 16px; }
+    .audio-box h3 { font-size: 17px; }
+    .audio-box li { font-size: 13px; }
+    .notice { padding: 12px 14px; font-size: 13px; }
+    .rules-list li { font-size: 13px; }
+    .cta-btn { padding: 13px 24px; font-size: 14px; }
+  }
+
+  /* Small mobiles */
+  @media (max-width: 360px) {
+    .hero h1 { font-size: 23px; }
+    .content { padding: 0 10px 36px; }
+    .essentials { gap: 6px; }
+    .essential-card { padding: 12px 8px; }
+    .essential-card .value { font-size: 12px; }
+    .section h2 { font-size: 18px; }
+    .checklist { grid-template-columns: 1fr; gap: 8px; }
+    .facilities-grid { grid-template-columns: 1fr; }
+  }
+
+  @media (min-width: 768px) {
+    .hero { padding: 52px 32px 60px; }
+    .hero h1 { font-size: 36px; }
+    .essentials { grid-template-columns: repeat(4, 1fr); margin: -34px 0 44px; }
+    .content { padding: 0 24px 64px; }
+    .door-image-card img { height: 380px; }
+  }
+
+  @media (min-width: 1024px) {
+    .content { padding: 0 32px 80px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════ LANGUAGE BAR ═══════════════ -->
+<nav class="lang-bar" aria-label="언어 선택">
+  <div class="lang-bar-inner">
+    <a href="/know-before-you-go/en"><img class="flag" src="https://flagcdn.com/20x15/gb.png" alt="EN"> EN</a>
+    <a href="/know-before-you-go/es"><img class="flag" src="https://flagcdn.com/20x15/es.png" alt="ES"> ES</a>
+    <a href="/know-before-you-go/it"><img class="flag" src="https://flagcdn.com/20x15/it.png" alt="IT"> IT</a>
+    <a href="/know-before-you-go/fr"><img class="flag" src="https://flagcdn.com/20x15/fr.png" alt="FR"> FR</a>
+    <a href="/know-before-you-go/de"><img class="flag" src="https://flagcdn.com/20x15/de.png" alt="DE"> DE</a>
+    <a href="/know-before-you-go/nl"><img class="flag" src="https://flagcdn.com/20x15/nl.png" alt="NL"> NL</a>
+    <a href="/know-before-you-go/ru"><img class="flag" src="https://flagcdn.com/20x15/ru.png" alt="RU"> RU</a>
+    <a href="/know-before-you-go/ko" class="active"><img class="flag" src="https://flagcdn.com/20x15/kr.png" alt="KO"> KO</a>
+    <a href="/know-before-you-go/zh"><img class="flag" src="https://flagcdn.com/20x15/cn.png" alt="ZH"> ZH</a>
+    <a href="/know-before-you-go/pt"><img class="flag" src="https://flagcdn.com/20x15/pt.png" alt="PT"> PT</a>
+    <a href="/know-before-you-go/el"><img class="flag" src="https://flagcdn.com/20x15/gr.png" alt="EL"> EL</a>
+    <a href="/know-before-you-go/ja"><img class="flag" src="https://flagcdn.com/20x15/jp.png" alt="JA"> JA</a>
+    <a href="/know-before-you-go/tr"><img class="flag" src="https://flagcdn.com/20x15/tr.png" alt="TR"> TR</a>
+    <a href="/know-before-you-go/fa"><img class="flag" src="https://flagcdn.com/20x15/ir.png" alt="FA"> FA</a>
+    <a href="/know-before-you-go/ar"><img class="flag" src="https://flagcdn.com/20x15/sa.png" alt="AR"> AR</a>
+    <a href="/know-before-you-go/hi"><img class="flag" src="https://flagcdn.com/20x15/in.png" alt="HI"> HI</a>
+    <a href="/know-before-you-go/pl"><img class="flag" src="https://flagcdn.com/20x15/pl.png" alt="PL"> PL</a>
+    <a href="/know-before-you-go/hu"><img class="flag" src="https://flagcdn.com/20x15/hu.png" alt="HU"> HU</a>
+  </div>
+</nav>
+
+<!-- ═══════════════ HERO ═══════════════ -->
+<header class="hero">
+  <div class="hero-brand">Florence</div>
+  <div class="hero-brand-sub">with Locals</div>
+  <h1>방문 전 안내</h1>
+  <p>우피치 미술관을 원활하고 즐겁게 관람하시기 위해 필요한 모든 정보를 안내해 드립니다</p>
+</header>
+
+<main class="content">
+
+<!-- ═══════════════ QUICK ESSENTIALS ═══════════════ -->
+<div class="essentials">
+  <div class="essential-card">
+    <span class="icon">🚪</span>
+    <div class="label">입구</div>
+    <div class="value">Door 01</div>
+    <div class="sub">우피치 미술관</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">⏰</span>
+    <div class="label">도착 시간</div>
+    <div class="value">15~30분 전</div>
+    <div class="sub">보안 검색</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">🪪</span>
+    <div class="label">필수 지참</div>
+    <div class="value">유효한 신분증</div>
+    <div class="sub">티켓 명의와 일치</div>
+  </div>
+  <div class="essential-card">
+    <span class="icon">📱</span>
+    <div class="label">티켓</div>
+    <div class="value">휴대폰 PDF</div>
+    <div class="sub">관람 중 소지</div>
+  </div>
+</div>
+
+<!-- ═══════════════ GETTING THERE ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">📍</div>
+    <h2>오시는 길 — Door 01</h2>
+  </div>
+
+  <div class="door-image-card">
+    <img src="/know-before-you-go/door-01-entrance.jpg" alt="우피치 미술관 Door 01 입구 - 시간 지정 티켓 소지자를 위한 정문">
+    <div class="caption">
+      <div class="caption-icon">🚪</div>
+      <div class="caption-text">
+        <strong>Door 01 — 정문</strong>
+        <span>이곳으로 바로 오시면 됩니다. 별도의 만남 장소나 실물 티켓 수령이 필요하지 않습니다.</span>
+      </div>
+    </div>
+  </div>
+
+  <p>Door 01에서 직원에게 PDF 티켓을 제시하시고 보안 검색대를 통과하시면 됩니다. 티켓은 모바일 기기로 제시하실 수 있으며, 인쇄하실 필요가 없습니다.</p>
+
+  <div class="notice amber">
+    <strong>⚠️ 일찍 도착하세요 — 여유 시간을 확보하세요</strong>
+    예약된 입장 시간보다 최소 <strong>15분 전</strong>에 Door 01에 도착하시기를 권장합니다. 성수기(4월~10월)에는 보안 검색 대기 시간이 상당히 길어질 수 있으므로, 최소 <strong>30분</strong> 전에 도착하시기 바랍니다. 시간 지정 입장권이므로 예약하신 시간대에만 입장하실 수 있습니다. 모든 방문객은 입장 전 보안 검색을 통과해야 하며, 대기 시간은 저희가 통제할 수 없는 부분입니다.
+  </div>
+</section>
+
+<!-- ═══════════════ WHAT TO BRING / NOT ALLOWED ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon green">🎒</div>
+    <h2>준비물 및 반입 금지 물품</h2>
+  </div>
+
+  <div class="checklist">
+    <div class="checklist-card bring">
+      <h3>✓ 준비물</h3>
+      <ul>
+        <li>여권 또는 신분증</li>
+        <li>충전된 스마트폰</li>
+        <li>휴대폰에 저장된 PDF 티켓</li>
+        <li>편안한 신발</li>
+        <li>헤드폰(오디오 가이드용)</li>
+        <li>물병(최대 500ml)</li>
+      </ul>
+    </div>
+    <div class="checklist-card not-allowed">
+      <h3>✕ 반입 금지</h3>
+      <ul>
+        <li>대형 가방 또는 여행 가방</li>
+        <li>반려동물(안내견 제외)</li>
+        <li>셀카봉 또는 삼각대</li>
+        <li>칼 또는 날카로운 물건</li>
+        <li>500ml 초과 액체류</li>
+        <li>드론</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="notice green">
+    <strong>🧳 무료 물품 보관소 이용 가능</strong>
+    1층에 부피가 큰 물품(최대 크기 40 × 40 × 50 cm)을 보관할 수 있는 무료 물품 보관소가 있습니다. 전시실에 입장하시기 전에 가방과 외투를 보관하시기를 권장합니다.
+  </div>
+</section>
+
+<!-- ═══════════════ IMPORTANT TICKET RULES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon amber">🎟️</div>
+    <h2>중요 티켓 안내</h2>
+  </div>
+
+  <div class="notice purple">
+    <strong>🪪 티켓은 기명식입니다</strong>
+    티켓에 기재된 이름과 일치하는 유효한 신분증을 지참해 주세요. 정보가 일치하지 않으면 미술관에서 입장을 거부할 수 있습니다.
+  </div>
+
+  <p>티켓은 1회 입장만 가능하며 재사용할 수 없습니다. 관람 중 미술관 직원이 티켓 확인을 요청할 수 있으므로, 항상 티켓을 쉽게 제시할 수 있도록 소지해 주세요.</p>
+
+  <p>입장 날짜와 시간은 고정되어 있습니다. 예약이 확정된 후에는 변경이 불가능합니다. 선택하신 특정 날짜와 시간에만 입장이 가능합니다.</p>
+
+  <p>만 12세 미만 어린이는 반드시 성인을 동반해야 합니다.</p>
+</section>
+
+<!-- ═══════════════ MUSEUM RULES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon red">📋</div>
+    <h2>미술관 규정</h2>
+  </div>
+
+  <p>우피치 미술관은 공공 기관입니다. 항상 적절한 행동과 다른 방문객에 대한 존중이 요구됩니다.</p>
+
+  <ul class="rules-list">
+    <li>
+      <span class="rule-icon">🚫</span>
+      <span><strong>작품을 만지지 마세요.</strong> 작품 근처에 물건을 놓지 마세요. 조각품 받침대나 벽에 기대지 마세요.</span>
+    </li>
+    <li>
+      <span class="rule-icon">📸</span>
+      <span><strong>플래시 촬영 금지.</strong> 개인 용도의 아마추어 사진 및 동영상 촬영은 허용되지만, 플래시, 셀카봉, 삼각대 또는 전문 장비는 사용할 수 없습니다.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🚭</span>
+      <span><strong>흡연 금지.</strong> 전자담배를 포함한 모든 종류의 흡연이 금지되어 있습니다.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🍕</span>
+      <span><strong>전시 공간에서 음식물 섭취 금지.</strong> 예외: 유아용 이유식, 젖병, 분유, 어린이 전용 250ml 미만 주스팩.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🥤</span>
+      <span><strong>캔 음료, 알코올 음료 또는 부식성 음료 금지.</strong> 500ml 이상의 액체류는 반입할 수 없습니다. 모든 LAG 제품(액체류, 에어로졸, 젤류)은 보안 직원에게 제출해야 합니다.</span>
+    </li>
+    <li>
+      <span class="rule-icon">📵</span>
+      <span><strong>휴대폰은 무음으로 설정하세요.</strong> 전시실에서 통화하지 마세요. 낮은 목소리로 대화해 주세요.</span>
+    </li>
+    <li>
+      <span class="rule-icon">🏃</span>
+      <span><strong>미술관 내에서 뛰지 마세요.</strong></span>
+    </li>
+    <li>
+      <span class="rule-icon">🔪</span>
+      <span><strong>무기 또는 날카로운 물건 금지.</strong> 키르판과 같은 종교 의식용 무기를 포함한 모든 종류의 무기가 금지됩니다. 무기를 소지한 방문객(허가증이 있더라도)은 미술관에 입장할 수 없습니다.</span>
+    </li>
+    <li>
+      <span class="rule-icon">✏️</span>
+      <span><strong>스케치는 연필과 디지털 기기만 허용됩니다.</strong> 마커, 물감 또는 대형 장비는 허용되지 않습니다. 벽에 글을 쓰거나 훼손하지 마세요.</span>
+    </li>
+  </ul>
+
+  <div class="notice amber">
+    <strong>🔒 보안 검색 필수</strong>
+    입장 전, 금속 탐지기 검색을 위해 재킷과 외투를 바구니에 넣어주세요. 보안 직원은 규정이 지켜지지 않을 경우 개입할 권한이 있습니다.
+  </div>
+</section>
+
+<!-- ═══════════════ PHOTOGRAPHY ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon blue">📷</div>
+    <h2>사진 촬영 안내</h2>
+  </div>
+
+  <p>상설 전시 전체에서 개인 또는 연구 목적의 아마추어 사진 및 동영상 촬영이 가능합니다.</p>
+
+  <div class="checklist">
+    <div class="checklist-card bring">
+      <h3>✓ 허용</h3>
+      <ul>
+        <li>휴대폰 및 카메라 촬영</li>
+        <li>개인 동영상 촬영</li>
+        <li>연구 목적 촬영</li>
+      </ul>
+    </div>
+    <div class="checklist-card not-allowed">
+      <h3>✕ 금지</h3>
+      <ul>
+        <li>플래시 촬영</li>
+        <li>셀카봉 및 삼각대</li>
+        <li>전문 장비</li>
+        <li>기획 전시 작품 촬영(대여 작품)</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size:13px; color:var(--text-muted);">상업적 촬영이나 영상 제작의 경우, 별도의 허가와 요금이 필요합니다. 우피치 미술관에 직접 문의해 주세요.</p>
+</section>
+
+<!-- ═══════════════ FACILITIES ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">🏛️</div>
+    <h2>내부 시설</h2>
+  </div>
+
+  <div class="facilities-grid">
+    <div class="facility-item">
+      <span class="f-icon">🧥</span>
+      <div class="f-title">물품 보관소</div>
+      <div class="f-desc">무료, 1층. 40×40×50cm 이내 물품.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">🚻</span>
+      <div class="f-title">화장실</div>
+      <div class="f-desc">2층 및 1층, 출구 서점 근처. 장애인 화장실 이용 가능.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">☕</span>
+      <div class="f-title">카페테리아</div>
+      <div class="f-desc">내부에 위치. 가족을 위한 유아용 의자 제공.</div>
+    </div>
+    <div class="facility-item">
+      <span class="f-icon">📚</span>
+      <div class="f-title">서점</div>
+      <div class="f-desc">출구 근처에 위치. 미술 서적, 엽서 및 기념품.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════ AUDIO GUIDE ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">🎧</div>
+    <h2>오디오 가이드 — 설정 안내</h2>
+  </div>
+
+  <p>예약에 오디오 가이드가 포함된 경우, 방문 전에 아래 단계에 따라 설정해 주세요.</p>
+
+  <div class="audio-box">
+    <h3>🎧 PopGuide 오디오 체험</h3>
+    <p>최상의 경험을 위해 미술관 도착 전에 오디오 가이드를 설정해 주세요.</p>
+    <ul>
+      <li>
+        <span class="step-num">1</span>
+        <span><strong>휴대폰에서 열기:</strong> WhatsApp 메시지 또는 이메일로 받은 활성화 링크를 모바일 기기에서 탭하세요. PopGuide 앱이 다운로드되고 자동으로 접근이 활성화됩니다 — 사용자 이름이나 비밀번호가 필요하지 않습니다. 이 링크는 컴퓨터가 아닌 휴대폰에서 열어야 합니다.</span>
+      </li>
+      <li>
+        <span class="step-num">2</span>
+        <span><strong>언어 선택:</strong> 설치 후, 앱 내에서 원하는 언어를 선택하세요.</span>
+      </li>
+      <li>
+        <span class="step-num">3</span>
+        <span><strong>오프라인 사용을 위해 다운로드:</strong> 방문 중 인터넷 없이도 오디오 가이드가 작동하도록 콘텐츠를 다운로드하세요.</span>
+      </li>
+    </ul>
+    <div class="note">⚡ 미술관에서의 지연을 피하기 위해 방문 전에 이 단계들을 완료해 주세요.</div>
+  </div>
+
+  <div class="notice amber">
+    <strong>🎧 개인 헤드폰을 지참해 주세요</strong>
+    오디오 장비는 제공되지 않습니다. 각 방문객은 개인 휴대폰과 헤드폰 또는 이어폰을 사용해야 합니다.
+  </div>
+</section>
+
+<!-- ═══════════════ ACCESSIBILITY & PETS ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon blue">♿</div>
+    <h2>접근성 및 반려동물</h2>
+  </div>
+
+  <p>장애인 화장실은 2층과 1층에 있습니다. 가장 가까운 장애인 시설 안내는 미술관 직원에게 문의해 주세요.</p>
+
+  <div class="accordion">
+    <details>
+      <summary>🐕 안내견 및 반려동물 정책</summary>
+      <div class="acc-body">
+        <p>다음의 경우를 제외하고 동물은 미술관 내에 반입할 수 없습니다:</p>
+        <ul>
+          <li>시각 장애인을 위한 안내견</li>
+          <li>장애가 있는 방문객을 돕는 보조견(목줄 착용 필수)</li>
+          <li>의료/치료 목적의 반려동물(동물 치료) - 공중 보건 서비스의 증명서 필요</li>
+        </ul>
+        <p>관련 증명서를 첨부하여 <a href="mailto:uffiziaccessibili@cultura.gov.it">uffiziaccessibili@cultura.gov.it</a>로 사전에 이메일로 알려주세요.</p>
+      </div>
+    </details>
+    <details>
+      <summary>👁️ 시각 장애인 방문객</summary>
+      <div class="acc-body">
+        <p>시각 장애인 또는 맹인 방문객은 작품 접촉 금지 규정의 유일한 예외이지만, 전용 접근성 투어에 포함된 작품에만 해당됩니다.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ═══════════════ ENHANCE YOUR VISIT ═══════════════ -->
+<section class="section" style="text-align:center;">
+  <div class="section-header" style="justify-content:center;">
+    <div class="section-icon purple">🌟</div>
+    <h2>방문 경험 향상하기</h2>
+  </div>
+
+  <p style="max-width:520px; margin:0 auto 16px;">우피치 미술관의 역사와 1층 및 2층 걸작들에 대한 상세 정보가 담긴 온라인 가이드를 탐색해 보세요.</p>
+
+  <a href="https://uffizi.florencewithlocals.com/" class="cta-btn" style="margin-bottom:16px;">온라인 가이드 열기 →</a>
+
+  <br>
+
+  <a href="https://www.datocms-assets.com/103094/1764082441-brochure_uffizi_web_english_november-2025.pdf" class="map-link" style="max-width:420px; margin:16px auto;" target="_blank" rel="noopener">
+    <div class="ml-icon">🗺️</div>
+    <div class="ml-text">
+      <strong>우피치 미술관 안내도 (PDF)</strong>
+      <span>공식 층별 안내도 — 방문 시 다운로드하세요</span>
+    </div>
+  </a>
+</section>
+
+<hr class="divider">
+
+<!-- ═══════════════ FAQ ACCORDION ═══════════════ -->
+<section class="section">
+  <div class="section-header">
+    <div class="section-icon purple">❓</div>
+    <h2>자주 묻는 질문</h2>
+  </div>
+
+  <div class="accordion">
+    <details>
+      <summary>퇴장 후 재입장이 가능합니까?</summary>
+      <div class="acc-body">
+        <p>아니요. 티켓은 1회 입장만 가능합니다. 미술관을 나가시면 같은 티켓으로 재입장하실 수 없습니다.</p>
+      </div>
+    </details>
+    <details>
+      <summary>실물 가이드가 포함되어 있습니까?</summary>
+      <div class="acc-body">
+        <p>아니요, 예약에 실물 가이드는 포함되어 있지 않습니다. 온라인 가이드 또는 예약에 포함된 경우 PopGuide 오디오 체험을 이용하실 수 있습니다.</p>
+      </div>
+    </details>
+    <details>
+      <summary>날짜나 시간을 변경할 수 있습니까?</summary>
+      <div class="acc-body">
+        <p>안타깝게도 예약이 확정되면 입장 날짜와 시간이 고정됩니다. 변경은 불가능합니다. 선택하신 특정 날짜와 시간에만 입장이 가능합니다.</p>
+      </div>
+    </details>
+    <details>
+      <summary>유모차와 유아용품은 허용됩니까?</summary>
+      <div class="acc-body">
+        <p>예. 이유식, 젖병, 분유, 소형 과일 주스팩(250ml 미만)은 어린이를 위해 허용됩니다. 카페테리아에서 요청 시 유아용 의자를 이용하실 수 있습니다. 어린이는 젖병, 컵 또는 흘림 방지 뚜껑이 있는 소형 병으로 음료를 마실 수 있습니다.</p>
+      </div>
+    </details>
+    <details>
+      <summary>미술관에서 프로포즈를 할 수 있습니까?</summary>
+      <div class="acc-body">
+        <p>예! 우피치 미술관은 카페테리아를 포함한 구내에서의 청혼을 환영합니다. 단, 다른 방문객에게 방해가 되어서는 안 되며, 전문 사진작가나 장비는 허용되지 않습니다. 예식복이나 예식용 액세서리를 착용한 입장은 허용되지 않습니다.</p>
+      </div>
+    </details>
+    <details>
+      <summary>더 많은 공식 정보는 어디에서 찾을 수 있습니까?</summary>
+      <div class="acc-body">
+        <p>완전하고 최신 정보는 우피치 미술관 공식 FAQ 페이지 <a href="https://www.uffizi.it/en/pages/faq" target="_blank" rel="noopener">uffizi.it/en/pages/faq</a>를 방문해 주세요.</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<!-- ═══════════════ NEED HELP ═══════════════ -->
+<section class="section" style="text-align:center;">
+  <div class="section-header" style="justify-content:center;">
+    <div class="section-icon green">💬</div>
+    <h2>도움이 필요하신가요?</h2>
+  </div>
+  <p style="max-width:440px; margin:0 auto 16px;">저희 팀이 도움을 드리겠습니다. 방문에 관한 질문이 있으시면 언제든지 연락해 주세요.</p>
+  <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+    <a href="https://wa.me/393272491282" class="cta-btn" style="background:#25D366;">💬 WhatsApp 문의</a>
+    <a href="mailto:contact@florencewithlocals.com" class="cta-btn">✉️ 이메일 문의</a>
+  </div>
+</section>
+
+</main>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<footer class="footer">
+  <div class="footer-brand">Florence</div>
+  <div class="footer-sub">with Locals</div>
+  <div class="footer-links">
+    <a href="https://www.florencewithlocals.com">🌐 웹사이트</a>
+    <a href="https://wa.me/393272491282">💬 WhatsApp</a>
+    <a href="mailto:contact@florencewithlocals.com">✉️ 이메일</a>
+  </div>
+  <div class="footer-copy">© 2026 Florence with Locals. All rights reserved.</div>
+</footer>
+<div class="footer-stripe"></div>
+
+</body>
+</html>

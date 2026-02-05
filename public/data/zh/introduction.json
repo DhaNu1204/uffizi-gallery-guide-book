@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "乌菲兹美术馆：历史与介绍",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "乌菲兹美术馆简介",
+      "content": "乌菲兹美术馆是世界上最重要的艺术博物馆之一，尤其以收藏13世纪至17世纪的意大利绘画杰作以及北欧画派的重要作品而闻名。如今，游客参观路线主要分布在乌菲兹大楼的一层和二层。",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Uffizi Gallery exterior view"
+      },
+      "tags": ["overview"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "建造缘由",
+      "content": "乌菲兹建筑群最初并非作为博物馆建造。1560年，科西莫一世·德·美第奇委托建造一座新建筑，用于安置佛罗伦萨的行政和司法机构（\"uffizi\"即\"办公室\"之意）。乔尔乔·瓦萨里设计了这一项目，创造了著名的U形布局，长翼建筑与领主广场和阿诺河畔形成壮观的城市景观。",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Vasari's architectural design of the Uffizi"
+      },
+      "tags": ["architecture", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "博物馆的诞生",
+      "content": "博物馆的起源与弗朗切斯科一世·德·美第奇密切相关。1581年，他在东翼顶层建立了一座画廊，在16世纪末被描述为收藏绘画、雕塑和珍贵物品的华丽殿堂。这座早期画廊成为日后乌菲兹美术馆的核心。",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Historical depiction of the early Uffizi Gallery"
+      },
+      "tags": ["origins", "collections"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "特里布纳厅",
+      "content": "在原画廊附近，特里布纳厅于1584年由贝尔纳多·布翁塔伦蒂建成。它被构想为展示美第奇家族最珍贵藏品的壮观空间，成为早期博物馆的象征性中心：一个\"珠宝盒\"般的环境，绘画、雕塑、宝石和珍稀物品在此陈列，彰显美第奇家族的权力、品味和学识。",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "The Tribuna room at the Uffizi"
+      },
+      "tags": ["tribuna", "highlights"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "瓦萨里走廊",
+      "content": "1565年，为庆祝弗朗切斯科一世的婚礼，瓦萨里建造了连接乌菲兹和皮蒂宫的高架瓦萨里走廊。它跨越阿诺河上的老桥，穿过圣费利奇塔教堂，专供美第奇家族和高级宫廷人员使用——这是一项具有强烈象征意义的城市工程，直接体现了王朝的权力。",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "The Vasari Corridor crossing the Ponte Vecchio"
+      },
+      "tags": ["vasari-corridor", "medici", "city"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "从王朝收藏到公共遗产",
+      "content": "随着时间推移，乌菲兹的收藏不断扩大，博物馆的公共角色也日益增强。一个决定性时刻来自美第奇家族的最后一位继承人安娜·玛丽亚·路易莎·德·美第奇，她确保这些收藏留在佛罗伦萨，成为永久的公共遗产。在随后的几个世纪里，新的王朝和政府继续重组和丰富博物馆，将乌菲兹塑造成一座现代化的艺术机构。",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Portrait of Anna Maria Luisa de' Medici"
+      },
+      "tags": ["history", "collections"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "今日参观路线",
+      "content": "乌菲兹的参观路线分为两个主要楼层：二层展示从早期意大利绘画到文艺复兴时期的作品，一层则主要聚焦于文艺复兴后期、巴洛克时期和欧洲主要画派，以及专题收藏。由于文物保护和博物馆持续更新，展厅布局和陈列可能会有所变化——参观时请以官方地图和现场指示为准。",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Modern view of the Uffizi Gallery corridors"
+      },
+      "tags": ["practical", "route"]
+    }
+  ],
+  "ui": {
+    "title": "介绍",
+    "subtitle": "乌菲兹美术馆的历史",
+    "back": "返回",
+    "previous": "上一页",
+    "next": "下一页",
+    "welcome": {
+      "appTitle": "乌菲兹探秘",
+      "appSubtitle": "您的私人艺术导览",
+      "languagesAvailable": "支持15种语言",
+      "enterButton": "进入展馆导览",
+      "offlineNote": "首次加载后可离线使用"
+    },
+    "languageModal": {
+      "title": "选择语言",
+      "subtitle": "选择您的首选语言",
+      "searchPlaceholder": "搜索语言...",
+      "popular": "热门语言",
+      "allLanguages": "所有语言",
+      "results": "搜索结果",
+      "noResults": "未找到语言",
+      "noResultsHint": "请尝试其他搜索词",
+      "rtlEnabled": "已启用从右到左布局："
+    },
+    "mainMenu": {
+      "header": "乌菲兹探秘",
+      "loading": "正在加载展馆数据...",
+      "errorTitle": "数据加载错误",
+      "tryAgain": "重试",
+      "introduction": "介绍",
+      "introSubtitle": "乌菲兹美术馆的历史",
+      "secondFloor": "二层",
+      "firstFloor": "一层",
+      "artworks": "件艺术品",
+      "footer": "Florence With Locals · 支持离线访问"
+    },
+    "navigation": {
+      "introduction": "介绍",
+      "secondFloor": "二层",
+      "firstFloor": "一层",
+      "menu": "菜单",
+      "backToList": "返回列表",
+      "list": "列表"
+    },
+    "floorPage": {
+      "artworksToDiscover": "件艺术品等待探索",
+      "masterpieces": "杰作",
+      "exploreText": "探索本层的艺术杰作。"
+    },
+    "artworkDetail": {
+      "viewingTips": "观赏提示：",
+      "offlineNote": "*此内容已存储在本地，无需网络即可访问。"
+    }
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "floor": "Zweites Stockwerk",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "Das Zweite Stockwerk präsentiert frühe italienische Malerei bis zur Hochrenaissance mit Meisterwerken von Giotto bis Michelangelo.",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "Einführung",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Ein Überblick über den Rundgang im zweiten Stock der Uffizien, der die wichtigsten historischen Epochen und die Anordnung der Galerien vorstellt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "Lothringisches Vestibül",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "Eingangsbereich, der zu den frühen Gemäldegalerien im zweiten Stock führt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "Östlicher Korridor",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "Langer Korridor als Teil des Hauptrundgangs im zweiten Stock, der mehrere Räume und Bereiche verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "Gemälde des 13. Jahrhunderts",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "Ausgangspunkt für die frühesten Tafelgemälde der Sammlung, eine Einführung in die mittelalterliche italienische Malerei und ihre Andachtsformate.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "'Primitivi'-Räume",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "Galerien, die der frühen italienischen Malerei gewidmet sind, oft mit Fokus auf wegweisende Künstler, die die spätmittelalterliche Kunst prägten.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "Ognissanti-Madonna",
+      "roomCode": "A4",
+      "artist": "Giotto di Bondone",
+      "year": "um 1310",
+      "description": "Dieses Meisterwerk von 1310 laeutete die Renaissance ein! Beachten Sie, wie Giotto mit der flachen byzantinischen Kunst brach: Marias Thron hat echte Tiefe, das Baby hat tatsaechlich Babyspeck, und die Engel ueberlappen sich raeumlich. Die Jungfrau traegt Weiss - die Farbe der Humiliati-Wollhaendler - die das Werk fuer ihre Kirche in Auftrag gaben. Dante selbst lobte Giotto ueber alle anderen Maler. Achten Sie auf die Rosen und Lilien in den Kristallvasen der Engel.",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "Giotto, Ognissanti-Madonna"
+      },
+      "viewing_tips": ["Beachten Sie, wie Giotto ein Gefühl von dreidimensionalem Raum erzeugt", "Vergleichen Sie mit den byzantinischen Madonnen im selben Raum", "Betrachten Sie die realistischen Gesichtsausdrücke der Engel"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "Sieneser Malerschule, 14. Jahrhundert",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "Ein Bereich für die sieneser Malerei des 14. Jahrhunderts, bekannt für Eleganz, raffinierte Linienführung und leuchtende Farben.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "Verkündigung",
+      "roomCode": "A5",
+      "artist": "Simone Martini und Lippo Memmi",
+      "year": "1333",
+      "description": "Dieses gotische Meisterwerk von 1333 revolutionierte die Darstellung der Verkuendigung in der Kunst. Beachten Sie Marias erschrockenes Zurueckweichen - wir sehen genau den Moment ihrer Furcht, bevor sie ihr Schicksal annimmt. Das echte Blattgold schimmerte im Kerzenlicht des Doms von Siena. Gabriel traegt einen Olivenzweig, keine Lilie - Sienas subtiler Seitenhieb gegen die Rivalin Florenz! Achten Sie auf seine Pfauenfeder-Fluegel, die die Auferstehung symbolisieren.",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "Simone Martini und Lippo Memmi, Verkündigung"
+      },
+      "viewing_tips": ["Bewundern Sie die filigrane Goldpunzierung im Hintergrund", "Beachten Sie die erschrockene Geste der Jungfrau", "Suchen Sie den Olivenzweig, den der Engel trägt"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "Darbringung im Tempel",
+      "roomCode": "A5",
+      "artist": "Ambrogio Lorenzetti",
+      "year": "1342",
+      "description": "Eine narrative religiöse Szene der Darbringung, die die Innovationen des 14. Jahrhunderts in Erzählung und räumlicher Organisation widerspiegelt. Lorenzettis architektonische Kulisse schafft ein beispielloses Tiefengefühl.",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "Ambrogio Lorenzetti, Darbringung im Tempel"
+      },
+      "viewing_tips": ["Studieren Sie die architektonische Perspektive", "Beachten Sie, wie die Figuren im Raum interagieren"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "Das 14. Jahrhundert in Florenz",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "Ein Bereich über die florentiner Malerei der 1300er Jahre, der mittelalterliche Tradition mit frühen Renaissance-Entwicklungen verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "Meisterwerke der Internationalen Gotik",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "Werke im Stil der Internationalen Gotik, charakterisiert durch Eleganz, reiche Oberflächendetails und höfische Raffinesse.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "Die Krönung der Jungfrau",
+      "roomCode": "A7",
+      "artist": "Lorenzo Monaco",
+      "year": "1414",
+      "description": "Dieses fast fünf Meter hohe Meisterwerk wurde von einem Mönch für Mitbrüder gemalt! Don Lorenzo lebte im Kloster Santa Maria degli Angeli und verwendete Lapislazuli – teurer als Gold – für Christi leuchtendes blaues Gewand. Sehen Sie die weiß gekleideten Heiligen? Das sind Gründer des Kamaldulenserordens. Die sternenbesetzten Bänder stellen das mittelalterliche Paradies dar. Lorenzos berühmtester Schüler? Fra Angelico, dessen eigene Krönung ganz in der Nähe hängt.",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "Lorenzo Monaco, Die Krönung der Jungfrau"
+      },
+      "viewing_tips": ["Beachten Sie das intensive Ultramarinblau im gesamten Werk", "Betrachten Sie die aufwendigen Textilmuster"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "Anbetung der Könige",
+      "roomCode": "A7",
+      "artist": "Gentile da Fabriano",
+      "year": "1423",
+      "description": "Entdecken Sie den versteckten Auftraggeber! Palla Strozzi, der reichste Mann von Florenz, hat sich selbst mit einem Falken gemalt - ein cleveres Wortspiel, denn 'strozzieri' bedeutet auf Toskanisch Falkner. Er zahlte 300 Florin (sechs Jahreslöhne eines Handwerkers!) für dieses prachtvolle Altarbild. Das Gold war so gestaltet, dass es im Kerzenlicht seiner Familienkapelle schimmerte. Suchen Sie nach Leoparden, Affen und sogar einer Raubszene im Hintergrund. Die rivalisierenden Medici verbannten Strozzi später, aber sein Meisterwerk blieb.",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "Gentile da Fabriano, Anbetung der Könige"
+      },
+      "viewing_tips": ["Folgen Sie der Prozession von den fernen Hügeln bis in den Vordergrund", "Suchen Sie die exotischen Tiere im Gefolge", "Beachten Sie die Goldblatt-Details an Geschirr und Kronen"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "Frührenaissance",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "Ein Bereich über die frühen 1400er Jahre, als Künstler die Malerei durch Perspektive, Anatomie und lebensechteren Raum transformierten.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "Madonna mit Kind und der heiligen Anna",
+      "roomCode": "A8",
+      "artist": "Masaccio und Masolino",
+      "year": "um 1424-1425",
+      "description": "Sie stehen vor dem genauen Moment, als die Renaissance geboren wurde! Zwei Künstler arbeiteten hier 1424 zusammen - aber schauen Sie genau hin. Der junge Masaccio, gerade 23 Jahre alt, malte Maria und Jesus mit revolutionärem Licht und Schatten; sie scheinen zu atmen. Hinter ihnen malte der 41-jährige Masolino die heilige Anna im alten gotischen Stil - flach und ätherisch. Ein Gemälde, zwei Epochen. Masaccio starb mit 27, aber er veränderte die Kunst für immer.",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "Masaccio und Masolino, Madonna mit Kind und der heiligen Anna"
+      },
+      "viewing_tips": ["Vergleichen Sie die plastische Jungfrau von Masaccio mit der zierlicheren heiligen Anna von Masolino", "Beachten Sie, wie Licht plastische Formen erzeugt"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "Die Schlacht von San Romano",
+      "roomCode": "A8",
+      "artist": "Paolo Uccello",
+      "year": "um 1438-1440",
+      "description": "Lorenzo de' Medici wollte diese Gemaelde so unbedingt haben, dass er sie der Familie Bartolini entriss! Dies ist eine von drei Tafeln, die den Sieg von Florenz ueber Siena im Jahr 1432 zeigen - die anderen befinden sich in London und Paris. Beachten Sie die gefallenen Lanzen, die als Perspektivlinien angeordnet sind. Uccellos Frau beklagte sich, er wuerde die ganze Nacht aufbleiben und murmeln: 'Oh, was fuer eine suesse Sache ist diese Perspektive!' Die silberne Ruestung glaenzte einst brillant - jetzt ist sie grau oxidiert.",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "Paolo Uccello, Die Schlacht von San Romano"
+      },
+      "viewing_tips": ["Beachten Sie, wie die gefallenen Lanzen Perspektivlinien erzeugen", "Suchen Sie die geometrischen Muster in der Komposition", "Dies ist eine von drei Tafeln - die anderen sind in London und Paris"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "Herzog und Herzogin von Urbino",
+      "roomCode": "A9",
+      "artist": "Piero della Francesca",
+      "year": "um 1465-1472",
+      "description": "Dieses Diptychon zeigt den groessten Soeldnerfuehrer der italienischen Renaissance und seine geliebte Frau. Federico liess sich immer im Profil malen, um sein fehlendes rechtes Auge zu verbergen - verloren bei einem Turnier 1450, das auch seine beruehmte Nase brach. Battista wurde posthum gemalt, nachdem sie im Alter von 26 Jahren im Kindbett gestorben war. Die Rueckseite zeigt sie auf Triumphwagen, umgeben von Tugenden, fuer immer ueber den Tod hinaus vereint.",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "Piero della Francesca, Herzog und Herzogin von Urbino"
+      },
+      "viewing_tips": ["Betrachten Sie die durchgehende Landschaft über beide Tafeln", "Das Profil des Herzogs verbirgt seine rechte Seite - verletzt bei einem Turnier", "Beachten Sie die allegorischen Szenen auf der Rückseite"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "Madonna mit Kind und zwei Engeln",
+      "roomCode": "A9",
+      "artist": "Filippo Lippi",
+      "year": "um 1465",
+      "description": "Renaissance-Skandal! Im Jahr 1456 entführte der Mönch Filippo Lippi sein Modell - eine junge Nonne namens Lucrezia Buti - aus einer Klosterprozession. Der Papst selbst musste Lippi von seinen Gelübden entbinden! Hier blickt sie vermutlich auf das Jesuskind, während ihr gemeinsamer Sohn Filippino als frecher Engel hervorlugt. Dieses Familienporträt im heiligen Gewand wurde zur Vorlage für Botticelli - er war Lippis Lehrling und bildete später Filippino selbst aus.",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "Filippo Lippi, Madonna mit Kind und zwei Engeln"
+      },
+      "viewing_tips": ["Beachten Sie den verspielten Engel, der direkt den Betrachter anschaut", "Die Landschaft durch das Fenster zeigt Lippis Interesse an der Natur", "Dieses Werk beeinflusste Botticelli, Lippis Schüler, stark"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "Die Pollaiuolos",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "Ein Bereich zu den Pollaiuolo-Brüdern, bekannt für dynamische Figuren, Anatomie-Studien und energiegeladene Renaissance-Kompositionen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "Botticelli-Säle",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "Die berühmtesten Galerien der Uffizien für Botticelli, mit ikonischen mythologischen Gemälden neben wichtigen religiösen Werken.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "Primavera (Der Frühling)",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "um 1477-1482",
+      "description": "Treten Sie ein in diesen verzauberten Garten! Das Werk wurde um 1482 für Lorenzo di Pierfrancesco de' Medici in Auftrag gegeben – einen Cousin von Lorenzo dem Prächtigen – vermutlich anlässlich seiner Hochzeit. Botaniker haben hier über 200 echte Pflanzenarten identifiziert. Der Orangenhain verweist auf die Medici, deren Familienwappen goldene Kugeln enthielt, die an Orangen erinnern. Von rechts: Windgott Zephyr, die Nymphe Chloris, die sich in Flora verwandelt, Venus, die drei Grazien und Merkur.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "Sandro Botticelli, Primavera (Der Frühling)"
+      },
+      "viewing_tips": ["Identifizieren Sie die Figuren: Zephyr, Chloris, Flora, Venus, die drei Grazien, Merkur", "Beachten Sie die Hunderte von abgebildeten Pflanzenarten", "Suchen Sie den Orangenhain, der mit den Medici verbunden ist"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "Die Geburt der Venus",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "um 1484-1486",
+      "description": "Hier ein spannendes Detail – dies ist das erste großformatige Leinwandgemälde, das jemals in der Toskana entstand! Venus erhebt sich aus dem Meer auf ihrer Muschel, von den Winden Zephyr und Aura ans Ufer geweht. Ursprünglich befand sich das Werk in der Villa di Castello der Medici und schmückte jahrhundertelang deren private Gärten, bevor es hierher kam. Beachten Sie, wie Botticellis Venus die Posen antiker Skulpturen aufgreift.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "Sandro Botticelli, Die Geburt der Venus"
+      },
+      "viewing_tips": ["Beachten Sie die Windgötter Zephyr und Aura links", "Die Hora rechts bietet einen mit Blumen verzierten Mantel an", "Die Pose erinnert an antike Venus-Pudica-Skulpturen"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "Madonna del Magnificat",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "um 1481",
+      "description": "Beobachten Sie Maria, wie sie ‚Magnificat anima mea Dominum' schreibt – Meine Seele preist den Herrn – das Gebet, das sie beim Besuch bei Elisabeth sprach. Botticelli krümmte jedes Element, um es in dieses runde Tondo-Format einzupassen, und erzeugte so einen Effekt wie bei einem Konvexspiegel. Zwei Engel krönen sie, während andere das Tintenfass und das Buch halten. Das Christuskind führt die Hand seiner Mutter beim Schreiben. Florentinische Eleganz pur!",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "Sandro Botticelli, Madonna del Magnificat"
+      },
+      "viewing_tips": ["Beachten Sie die gekrümmte Perspektive, angepasst an das runde Format", "Die Jungfrau schreibt 'Magnificat anima mea Dominum'", "Engel halten Tintenfass und Buch für sie"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "Portinari-Triptychon",
+      "roomCode": "A13",
+      "artist": "Hugo van der Goes",
+      "year": "um 1475-1477",
+      "description": "Als dieses gewaltige flämische Meisterwerk 1483 ankam, waren die florentinischen Künstler fassungslos. Sehen Sie diese groben Hirtengesichter mit Stoppeln und wettergegerbten Händen? Die Italiener hatten noch nie Bauern so realistisch gemalt gesehen! Ghirlandaio kopierte sie innerhalb von zwei Jahren. Beachten Sie die Blumen: Schwertlilien für Marias Schmerz, Weizen für die Eucharistie. Tragischerweise starb der Künstler Hugo van der Goes ein Jahr bevor sein Gemälde Florenz erreichte depressiv in einem Kloster - er erfuhr es nie.",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "Hugo van der Goes, Portinari-Triptychon"
+      },
+      "viewing_tips": ["Beachten Sie die realistischen Hirten im Vergleich zu idealisierten italienischen Figuren", "Studieren Sie die Stillleben-Details: Blumen mit symbolischer Bedeutung", "Vergleichen Sie nördliche und italienische Ansätze zum Naturalismus"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "Terrasse zum Kartenraum",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "Ein Übergangsbereich, der zum Kartenraum führt und die Besucher entlang des Rundgangs im zweiten Stock verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "Stanzino delle Matematiche",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "Ein spezialisierter Raum, historisch verbunden mit wissenschaftlichen Instrumenten und Lernthemen im breiteren Medici-Kontext der Uffizien.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "Buontalentis Tribuna",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "Ein historischer achteckiger Raum, geschaffen zur Präsentation wertvoller Medici-Schätze, berühmt für seine reiche Dekoration und zentrale Rolle in der Geschichte der Galerie.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "Alte Rüstkammer",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "In der aktuellen offiziellen Karte entspricht dieser Bereich der Sequenz, die der Renaissance nördlich der Alpen gewidmet ist (A17-A20).",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "Anbetung der Könige",
+      "roomCode": "A20",
+      "artist": "Albrecht Dürer",
+      "year": "1504",
+      "description": "Eine Darstellung des Besuchs der Weisen aus der Nördlichen Renaissance von Dürer, bekannt für Präzision, Detail und einen eigenständigen Umgang mit Form und Landschaft. Das Werk zeigt Dürers Meisterschaft nach seinen Italienreisen.",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "Albrecht Dürer, Anbetung der Könige"
+      },
+      "viewing_tips": ["Beachten Sie die nordeuropäische Aufmerksamkeit für Textur und Detail", "Vergleichen Sie mit italienischen Behandlungen desselben Themas", "Suchen Sie Dürers charakteristische Präzision in den Gewändern"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "Miniaturenkabinett",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "Eine Galerie für kleinformatige Werke und Miniaturen, die raffiniertes Kunsthandwerk in kompakten Formaten hervorhebt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "Corridoio di Mezzogiorno",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "Einer der Hauptkorridore der Uffizien, Teil des architektonischen Rückgrats, das Räume verbindet und Elemente der Sammlung präsentiert.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "Corridoio di Ponente",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "Westlicher Korridorbereich entlang des Rundgangs im zweiten Stock, der wichtige Renaissance-Räume und Ausstellungsbereiche verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "Laokoon",
+      "roomCode": "A24",
+      "artist": "Baccio Bandinelli",
+      "year": "um 1520-1525",
+      "description": "Eine kraftvolle Skulpturengruppe nach dem antiken Laokoon-Thema, verbunden mit dramatischer Bewegung und intensivem Ausdruck.",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "Baccio Bandinelli, Laokoon"
+      },
+      "viewing_tips": ["Vergleichen Sie mit dem berühmten römischen Original im Vatikan"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "Zweite Renaissance",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "Ein Bereich über reife Entwicklungen des 15. Jahrhunderts, der florentiner Innovation mit breiteren italienischen Renaissance-Strömungen verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "Altarbild von Santa Lucia dei Magnoli",
+      "roomCode": "A25",
+      "artist": "Domenico Veneziano",
+      "year": "um 1445-1447",
+      "description": "Ein wegweisendes florentiner Altarbild, bewundert für sein klares Licht, ausgewogene Komposition und raffinierte Farbharmonien. Das Sacra-Conversazione-Format zeigt Heilige um die Jungfrau in einer architektonischen Umgebung versammelt.",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "Domenico Veneziano, Altarbild von Santa Lucia dei Magnoli"
+      },
+      "viewing_tips": ["Beachten Sie das sanfte, diffuse Licht - Domenicos Spezialität", "Die architektonische Kulisse schafft Tiefe durch Perspektive"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "Anbetung der Könige",
+      "roomCode": "A28",
+      "artist": "Filippino Lippi",
+      "year": "1496",
+      "description": "Eine reichhaltige Anbetungsszene, die die narrative Komplexität und ausdrucksstarke Charakterdetails des späten 15. Jahrhunderts widerspiegelt. Filippino war der Sohn von Fra Filippo Lippi und setzte das Vermächtnis seines Vaters fort.",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "Filippino Lippi, Anbetung der Könige"
+      },
+      "viewing_tips": ["Suchen Sie die vielen Porträtfiguren in der Menge", "Beachten Sie die archäologischen Details aus dem antiken Rom"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "Perseus befreit Andromeda",
+      "roomCode": "A30",
+      "artist": "Piero di Cosimo",
+      "year": "um 1510-1515",
+      "description": "Eine mythologische Szene von Rettung und Drama, bemerkenswert für fantasievolles Erzählen und eine ungewöhnliche, traumartige visuelle Welt. Piero di Cosimo war bekannt für seine exzentrische Persönlichkeit und fantastischen Themen.",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "Piero di Cosimo, Perseus befreit Andromeda"
+      },
+      "viewing_tips": ["Beachten Sie das bizarre Seeungeheuer", "Suchen Sie die feiernde Menge nach der Rettung"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "Heilige Familie",
+      "roomCode": "A31",
+      "artist": "Luca Signorelli",
+      "year": "um 1490",
+      "description": "Eine Komposition der Heiligen Familie, verbunden mit Signorellis Interesse an Anatomie, starken Formen und expressiver Figurengestaltung. Sein muskulöser Stil beeinflusste Michelangelo.",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "Luca Signorelli, Heilige Familie"
+      },
+      "viewing_tips": ["Beachten Sie Signorellis Betonung der Muskelanatomie", "Das Tondo-Format war beliebt für häusliche Andacht"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "Leonardo-Saal",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "Eine Galerie mit Schwerpunkt auf Leonardo da Vincis Werken und verwandten Gemälden aus dem späten 15. Jahrhundert.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Verkündigung",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "um 1472-1475",
+      "description": "Der junge Leonardo malte dieses Werk noch als Lehrling in Verrocchios Werkstatt – er war erst etwa 20 Jahre alt! Hier ein Geheimnis: Dieser 'Perspektivfehler' bei Marias rechtem Arm? Er ist beabsichtigt. Das Gemälde war dazu gedacht, von rechts unten betrachtet zu werden, wodurch alles perfekt zusammenpasst. Achten Sie auf die Zypressen – ein Leonardo-Markenzeichen – und seine berühmten dunstig verschwommenen Berge im Hintergrund, gemalt mit der Sfumato-Technik.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "Leonardo da Vinci, Verkündigung"
+      },
+      "viewing_tips": ["Beachten Sie Leonardos Sfumato-Technik in der fernen Landschaft", "Studieren Sie die botanische Genauigkeit der Blumen", "Das Marmor-Lesepult zeigt eine leicht angepasste Perspektive für die Seitenansicht"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Anbetung der Könige",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "um 1481-1482",
+      "description": "Leonardos Vater - ein Notar für diese Mönche - verschaffte seinem Sohn diesen Auftrag von 1481. Doch innerhalb weniger Monate verschwand Leonardo nach Mailand, angeblich mit einer silbernen Lyra, die er als diplomatisches Geschenk geschnitzt hatte! Eine Restaurierung von 2017 enthüllte seine ständigen Experimente: drei verschiedene Pferdeköpfe übereinander gemalt, ein versteckter Elefant, sogar ein mysteriöser Abgrund unter Marias Füßen. Der junge Mann, der sich ganz rechts abwendet? Vermutlich Leonardo selbst mit 30 Jahren.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "Leonardo da Vinci, Anbetung der Könige"
+      },
+      "viewing_tips": ["Der unvollendete Zustand enthüllt Leonardos Arbeitsprozess", "Beachten Sie die wirbelnde Komposition um die Jungfrau zentriert", "Hintergrundszenen zeigen Reiter und architektonische Ruinen"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Die Taufe Christi",
+      "roomCode": "A35",
+      "artist": "Andrea del Verrocchio und Leonardo da Vinci",
+      "year": "um 1472-1475",
+      "description": "Sehen Sie den Engel links, der Christi Gewand hält? Das ist das Werk des jungen Leonardo – und laut Vasari war es so schön, dass sein Meister Verrocchio für immer den Pinsel niederlegte! Vergleichen Sie die beiden Engel: Leonardos zeigt weiches, leuchtendes Sfumato; Verrocchios ist härter und traditioneller. Leonardo malte auch die dunstige Landschaft. Ein Schüler, der seinen Lehrer übertrifft, festgehalten auf einer Tafel.",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "Verrocchio und Leonardo, Die Taufe Christi"
+      },
+      "viewing_tips": ["Vergleichen Sie den linken Engel (Leonardo) mit dem rechten (Verrocchio)", "Beachten Sie Leonardos Sfumato in der fernen Landschaft", "Die Geschichte besagt, Verrocchio gab die Malerei auf, nachdem er Leonardos Arbeit sah"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "Ricetto delle Iscrizioni Antiche",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "Ein Übergangsraum, verbunden mit Inschriften und Antiquitäten, der Räume in der Sequenz des zweiten Stocks verbindet.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "Raffael und Michelangelo",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "Ein zentraler Bereich mit Werken von Raffael und Michelangelo, zu den wichtigsten Höhepunkten der Renaissance-Bestände der Uffizien.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "Doni-Tondo (Heilige Familie)",
+      "roomCode": "A38",
+      "artist": "Michelangelo Buonarroti",
+      "year": "um 1506-1508",
+      "description": "Dies ist Michelangelos EINZIGES vollendetes Tafelbild – er betrachtete sich in erster Linie als Bildhauer! In Auftrag gegeben vom wohlhabenden Kaufmann Agnolo Doni anlässlich seiner Hochzeit, gibt es eine berühmte Geschichte: Michelangelo verlangte zunächst 70 Dukaten, doch als Doni zu handeln versuchte, verdoppelte Michelangelo den Preis auf 140! Übersehen Sie nicht den Originalrahmen – Michelangelo entwarf ihn selbst, mit geschnitzten Köpfen von Christus, Propheten und Sibyllen.",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "Michelangelo, Doni-Tondo"
+      },
+      "viewing_tips": ["Beachten Sie, wie sich die Figuren wie Skulpturen drehen", "Die Akte im Hintergrund sind rätselhaft - vielleicht heidnische Seelen vor Christus", "Der Originalrahmen wurde ebenfalls von Michelangelo entworfen"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "Madonna del Cardellino (Madonna mit dem Stieglitz)",
+      "roomCode": "A38",
+      "artist": "Raffael",
+      "year": "um 1505-1506",
+      "description": "Ein Hochzeitsgeschenk des 23-jaehrigen Raphael aus dem Jahr 1506! Der junge Johannes reicht Christus einen Stieglitz - Symbol seiner kuenftigen Passion, denn der Legende nach bekam der Vogel seinen roten Kopf, als er versuchte, Dornen aus der Krone Christi zu entfernen. Im Jahr 1547 zerschmetterte ein Erdrutsch dieses Gemaelde in 17 Stuecke! Ein Kuenstlerkollege nagelte es wieder zusammen, und eine zehnjaehrige moderne Restaurierung, die 2008 abgeschlossen wurde, enthüllte endlich Raphaels leuchtende Originalfarben.",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "Raffael, Madonna del Cardellino"
+      },
+      "viewing_tips": ["Die pyramidale Komposition schafft perfekte Balance", "Beachten Sie Raffaels sanftes Sfumato, von Leonardo gelernt", "Das Gemälde zerbrach 1547 und wurde später restauriert"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "Porträts von Agnolo und Maddalena Doni",
+      "roomCode": "A38",
+      "artist": "Raffael",
+      "year": "um 1506",
+      "description": "Lernen Sie das Traumpaar kennen, das sowohl Raffael ALS AUCH Michelangelo beauftragte! Tuchhändler Agnolo Doni versuchte, mit Michelangelo über das Doni-Tondo zu feilschen und zahlte am Ende das Doppelte. Fällt Ihnen auf, wie Maddalena der Mona Lisa ähnelt? Raffael studierte zu dieser Zeit Leonardo. Ihr Einhorn-Anhänger mit Rubin, Smaragd und Saphir verkündet ihren Reichtum. Die Rückseiten zeigen Szenen aus Ovid – fragen Sie, ob Sie sie sehen können!",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "Raffael, Porträts von Agnolo und Maddalena Doni"
+      },
+      "viewing_tips": ["Vergleichen Sie mit Leonardos Mona Lisa - beachten Sie die ähnliche Pose für Maddalena", "Der Landschaftshintergrund zeigt Raffaels Schuld gegenüber der flämischen Malerei", "Reicher Schmuck zeigt den Wohlstand des Paares"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "Niobe-Saal",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "Ein monumentaler Raum, verbunden mit klassischer Skulptur und einer der architektonisch beeindruckendsten Galerieräume der Uffizien.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "Madonna der Harpyien",
+      "roomCode": "A41",
+      "artist": "Andrea del Sarto",
+      "year": "1517",
+      "description": "Hier ist ein Maler, der sich nicht an Anweisungen halten konnte! Die Nonnen bestellten den Heiligen Bonaventura – er malte stattdessen den Heiligen Franziskus. Diese Geschöpfe auf dem Sockel, die Vasari ‚Harpyien' nannte? Eigentlich apokalyptische Heuschrecken aus der Offenbarung, mit Maria, die den Eingang zur Hölle versiegelt! Andrea del Sarto wurde wegen seiner technischen Perfektion ‚der fehlerlose Maler' genannt, doch er ignorierte den Vertrag, um etwas weitaus Tiefgründigeres zu schaffen.",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "Andrea del Sarto, Madonna der Harpyien"
+      },
+      "viewing_tips": ["Betrachten Sie die Sphinxen auf dem Sockel (keine Harpyien)", "Beachten Sie die perfekte Balance der Komposition", "Del Sarto wurde 'der fehlerlose Maler' genannt"]
+    }
+  ],
+  "ui": {
+    "title": "Zweites Stockwerk",
+    "subtitle": "Räume A1-A41",
+    "back": "Zurück",
+    "previous": "Vorheriges",
+    "next": "Nächstes",
+    "room": "Raum",
+    "artworks": "Kunstwerke"
+  }
+}

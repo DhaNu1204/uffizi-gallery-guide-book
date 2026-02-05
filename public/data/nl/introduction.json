@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Uffizi Galerij: Geschiedenis & Introductie",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "Wat de Uffizi Is",
+      "content": "De Uffizi is een van de belangrijkste kunstmusea ter wereld, vooral gevierd om zijn meesterwerken van de Italiaanse schilderkunst van de 13e tot de 17e eeuw, evenals belangrijke werken van Noord-Europese scholen. Tegenwoordig ontvouwt de bezoekersroute zich voornamelijk over de Eerste en Tweede Verdieping van het Uffizi-gebouw.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Buitenaanzicht van de Uffizi Galerij"
+      },
+      "tags": ["overzicht"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Waarom Het Werd Gebouwd",
+      "content": "Het Uffizi-complex werd oorspronkelijk niet als museum gebouwd. In 1560 gaf Cosimo I de' Medici opdracht voor een nieuw gebouw om de administratieve en gerechtelijke kantoren van Florence te huisvesten (de \"uffizi\", of kantoren). Giorgio Vasari ontwierp het project en creëerde de beroemde U-vormige indeling met lange vleugels en een grootse stedelijke aanwezigheid naast de Piazza della Signoria en de Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Vasari's architectonisch ontwerp van de Uffizi"
+      },
+      "tags": ["architectuur", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "Hoe Het Museum Begon",
+      "content": "De oorsprong van het museum is verbonden met Francesco I de' Medici. In 1581 richtte hij een galerij in op de bovenste verdieping van de Oostvleugel, aan het eind van de 16e eeuw beschreven als een prachtige collectie schilderijen, beelden en kostbare voorwerpen. Deze vroege galerij werd de kern van wat zou uitgroeien tot de Uffizi zoals we die nu kennen.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Historische afbeelding van de vroege Uffizi Galerij"
+      },
+      "tags": ["oorsprong", "collecties"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "De Tribuna",
+      "content": "Nabij de oorspronkelijke galerij werd de Tribuna in 1584 voltooid door Bernardo Buontalenti. Ontworpen als een spectaculaire tentoonstellingsruimte voor de kostbaarste schatten van de Medici, werd het het symbolische hart van het vroege museum: een \"juwelenkistje\" waar schilderkunst, beeldhouwwerk, edelstenen en zeldzame voorwerpen werden tentoongesteld om de macht, smaak en geleerdheid van de Medici te vieren.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "De Tribuna-zaal in de Uffizi"
+      },
+      "tags": ["tribuna", "hoogtepunten"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "De Vasari Corridor",
+      "content": "In 1565 creëerde Vasari voor de huwelijksviering van Francesco I de verhoogde Vasari Corridor die de Uffizi met het Palazzo Pitti verbindt. De corridor kruist de Arno over de Ponte Vecchio en loopt door Santa Felicita, en was gereserveerd voor de Medici en hoge hoflieden - een stedelijk project met sterke symbolische betekenis en een directe uitdrukking van dynastieke macht.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "De Vasari Corridor over de Ponte Vecchio"
+      },
+      "tags": ["vasari-corridor", "medici", "stad"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "Van Dynastieke Collectie tot Publiek Erfgoed",
+      "content": "In de loop der tijd breidden de Uffizi-collecties zich uit en werd de publieke rol van het museum versterkt. Een beslissend moment kwam met de laatste Medici-erfgename, Anna Maria Luisa de' Medici, die ervoor zorgde dat de collecties in Florence bleven als blijvend publiek erfgoed. In latere eeuwen bleven nieuwe dynastieën en besturen het museum reorganiseren en verrijken, waardoor de Uffizi tot een moderne instelling werd gevormd.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Portret van Anna Maria Luisa de' Medici"
+      },
+      "tags": ["geschiedenis", "collecties"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "De Bezoekersroute Vandaag",
+      "content": "De bezoekersroute van de Uffizi is georganiseerd over twee hoofdniveaus: de Tweede Verdieping presenteert vroege Italiaanse schilderkunst tot de Renaissance, terwijl de Eerste Verdieping zich vooral richt op de late Renaissance, Barok en belangrijke Europese scholen, samen met speciale collecties. Zaalindelingen en tentoonstellingen kunnen veranderen door conservering en lopende museumprojecten - volg tijdens uw bezoek altijd de officiële plattegrond en bewegwijzering ter plaatse.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Modern uitzicht op de gangen van de Uffizi Galerij"
+      },
+      "tags": ["praktisch", "route"]
+    }
+  ],
+  "ui": {
+    "title": "Inleiding",
+    "subtitle": "Geschiedenis van de Uffizi Galerij",
+    "back": "Terug",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "welcome": {
+      "appTitle": "Uffizi Onthuld",
+      "appSubtitle": "Uw Persoonlijke Kunstgids",
+      "languagesAvailable": "15 talen beschikbaar",
+      "enterButton": "Start de Gids",
+      "offlineNote": "Werkt offline na eerste keer laden"
+    },
+    "languageModal": {
+      "title": "Taal Selecteren",
+      "subtitle": "Kies uw voorkeurstaal",
+      "searchPlaceholder": "Talen zoeken...",
+      "popular": "Populair",
+      "allLanguages": "Alle Talen",
+      "results": "Resultaten",
+      "noResults": "Geen talen gevonden",
+      "noResultsHint": "Probeer een andere zoekterm",
+      "rtlEnabled": "RTL-indeling ingeschakeld voor"
+    },
+    "mainMenu": {
+      "header": "Uffizi Onthuld",
+      "loading": "Galerij-gegevens laden...",
+      "errorTitle": "Fout bij laden",
+      "tryAgain": "Opnieuw Proberen",
+      "introduction": "Inleiding",
+      "introSubtitle": "Geschiedenis van de Uffizi Galerij",
+      "secondFloor": "Tweede Verdieping",
+      "firstFloor": "Eerste Verdieping",
+      "artworks": "kunstwerken",
+      "footer": "Florence With Locals · Offline Beschikbaar"
+    },
+    "navigation": {
+      "introduction": "Inleiding",
+      "secondFloor": "2e Verd.",
+      "firstFloor": "1e Verd.",
+      "menu": "Menu",
+      "backToList": "Terug naar Lijst",
+      "list": "Lijst"
+    },
+    "floorPage": {
+      "artworksToDiscover": "kunstwerken te ontdekken",
+      "masterpieces": "Meesterwerken",
+      "exploreText": "Ontdek de meesterwerken op deze verdieping."
+    },
+    "artworkDetail": {
+      "viewingTips": "Kijktips:",
+      "offlineNote": "*Deze inhoud is lokaal opgeslagen en toegankelijk zonder internet."
+    }
+  }
+}

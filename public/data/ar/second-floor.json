@@ -1,0 +1,661 @@
+{
+  "floor": "الطابق الثاني",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "يعرض الطابق الثاني الرسم الإيطالي المبكر حتى عصر النهضة العالي، ويضم روائع من جيوتو إلى مايكل أنجلو.",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "مقدمة",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "نظرة عامة على مسار الطابق الثاني في أوفيزي، تقدم الفترات التاريخية الرئيسية وتخطيط القاعات.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "بهو لورين",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "منطقة البهو المدخلية التي تؤدي إلى قاعات الرسم المبكر في الطابق الثاني.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "الرواق الشرقي",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "رواق طويل يشكل جزءاً من الدائرة الرئيسية للطابق الثاني، يربط بين غرف وأقسام متعددة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "لوحات القرن الثالث عشر",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "نقطة انطلاق لأقدم اللوحات الخشبية في المجموعة، تقدم الرسم الإيطالي في العصور الوسطى وأشكاله التعبدية.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "قاعات 'البدائيين'",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "قاعات مخصصة للرسم الإيطالي المبكر، تركز غالباً على الفنانين البارزين الذين شكلوا فن أواخر العصور الوسطى.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "عذراء أونيسانتي",
+      "roomCode": "A4",
+      "artist": "Giotto di Bondone",
+      "year": "c. 1310",
+      "description": "هذه التحفة من عام 1310 أطلقت شرارة عصر النهضة! لاحظ كيف كسر جيوتو قواعد الفن البيزنطي المسطح: عرش مريم له عمق حقيقي، والطفل يبدو كطفل فعلي بامتلائه الطبيعي، والملائكة تتراكب في الفضاء. ترتدي العذراء اللون الأبيض — لون تجار الصوف الهوميلياتي — الذين كلّفوا برسم هذه اللوحة لكنيستهم. حتى دانتي نفسه أشاد بجيوتو فوق كل الرسامين. ابحث عن الورود والزنابق في مزهريات الملائكة البلورية.",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "جيوتو، عذراء أونيسانتي"
+      },
+      "viewing_tips": ["لاحظ كيف يخلق جيوتو إحساساً بالفضاء ثلاثي الأبعاد", "قارن مع لوحات العذراء ذات الطراز البيزنطي في نفس القاعة", "انظر إلى التعبيرات الواقعية على وجوه الملائكة"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "مدرسة سيينا للرسم، القرن الرابع عشر",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "قسم مخصص لرسم سيينا في القرن الرابع عشر، المعروف بالأناقة والخط المصقول واللون المضيء.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "البشارة",
+      "roomCode": "A5",
+      "artist": "Simone Martini and Lippo Memmi",
+      "year": "1333",
+      "description": "هذه التحفة القوطية من عام 1333 أحدثت ثورة في طريقة تصوير الفنانين للبشارة. لاحظ ارتداد مريم المفاجئ — نحن نشهد لحظة خوفها بالضبط قبل أن تقبل قدرها. كان ورق الذهب الحقيقي يتلألأ على ضوء الشموع في كاتدرائية سيينا. يحمل جبرائيل غصن زيتون وليس زنبقة — تلميح خفي من سيينا ضد منافستها فلورنسا! ابحث عن أجنحته المصنوعة من ريش الطاووس، التي ترمز إلى القيامة.",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "سيموني مارتيني وليبو ميمي، البشارة"
+      },
+      "viewing_tips": ["تأمل الصياغة الذهبية المعقدة في الخلفية", "لاحظ إيماءة العذراء المذهولة", "ابحث عن غصن الزيتون الذي يحمله الملاك"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "تقديم المسيح في الهيكل",
+      "roomCode": "A5",
+      "artist": "Ambrogio Lorenzetti",
+      "year": "1342",
+      "description": "مشهد ديني سردي يظهر التقديم، يعكس ابتكارات القرن الرابع عشر في السرد والتنظيم المكاني. يخلق التصميم المعماري للورنزيتي إحساساً غير مسبوق بالعمق.",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "أمبروجيو لورنزيتي، تقديم المسيح في الهيكل"
+      },
+      "viewing_tips": ["ادرس المنظور المعماري", "لاحظ كيف تتفاعل الشخصيات داخل الفضاء"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "القرن الرابع عشر في فلورنسا",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "قسم يستكشف رسم فلورنسا في القرن الرابع عشر، يربط بين التقليد الوسيط وتطورات عصر النهضة المبكر.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "روائع القوطية الدولية",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "أعمال مرتبطة بالطراز القوطي الدولي، المتميز بالأناقة والتفاصيل السطحية الغنية والرقي الأرستقراطي.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "تتويج العذراء",
+      "roomCode": "A7",
+      "artist": "Lorenzo Monaco",
+      "year": "1414",
+      "description": "هذه التحفة الشاهقة بارتفاع 5 أمتار رسمها راهب لرهبان مثله! عاش الأخ لورنزو في دير سانتا ماريا ديلي أنجيلي واستخدم اللازورد — الأغلى من الذهب — لرداء المسيح الأزرق الساطع. هل ترى القديسين ذوي الأردية البيضاء؟ إنهم مؤسسو رهبانية كامالدولي. تمثل الأشرطة المرصعة بالنجوم الفردوس في التصور الوسيط. أشهر تلاميذ لورنزو؟ الأخ أنجيليكو، الذي تُعرض لوحته الخاصة للتتويج قريباً من هنا.",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "لورنزو موناكو، تتويج العذراء"
+      },
+      "viewing_tips": ["لاحظ اللون الأزرق الأولترامارين الغني المستخدم في جميع أنحاء اللوحة", "انظر إلى أنماط الأقمشة المتقنة"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "سجود المجوس",
+      "roomCode": "A7",
+      "artist": "Gentile da Fabriano",
+      "year": "1423",
+      "description": "اكتشف الراعي المختبئ! رسم بالا ستروتسي، أغنى رجل في فلورنسا، نفسه وهو يحمل صقراً — تورية ذكية لأن كلمة 'ستروتسييري' تعني صقّار باللهجة التوسكانية. دفع 300 فلورين (أجر حرفي لمدة ست سنوات!) مقابل هذه اللوحة المذبحية المبهرة. صُمم الذهب ليتلألأ على ضوء الشموع في كنيسة عائلته الخاصة. ابحث عن الفهود والقرود وحتى مشهد سرقة في الخلفية. نفى آل ميديشي المنافسون ستروتسي لاحقاً، لكن تحفته بقيت هنا.",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "جنتيلي دا فابريانو، سجود المجوس"
+      },
+      "viewing_tips": ["تتبع الموكب من التلال البعيدة إلى المقدمة", "ابحث عن الحيوانات الغريبة في الحاشية", "لاحظ تفاصيل الذهب على الأحزمة والتيجان"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "عصر النهضة المبكر",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "قسم يركز على أوائل القرن الخامس عشر، عندما حوّل الفنانون الرسم من خلال المنظور والتشريح والفضاء الأكثر واقعية.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "العذراء والطفل مع القديسة آن",
+      "roomCode": "A8",
+      "artist": "Masaccio and Masolino",
+      "year": "c. 1424-1425",
+      "description": "أنت تقف أمام اللحظة التي وُلد فيها عصر النهضة! تعاون فنانان هنا عام 1424 — لكن دقق جيداً. رسم مازاتشو الشاب، وكان عمره 23 عاماً فقط، مريم ويسوع بضوء وظل ثوريين؛ يبدوان وكأنهما يتنفسان. خلفهما، رسم مازولينو البالغ من العمر 41 عاماً القديسة آن بالأسلوب القوطي القديم — مسطحة وأثيرية. لوحة واحدة، عصران مختلفان. مات مازاتشو وهو في السابعة والعشرين لكنه غيّر الفن إلى الأبد.",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "مازاتشو ومازولينو، العذراء والطفل مع القديسة آن"
+      },
+      "viewing_tips": ["قارن العذراء النحتية لمازاتشو مع القديسة آن الأكثر رقة لمازولينو", "لاحظ كيف يخلق الضوء أشكالاً صلبة"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "معركة سان رومانو",
+      "roomCode": "A8",
+      "artist": "Paolo Uccello",
+      "year": "c. 1438-1440",
+      "description": "أراد لورنزو دي ميديشي هذه اللوحات بشدة لدرجة أنه صادرها من عائلة بارتوليني! هذه واحدة من ثلاث لوحات تُظهر انتصار فلورنسا عام 1432 على سيينا — الأخريان في لندن وباريس. لاحظ الرماح الساقطة المرتبة كخطوط منظور. اشتكت زوجة أوتشيللو أنه كان يسهر طوال الليل يتمتم: 'يا له من شيء جميل هذا المنظور!' كان الدرع الفضي يلمع ببريق رائع — لكنه الآن تأكسد وأصبح رمادياً.",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "باولو أوتشيللو، معركة سان رومانو"
+      },
+      "viewing_tips": ["لاحظ كيف تخلق الرماح الساقطة خطوط منظور", "ابحث عن الأنماط الهندسية في التكوين", "هذه واحدة من ثلاث لوحات - الأخريان في لندن وباريس"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "دوق ودوقة أوربينو",
+      "roomCode": "A9",
+      "artist": "Piero della Francesca",
+      "year": "c. 1465-1472",
+      "description": "هذه اللوحة المزدوجة تُظهر أعظم قائد مرتزقة في إيطاليا عصر النهضة وزوجته الحبيبة. كان فيديريكو يُرسم دائماً من الجانب ليُخفي عينه اليمنى المفقودة — التي فقدها في بطولة عام 1450 والتي كسرت أيضاً أنفه الشهير. رُسمت باتيستا بعد وفاتها إثر موتها أثناء الولادة عن عمر 26 عاماً. يُظهر الجانب الخلفي كليهما على عربات نصر محاطين بالفضائل، متحدين إلى الأبد عبر الموت.",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "بييرو ديلا فرانشيسكا، دوق ودوقة أوربينو"
+      },
+      "viewing_tips": ["انظر إلى المشهد الطبيعي المتواصل عبر اللوحتين", "الصورة الجانبية للدوق تخفي جانبه الأيمن - المتضرر في بطولة", "لاحظ المشاهد الرمزية على الجانب الخلفي"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "العذراء والطفل مع ملاكين",
+      "roomCode": "A9",
+      "artist": "Filippo Lippi",
+      "year": "c. 1465",
+      "description": "فضيحة من عصر النهضة! في عام 1456، اختطف الراهب فيليبو ليبي عارضته — راهبة شابة تُدعى لوكريتسيا بوتي — من موكب ديري. اضطر البابا نفسه لإعفاء ليبي من نذوره! هنا على الأرجح تحدق لوكريتسيا بالطفل يسوع بينما يطل ابنهما الحقيقي فيليبينو كملاك مشاغب. هذه الصورة العائلية المتخفية في ثوب مقدس أصبحت نموذجاً لبوتيتشيلي — الذي كان تلميذ ليبي ودرّب فيليبينو لاحقاً بنفسه.",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "فيليبو ليبي، العذراء والطفل مع ملاكين"
+      },
+      "viewing_tips": ["لاحظ الملاك المرح الذي ينظر مباشرة إلى المشاهد", "يُظهر المشهد الطبيعي عبر النافذة اهتمام ليبي بالطبيعة", "أثر هذا العمل بشكل كبير على بوتيتشيلي، تلميذ ليبي"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "آل بولايولو",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "قسم يتمحور حول الأخوين بولايولو، المعروفين بالشخصيات الديناميكية ودراسات التشريح وتكوينات عصر النهضة الحيوية.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "قاعات بوتيتشيلي",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "أشهر قاعات أوفيزي لبوتيتشيلي، تضم لوحات أسطورية أيقونية إلى جانب أعمال دينية رئيسية.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "الربيع (بريمافيرا)",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1477-1482",
+      "description": "ادخل إلى هذه الحديقة الساحرة! كُلّف بها حوالي عام 1482 للورنزو دي بييرفرانشيسكو دي ميديشي — ابن عم لورنزو العظيم — على الأرجح بمناسبة زفافه. حدد علماء النبات أكثر من 200 نوع نباتي حقيقي هنا. يرتبط بستان البرتقال بآل ميديشي، الذين تضمن شعار عائلتهم كرات ذهبية تشبه البرتقال. من اليمين: إله الرياح زيفير، الحورية كلوريس وهي تتحول إلى فلورا، فينوس، الرشاقات الثلاث، وميركوري.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "ساندرو بوتيتشيلي، الربيع (بريمافيرا)"
+      },
+      "viewing_tips": ["حدد الشخصيات: زيفير، كلوريس، فلورا، فينوس، الرشاقات الثلاث، ميركوري", "لاحظ مئات الأنواع النباتية المصورة", "ابحث عن بستان البرتقال المرتبط بآل ميديشي"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "ولادة فينوس",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1484-1486",
+      "description": "إليك معلومة طريفة — هذه أول لوحة قماشية كبيرة الحجم تُرسم في توسكانا على الإطلاق! تخرج فينوس من البحر على صدفتها، تدفعها الرياح زيفير وأورا نحو الشاطئ. كانت اللوحة في الأصل في فيلا آل ميديشي في كاستيلو، وقضت قروناً تزيّن حدائقهم الخاصة قبل أن تصل إلى هنا. لاحظ كيف تردد وضعية فينوس عند بوتيتشيلي أوضاع التماثيل القديمة.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "ساندرو بوتيتشيلي، ولادة فينوس"
+      },
+      "viewing_tips": ["لاحظ إلهي الرياح زيفير وأورا على اليسار", "تقدم الهورا على اليمين عباءة مزينة بالزهور", "تردد الوضعية تماثيل فينوس بوديكا القديمة"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "عذراء الماغنيفيكات",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1481",
+      "description": "شاهد مريم وهي تكتب 'تعظم نفسي الرب' — الصلاة التي تلتها عند زيارتها لإليصابات. انحنى بوتيتشيلي كل عنصر ليناسب هذا الشكل الدائري (التوندو)، مما يخلق تأثيراً يشبه المرآة المحدبة. ملاكان يتوّجانها بينما يحمل آخرون المحبرة والكتاب. يوجّه الطفل المسيح يد أمه وهي تكتب. أناقة فلورنسية خالصة!",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "ساندرو بوتيتشيلي، عذراء الماغنيفيكات"
+      },
+      "viewing_tips": ["لاحظ المنظور المنحني المكيف للشكل الدائري", "تكتب العذراء 'تعظم نفسي الرب'", "يحمل الملائكة محبرة وكتاباً لها"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "مذبح بورتيناري الثلاثي",
+      "roomCode": "A13",
+      "artist": "Hugo van der Goes",
+      "year": "c. 1475-1477",
+      "description": "عندما وصلت هذه التحفة الفلمنكية الضخمة عام 1483، أُصيب الفنانون الفلورنسيون بالذهول. هل ترى هؤلاء الرعاة ذوي الوجوه الخشنة بلحاهم القصيرة وأيديهم المتعبة من العمل؟ لم يسبق للإيطاليين أن رأوا فلاحين مرسومين بهذه الواقعية! قلّدهم غيرلاندايو في غضون عامين. لاحظ الأزهار: السوسن يرمز لحزن مريم، والقمح للقربان المقدس. والمأساوي أن الفنان هوغو فان دير غوس مات مكتئباً في دير قبل عام واحد من وصول لوحته إلى فلورنسا — لم يعرف قط بنجاحها.",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "هوغو فان دير غوس، مذبح بورتيناري الثلاثي"
+      },
+      "viewing_tips": ["لاحظ الرعاة الواقعيين مقارنة بالشخصيات الإيطالية المثالية", "ادرس تفاصيل الطبيعة الصامتة: الزهور ذات المعاني الرمزية", "قارن بين النهج الشمالي والإيطالي في الطبيعية"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "الشرفة المؤدية إلى قاعة الخرائط",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "منطقة شرفة انتقالية تؤدي نحو قاعة الخرائط، تربط الزوار على طول دائرة الطابق الثاني.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "غرفة الرياضيات",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "غرفة متخصصة مرتبطة تاريخياً بالأدوات العلمية وموضوعات التعلم ضمن سياق ميديشي الأوسع في أوفيزي.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "منصة بوونتالينتي",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "غرفة ثمانية الأضلاع تاريخية أُنشئت لعرض كنوز ميديشي الثمينة، مشهورة بزخرفتها الغنية ودورها المركزي في تاريخ المعرض.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "المستودع القديم للأسلحة",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "في الخريطة الرسمية الحالية، تتوافق هذه المنطقة مع التسلسل المخصص لعصر النهضة خارج جبال الألب (A17-A20).",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "سجود المجوس",
+      "roomCode": "A20",
+      "artist": "Albrecht Durer",
+      "year": "1504",
+      "description": "تصوير من عصر النهضة الشمالية لزيارة المجوس بريشة دورر، معروف بالدقة والتفاصيل ونهج متميز للشكل والمشهد الطبيعي. يُظهر العمل إتقان دورر بعد رحلاته الإيطالية.",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "ألبريخت دورر، سجود المجوس"
+      },
+      "viewing_tips": ["لاحظ الاهتمام الأوروبي الشمالي بالملمس والتفاصيل", "قارن مع المعالجات الإيطالية لنفس الموضوع", "ابحث عن دقة دورر المميزة في الأقمشة"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "خزانة المنمنمات",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "قاعة مخصصة للأعمال صغيرة الحجم والمنمنمات، تبرز الحرفية المصقولة في الأشكال المدمجة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "رواق الجنوب",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "أحد الأروقة الرئيسية في أوفيزي، جزء من العمود الفقري المعماري الذي يربط القاعات ويعرض عناصر من المجموعة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "الرواق الغربي",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "منطقة الرواق الغربي على طول مسار الطابق الثاني، تربط قاعات عصر النهضة الرئيسية ومساحات العرض الكبرى.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "لاوكون",
+      "roomCode": "A24",
+      "artist": "Baccio Bandinelli",
+      "year": "c. 1520-1525",
+      "description": "مجموعة نحتية قوية مبنية على موضوع لاوكون القديم، مرتبطة بالحركة الدرامية والتعبير المكثف.",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "باتشو بانديينيلي، لاوكون"
+      },
+      "viewing_tips": ["قارن مع النسخة الرومانية الشهيرة في الفاتيكان"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "عصر النهضة الثاني",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "قسم يركز على تطورات القرن الخامس عشر الناضجة، يربط بين ابتكار فلورنسا وتيارات عصر النهضة الإيطالي الأوسع.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "مذبح سانتا لوتشيا دي مانيولي",
+      "roomCode": "A25",
+      "artist": "Domenico Veneziano",
+      "year": "c. 1445-1447",
+      "description": "لوحة مذبح فلورنسية بارزة يُعجب بها لضوئها الواضح وتكوينها المتوازن وتناغماتها اللونية المصقولة. يُظهر شكل المحادثة المقدسة القديسين مجتمعين حول العذراء في إطار معماري.",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "دومينيكو فينيتسيانو، مذبح سانتا لوتشيا دي مانيولي"
+      },
+      "viewing_tips": ["لاحظ الضوء الناعم المنتشر - تخصص دومينيكو", "يخلق الإطار المعماري عمقاً من خلال المنظور"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "سجود المجوس",
+      "roomCode": "A28",
+      "artist": "Filippino Lippi",
+      "year": "1496",
+      "description": "مشهد سجود غني بالشخصيات يعكس تعقيد السرد وتفاصيل الشخصيات التعبيرية في أواخر القرن الخامس عشر. كان فيليبينو ابن فرا فيليبو ليبي وواصل إرث والده.",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "فيليبينو ليبي، سجود المجوس"
+      },
+      "viewing_tips": ["ابحث عن العديد من شخصيات البورتريه في الحشد", "لاحظ التفاصيل الأثرية من روما القديمة"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "بيرسيوس يحرر أندروميدا",
+      "roomCode": "A30",
+      "artist": "Piero di Cosimo",
+      "year": "c. 1510-1515",
+      "description": "مشهد أسطوري من الإنقاذ والدراما، ملحوظ بالسرد الخيالي وعالم بصري غير عادي أشبه بالحلم. عُرف بييرو دي كوزيمو بشخصيته الغريبة وموضوعاته الخيالية.",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "بييرو دي كوزيمو، بيرسيوس يحرر أندروميدا"
+      },
+      "viewing_tips": ["لاحظ وحش البحر الغريب", "ابحث عن الحشد المحتفل بعد الإنقاذ"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "العائلة المقدسة",
+      "roomCode": "A31",
+      "artist": "Luca Signorelli",
+      "year": "c. 1490",
+      "description": "تكوين للعائلة المقدسة مرتبط باهتمام سينيوريلي بالتشريح والأشكال القوية والتصميم التعبيري للشخصيات. أثر أسلوبه العضلي على مايكل أنجلو.",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "لوكا سينيوريلي، العائلة المقدسة"
+      },
+      "viewing_tips": ["لاحظ تركيز سينيوريلي على التشريح العضلي", "كان شكل التوندو شائعاً للعبادة المنزلية"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "قاعة ليوناردو",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "قاعة مخصصة تتمحور حول أعمال ليوناردو دا فينشي ولوحات ذات صلة من أواخر القرن الخامس عشر.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "البشارة",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "رسم ليوناردو الشاب هذه اللوحة وهو لا يزال متدرباً في ورشة فيروكيو — كان في العشرين من عمره تقريباً! إليك سراً: ذلك 'الخطأ في المنظور' في ذراع مريم اليمنى؟ إنه مقصود. صُممت اللوحة لتُشاهد من أسفل اليمين، مما يجعل كل شيء يتناسق بشكل مثالي. ابحث عن أشجار السرو — علامة ليوناردو المميزة — وجباله الضبابية الشهيرة باستخدام تقنية السفوماتو في الخلفية.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "ليوناردو دا فينشي، البشارة"
+      },
+      "viewing_tips": ["لاحظ تقنية ليوناردو في السفوماتو في المشهد الطبيعي البعيد", "ادرس الدقة النباتية للزهور", "يُظهر حامل القراءة الرخامي منظوراً معدلاً قليلاً للرؤية الجانبية"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "سجود المجوس",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1481-1482",
+      "description": "والد ليوناردو — وكان كاتب عدل لهؤلاء الرهبان — حصل لابنه على هذا التكليف عام 1481. لكن في غضون أشهر، اختفى ليوناردو إلى ميلانو، وقيل إنه كان يحمل قيثارة فضية نحتها كهدية دبلوماسية! كشفت عملية ترميم عام 2017 عن تجاربه المستمرة: ثلاثة رؤوس خيول مختلفة مرسومة فوق بعضها، وفيل مخفي، وحتى هوة غامضة تحت قدمي مريم. ذلك الشاب المُدبر ظهره في أقصى اليمين؟ على الأرجح هو ليوناردو نفسه وهو في الثلاثين من عمره.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "ليوناردو دا فينشي، سجود المجوس"
+      },
+      "viewing_tips": ["تكشف الحالة غير المكتملة عن عملية عمل ليوناردو", "لاحظ التكوين الدوار المتمركز حول العذراء", "تتضمن مشاهد الخلفية فرساناً وأطلالاً معمارية"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "معمودية المسيح",
+      "roomCode": "A35",
+      "artist": "Andrea del Verrocchio and Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "هل ترى ذلك الملاك على اليسار الذي يحمل رداء المسيح؟ هذا من عمل ليوناردو الشاب — ووفقاً لفازاري، كان جميلاً لدرجة أن معلمه فيروكيو أسقط فُرَشه إلى الأبد! قارن بين الملاكين: ملاك ليوناردو يتميز بتقنية السفوماتو الناعمة المضيئة؛ بينما ملاك فيروكيو أكثر صلابة وتقليدية. رسم ليوناردو أيضاً المشهد الطبيعي الضبابي. تلميذ يتفوق على معلمه، مُجسّداً على لوحة واحدة.",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "فيروكيو وليوناردو، معمودية المسيح"
+      },
+      "viewing_tips": ["قارن الملاك الأيسر (ليوناردو) مع الأيمن (فيروكيو)", "لاحظ سفوماتو ليوناردو في المشهد الطبيعي البعيد", "تقول القصة إن فيروكيو تخلى عن الرسم بعد رؤية عمل ليوناردو"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "قاعة النقوش القديمة",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "فضاء انتقالي مرتبط بالنقوش والآثار القديمة، يربط القاعات في تسلسل الطابق الثاني.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "رافائيل ومايكل أنجلو",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "قسم رئيسي يعرض أعمال رافائيل ومايكل أنجلو، من بين أهم معالم مقتنيات أوفيزي من عصر النهضة.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "توندو دوني (العائلة المقدسة)",
+      "roomCode": "A38",
+      "artist": "Michelangelo Buonarroti",
+      "year": "c. 1506-1508",
+      "description": "هذه هي لوحة مايكل أنجلو الوحيدة المكتملة على لوح خشبي — فقد كان يعتبر نفسه نحاتاً في المقام الأول! كُلّف بها التاجر الثري أنيولو دوني بمناسبة زفافه، وهناك قصة شهيرة: طلب مايكل أنجلو في البداية 70 دوكاتاً، لكن عندما حاول دوني المساومة، ضاعف مايكل أنجلو السعر إلى 140! لا تفوّت الإطار الأصلي — صممه مايكل أنجلو بنفسه، ويتميز برؤوس منحوتة للمسيح والأنبياء والعرافات.",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "مايكل أنجلو، توندو دوني"
+      },
+      "viewing_tips": ["لاحظ كيف تتلوى الشخصيات كالمنحوتات", "العراة في الخلفية غامضون - ربما أرواح وثنية قبل المسيح", "صُمم الإطار الأصلي أيضاً بواسطة مايكل أنجلو"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "عذراء الحسون",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1505-1506",
+      "description": "هدية زفاف من رافائيل ذي الثلاث وعشرين عاماً في 1506! يُقدم الطفل يوحنا للمسيح طائر حسون — رمز لآلامه المستقبلية، إذ تقول الأسطورة أن الطائر اكتسب رأسه الأحمر وهو يحاول إزالة الأشواك من تاج المسيح. في عام 1547، حطّم انهيار أرضي هذه اللوحة إلى 17 قطعة! قام فنان زميل بتسميرها معاً، وأخيراً كشفت عملية ترميم حديثة استمرت 10 سنوات واكتملت في 2008 عن ألوان رافائيل المشرقة الأصلية.",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "رافائيل، عذراء الحسون"
+      },
+      "viewing_tips": ["يخلق التكوين الهرمي توازناً مثالياً", "لاحظ سفوماتو رافائيل الناعم المتعلم من ليوناردو", "تحطمت اللوحة عام 1547 ورُممت لاحقاً"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "بورتريهات أنيولو ومادالينا دوني",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1506",
+      "description": "تعرّف على الثنائي القوي الذي كلّف كلاً من رافائيل ومايكل أنجلو! حاول تاجر الأقمشة أنيولو دوني المساومة مع مايكل أنجلو على توندو دوني فانتهى به الأمر يدفع الضعف. لاحظ كيف تعكس مادالينا وضعية الموناليزا؟ كان رافائيل يدرس أعمال ليوناردو في ذلك الوقت. قلادتها المرصعة بأحادي القرن مع الياقوت والزمرد والياقوت الأزرق تُعلن عن ثروتهما. الجانب الخلفي للوحتين يُظهر مشاهد من أوفيد — اطلب رؤيتها!",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "رافائيل، بورتريهات أنيولو ومادالينا دوني"
+      },
+      "viewing_tips": ["قارن مع الموناليزا لليوناردو - لاحظ الوضعية المماثلة لمادالينا", "تُظهر خلفية المشهد الطبيعي دين رافائيل للرسم الفلمنكي", "تعرض المجوهرات الغنية ثروة الزوجين"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "قاعة نيوبي",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "قاعة ضخمة مرتبطة بالنحت الكلاسيكي وواحدة من أكثر مساحات المعرض إثارة معمارياً في أوفيزي.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "عذراء الهاربيز",
+      "roomCode": "A41",
+      "artist": "Andrea del Sarto",
+      "year": "1517",
+      "description": "إليكم رساماً لم يستطع اتباع التعليمات! طلبت الراهبات القديس بونافنتورا — فرسم القديس فرنسيس بدلاً منه. تلك المخلوقات على القاعدة التي سماها فازاري 'هاربيز'؟ في الحقيقة هي جراد الرؤيا من سفر الرؤيا، ومريم تختم مدخل الجحيم! لُقب أندريا ديل سارتو 'الرسام بلا عيب' لإتقانه التقني، لكنه تجاهل العقد ليبتكر شيئاً أعمق بكثير.",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "أندريا ديل سارتو، عذراء الهاربيز"
+      },
+      "viewing_tips": ["انظر إلى تماثيل أبو الهول على القاعدة (وليست هاربيز)", "لاحظ التوازن المثالي للتكوين", "لُقب ديل سارتو 'الرسام بلا عيب'"]
+    }
+  ],
+  "ui": {
+    "title": "الطابق الثاني",
+    "subtitle": "القاعات A1-A41",
+    "back": "رجوع",
+    "previous": "السابق",
+    "next": "التالي",
+    "room": "قاعة",
+    "artworks": "الأعمال الفنية"
+  }
+}

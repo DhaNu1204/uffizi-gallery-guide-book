@@ -1,0 +1,661 @@
+{
+  "floor": "Tweede Verdieping",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "De Tweede Verdieping presenteert vroege Italiaanse schilderkunst tot de Hoge Renaissance, met meesterwerken van Giotto tot Michelangelo.",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "Inleiding",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "Een overzicht van de route op de tweede verdieping van de Uffizi, met een introductie van de belangrijkste historische periodes en de indeling van de galerijen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "Lotharingse Vestibule",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "Entreevestibule die leidt naar de galerijen met vroege schilderkunst op de tweede verdieping.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "Oostelijke Gang",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "Lange gang die deel uitmaakt van het hoofdcircuit op de tweede verdieping en meerdere zalen en secties met elkaar verbindt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "Schilderkunst uit de 13e Eeuw",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "Een startpunt voor de vroegste paneelschilderijen van de collectie, met een introductie van de middeleeuwse Italiaanse schilderkunst en haar devotionele vormen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "Zalen van de 'Primitieven'",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "Galerijen gewijd aan vroege Italiaanse schilderkunst, vaak gericht op baanbrekende kunstenaars die de laat-middeleeuwse kunst vormgaven.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "Ognissanti Madonna",
+      "roomCode": "A4",
+      "artist": "Giotto di Bondone",
+      "year": "c. 1310",
+      "description": "Dit meesterwerk uit 1310 luidde de Renaissance in! Let op hoe Giotto brak met de vlakke Byzantijnse kunst: Maria's troon heeft echte diepte, de baby heeft daadwerkelijk babyvet, en de engelen overlappen elkaar in de ruimte. De Maagd draagt wit—de kleur van de Humiliati wolhandelaren—die het voor hun kerk bestelden. Dante zelf prees Giotto boven alle schilders. Zoek naar de rozen en lelies in de kristallen vazen van de engelen.",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "Giotto, Ognissanti Madonna"
+      },
+      "viewing_tips": ["Let op hoe Giotto een gevoel van driedimensionale ruimte creëert", "Vergelijk met de Madonna's in Byzantijnse stijl in dezelfde zaal", "Kijk naar de realistische uitdrukkingen op de gezichten van de engelen"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "Siënese Schilderschool, 14e Eeuw",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie gewijd aan 14e-eeuwse Siënese schilderkunst, bekend om elegantie, verfijnde lijnvoering en lumineuze kleuren.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "Annunciatie",
+      "roomCode": "A5",
+      "artist": "Simone Martini and Lippo Memmi",
+      "year": "1333",
+      "description": "Dit gotische meesterwerk uit 1333 veranderde voorgoed hoe kunstenaars de Annunciatie uitbeeldden. Let op Maria's geschrokken terugdeinzing—we zien haar exacte moment van angst voordat ze haar lot aanvaardt. Het echte bladgoud glinsterde bij kaarslicht in de Dom van Siena. Gabriël draagt een olijftak, geen lelie—Siena's subtiele steek naar rivaal Florence! Zoek naar zijn pauwenveren vleugels, symbool van de opstanding.",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "Simone Martini en Lippo Memmi, Annunciatie"
+      },
+      "viewing_tips": ["Bewonder het ingewikkelde goudwerk in de achtergrond", "Let op het geschrokken gebaar van de Maagd", "Zoek naar de olijftak die de engel draagt"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "Opdracht in de Tempel",
+      "roomCode": "A5",
+      "artist": "Ambrogio Lorenzetti",
+      "year": "1342",
+      "description": "Een narratieve religieuze scène die de Opdracht toont, waarin 14e-eeuwse vernieuwingen in vertelkunst en ruimtelijke organisatie tot uiting komen. Lorenzetti's architecturale setting creëert een ongekend gevoel van diepte.",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "Ambrogio Lorenzetti, Opdracht in de Tempel"
+      },
+      "viewing_tips": ["Bestudeer het architecturale perspectief", "Let op hoe figuren binnen de ruimte interageren"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "De 14e Eeuw in Florence",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie die de Florentijnse schilderkunst van de 14e eeuw verkent, als brug tussen middeleeuwse traditie en vroege Renaissance-ontwikkelingen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "Meesterwerken van de Internationale Gotiek",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "Werken verbonden met de Internationale Gotische stijl, gekenmerkt door elegantie, rijke oppervlaktedetails en hoofse verfijning.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "De Kroning van de Maagd",
+      "roomCode": "A7",
+      "artist": "Lorenzo Monaco",
+      "year": "1414",
+      "description": "Dit torenhoge meesterwerk van bijna 5 meter is geschilderd door een monnik voor medemonniken! Don Lorenzo woonde in het klooster Santa Maria degli Angeli en gebruikte lapis lazuli—kostbaarder dan goud—voor Christus' schitterende blauwe gewaad. Zie je de heiligen in witte gewaden? Dat zijn Camaldulenser stichters. De sterrenhemel stelt het middeleeuwse paradijs voor. Lorenzo's beroemdste leerling? Fra Angelico, wiens eigen Kroning vlakbij hangt.",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "Lorenzo Monaco, De Kroning van de Maagd"
+      },
+      "viewing_tips": ["Let op het rijke ultramarijnblauw dat overal is gebruikt", "Kijk naar de uitgebreide textielpatronen"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "Aanbidding der Wijzen",
+      "roomCode": "A7",
+      "artist": "Gentile da Fabriano",
+      "year": "1423",
+      "description": "Zoek de verborgen opdrachtgever! Florence' rijkste man, Palla Strozzi, schilderde zichzelf met een valk in de hand—een slimme woordspeling omdat 'strozzieri' valkenier betekent in het Toscaans. Hij betaalde 300 florijnen (zes jaar loon voor een ambachtsman!) voor dit schitterende altaarstuk. Het goud was ontworpen om te glinsteren bij kaarslicht in zijn familiekapel. Zoek naar luipaarden, apen en zelfs een roofscène op de achtergrond. De rivaliserende Medici verbanden Strozzi later, maar zijn meesterwerk bleef.",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "Gentile da Fabriano, Aanbidding der Wijzen"
+      },
+      "viewing_tips": ["Volg de stoet van de verre heuvels naar de voorgrond", "Zoek naar de exotische dieren in het gevolg", "Let op de bladgouddetails op de harnassen en kronen"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "Vroege Renaissance",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie gericht op de vroege 15e eeuw, toen kunstenaars de schilderkunst transformeerden door perspectief, anatomie en meer levensechte ruimte.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "Madonna en Kind met de Heilige Anna",
+      "roomCode": "A8",
+      "artist": "Masaccio and Masolino",
+      "year": "c. 1424-1425",
+      "description": "Je staat voor het exacte moment waarop de Renaissance werd geboren! Twee kunstenaars werkten hier samen in 1424—maar kijk goed. De jonge Masaccio, slechts 23 jaar oud, schilderde Maria en Jezus met revolutionair licht en schaduw; ze lijken te ademen. Achter hen schilderde de 41-jarige Masolino de heilige Anna in de oude gotische stijl—vlak en etherisch. Eén schilderij, twee tijdperken. Masaccio stierf op 27-jarige leeftijd, maar veranderde de kunst voorgoed.",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "Masaccio en Masolino, Madonna en Kind met de Heilige Anna"
+      },
+      "viewing_tips": ["Vergelijk de sculpturale Maagd van Masaccio met de delicatere Heilige Anna van Masolino", "Let op hoe licht solide vormen creëert"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "Slag bij San Romano",
+      "roomCode": "A8",
+      "artist": "Paolo Uccello",
+      "year": "c. 1438-1440",
+      "description": "Lorenzo de' Medici wilde deze schilderijen zo graag hebben dat hij ze in beslag nam van de familie Bartolini! Dit is een van drie panelen die de overwinning van Florence op Siena in 1432 tonen—de andere hangen in Londen en Parijs. Let op de gevallen lansen die als perspectieflijnen zijn gerangschikt. Uccello's vrouw klaagde dat hij de hele nacht opbleef en mompelde 'Oh, wat een heerlijk ding is dit perspectief!' Het zilveren harnas glansde ooit schitterend—nu geoxideerd tot grijs.",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "Paolo Uccello, Slag bij San Romano"
+      },
+      "viewing_tips": ["Let op hoe de gevallen lansen perspectieflijnen creëren", "Zoek naar de geometrische patronen in de compositie", "Dit is een van drie panelen - de andere zijn in Londen en Parijs"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "Hertog en Hertogin van Urbino",
+      "roomCode": "A9",
+      "artist": "Piero della Francesca",
+      "year": "c. 1465-1472",
+      "description": "Dit tweeluik toont Renaissance-Italië's grootste huurlingenkapitein en zijn geliefde echtgenote. Federico poseerde altijd in profiel om zijn ontbrekende rechteroog te verbergen—verloren bij een toernooi in 1450 dat ook zijn beroemde neus brak. Battista werd postuum geschilderd nadat ze op 26-jarige leeftijd in het kraambed stierf. De achterzijde toont hen op triomfwagens omringd door deugden, voor eeuwig verenigd over de dood heen.",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "Piero della Francesca, Hertog en Hertogin van Urbino"
+      },
+      "viewing_tips": ["Kijk naar het doorlopende landschap over beide panelen", "Het profiel van de Hertog verbergt zijn rechterkant - beschadigd bij een toernooi", "Let op de allegorische scènes op de achterzijde"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "Madonna en Kind met Twee Engelen",
+      "roomCode": "A9",
+      "artist": "Filippo Lippi",
+      "year": "c. 1465",
+      "description": "Renaissance-schandaal! In 1456 ontvoerde monnik Filippo Lippi zijn model—een jonge non genaamd Lucrezia Buti—tijdens een kloosterprocessie. De paus zelf moest Lippi van zijn geloften ontslaan! Hier kijkt zij vermoedelijk naar de baby Jezus, terwijl hun echte zoon Filippino als ondeugende engel naar buiten gluurt. Dit familieportret in heilige vermomming werd Botticelli's voorbeeld—hij was Lippi's leerling en leidde later Filippino zelf op.",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "Filippo Lippi, Madonna en Kind met Twee Engelen"
+      },
+      "viewing_tips": ["Let op de speelse engel die rechtstreeks naar de kijker kijkt", "Het landschap door het raam toont Lippi's interesse in de natuur", "Dit werk beïnvloedde Botticelli, Lippi's leerling, sterk"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "De Pollaiuolo's",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie gericht op de gebroeders Pollaiuolo, bekend om dynamische figuren, anatomische studies en energieke Renaissance-composities.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "Botticelli-zalen",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "De beroemdste galerijen van de Uffizi voor Botticelli, met iconische mythologische schilderijen naast belangrijke religieuze werken.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "La Primavera (De Lente)",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1477-1482",
+      "description": "Stap binnen in deze betoverde tuin! Rond 1482 in opdracht gemaakt voor Lorenzo di Pierfrancesco de' Medici—neef van Lorenzo de Magnifieke—waarschijnlijk voor zijn bruiloft. Botanici hebben hier meer dan 200 echte plantensoorten geïdentificeerd. De sinaasappelboomgaard verwijst naar de Medici, wier familiesymbool gouden ballen bevatte die op sinaasappels leken. Van rechts naar links: windgod Zephyrus, nimf Chloris die verandert in Flora, Venus, de Drie Gratiën en Mercurius.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "Sandro Botticelli, La Primavera (De Lente)"
+      },
+      "viewing_tips": ["Identificeer de figuren: Zephyrus, Chloris, Flora, Venus, de Drie Gratiën, Mercurius", "Let op de honderden afgebeelde plantensoorten", "Zoek naar de sinaasappelboomgaard geassocieerd met de Medici"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "De Geboorte van Venus",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1484-1486",
+      "description": "Hier is een leuk weetje: dit is het allereerste grote doekschilderij dat ooit in Toscane werd gemaakt! Venus rijst op uit de zee op haar schelp, naar de kust geblazen door de winden Zephyrus en Aura. Oorspronkelijk in de Villa di Castello van de Medici, sierde dit iconische werk eeuwenlang hun privétuinen voordat het hier terechtkwam. Let op hoe Botticelli's Venus de poses van antieke beeldhouwwerken weerspiegelt.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "Sandro Botticelli, De Geboorte van Venus"
+      },
+      "viewing_tips": ["Let op de windgoden Zephyrus en Aura links", "De Hore rechts biedt een mantel versierd met bloemen aan", "De pose verwijst naar antieke Venus Pudica-sculpturen"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "Madonna del Magnificat",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1481",
+      "description": "Kijk hoe Maria 'Magnificat anima mea Dominum' schrijft—Mijn ziel prijst de Heer—het gebed dat zij uitsprak bij haar bezoek aan Elisabeth. Botticelli boog elk element om het in dit ronde tondo-formaat te passen, waardoor een effect ontstaat als van een bolle spiegel. Twee engelen kronen haar terwijl anderen de inktpot en het boek vasthouden. Het Christuskind leidt de hand van zijn moeder terwijl zij schrijft. Pure Florentijnse elegantie!",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "Sandro Botticelli, Madonna del Magnificat"
+      },
+      "viewing_tips": ["Let op het gebogen perspectief aangepast aan het ronde formaat", "De Maagd schrijft 'Magnificat anima mea Dominum'", "Engelen houden een inktpot en boek voor haar vast"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "Portinari-drieluik",
+      "roomCode": "A13",
+      "artist": "Hugo van der Goes",
+      "year": "c. 1475-1477",
+      "description": "Toen dit monumentale Vlaamse meesterwerk in 1483 arriveerde, waren de Florentijnse kunstenaars verbijsterd. Zie je die ruige herders met stoppelbaard en verweerde handen? Italianen hadden nog nooit boeren zo realistisch geschilderd gezien! Ghirlandaio kopieerde ze binnen twee jaar. Let op de bloemen: irissen voor Maria's verdriet, tarwe voor de Eucharistie. Tragisch genoeg stierf kunstenaar Hugo van der Goes depressief in een klooster, een jaar voordat zijn schilderij Florence bereikte—hij heeft het nooit geweten.",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "Hugo van der Goes, Portinari-drieluik"
+      },
+      "viewing_tips": ["Let op de realistische herders vergeleken met geïdealiseerde Italiaanse figuren", "Bestudeer de stilleven-details: bloemen met symbolische betekenissen", "Vergelijk Noordelijke en Italiaanse benaderingen van naturalisme"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "Terras naar de Kaartenzaal",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "Een overgangsgebied met terras dat naar de Kaartenzaal leidt en bezoekers verbindt langs het circuit van de tweede verdieping.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "Stanzino delle Matematiche",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "Een gespecialiseerde ruimte historisch verbonden met wetenschappelijke instrumenten en leerrijke thema's binnen de bredere Medici-context van de Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "Buontalenti's Tribune",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "Een historische achthoekige zaal gecreëerd voor het tentoonstellen van waardevolle Medici-schatten, beroemd om zijn rijke decoratie en centrale rol in de geschiedenis van de galerij.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "Oude Wapenkamer",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "Op de huidige officiële plattegrond komt dit gebied overeen met de reeks gewijd aan de Renaissance buiten de Alpen (A17-A20).",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "Aanbidding der Wijzen",
+      "roomCode": "A20",
+      "artist": "Albrecht Durer",
+      "year": "1504",
+      "description": "Een Noord-Renaissance uitbeelding van het bezoek der Wijzen door Dürer, bekend om precisie, detail en een kenmerkende benadering van vorm en landschap. Het werk toont Dürers meesterschap na zijn Italiaanse reizen.",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "Albrecht Dürer, Aanbidding der Wijzen"
+      },
+      "viewing_tips": ["Let op de Noord-Europese aandacht voor textuur en detail", "Vergelijk met Italiaanse behandelingen van hetzelfde onderwerp", "Zoek naar Dürers karakteristieke precisie in de draperie"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "Miniatuurkabinet",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "Een galerij gewijd aan kleinschalige werken en miniaturen, die verfijnd vakmanschap in compacte formaten belicht.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "Corridoio di Mezzogiorno",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "Een van de belangrijkste gangen van de Uffizi, onderdeel van de architectonische ruggengraat die zalen verbindt en elementen van de collectie tentoonstelt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "Corridoio di Ponente",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "Westelijke gang langs de route van de tweede verdieping, die belangrijke Renaissance-zalen en grote tentoonstellingsruimtes verbindt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "Laocoön",
+      "roomCode": "A24",
+      "artist": "Baccio Bandinelli",
+      "year": "c. 1520-1525",
+      "description": "Een krachtige sculptuurgroep gebaseerd op het antieke Laocoön-thema, geassocieerd met dramatische beweging en intense expressie.",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "Baccio Bandinelli, Laocoön"
+      },
+      "viewing_tips": ["Vergelijk met het beroemde Romeinse origineel in het Vaticaan"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "Tweede Renaissance",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "Een sectie gericht op volgroeide 15e-eeuwse ontwikkelingen, die Florentijnse innovatie verbindt met bredere Italiaanse Renaissance-stromingen.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "Altaarstuk van Santa Lucia dei Magnoli",
+      "roomCode": "A25",
+      "artist": "Domenico Veneziano",
+      "year": "c. 1445-1447",
+      "description": "Een baanbrekend Florentijns altaarstuk bewonderd om zijn heldere licht, evenwichtige compositie en verfijnde kleurharmonieën. Het sacra conversazione-formaat toont heiligen verzameld rond de Maagd in een architecturale setting.",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "Domenico Veneziano, Altaarstuk van Santa Lucia dei Magnoli"
+      },
+      "viewing_tips": ["Let op het zachte, diffuse licht - Domenico's specialiteit", "De architecturale setting creëert diepte door perspectief"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "Aanbidding der Wijzen",
+      "roomCode": "A28",
+      "artist": "Filippino Lippi",
+      "year": "1496",
+      "description": "Een rijkbevolkte Aanbiddingsscène die de laat-15e-eeuwse narratieve complexiteit en expressieve karakterdetails weerspiegelt. Filippino was de zoon van Fra Filippo Lippi en zette de erfenis van zijn vader voort.",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "Filippino Lippi, Aanbidding der Wijzen"
+      },
+      "viewing_tips": ["Zoek naar de vele portretfiguren in de menigte", "Let op de archeologische details uit het oude Rome"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "Perseus Bevrijdt Andromeda",
+      "roomCode": "A30",
+      "artist": "Piero di Cosimo",
+      "year": "c. 1510-1515",
+      "description": "Een mythologische reddingsscène vol drama, opmerkelijk door zijn fantasierijke vertelkunst en een ongewone, droomachtige visuele wereld. Piero di Cosimo stond bekend om zijn excentrieke persoonlijkheid en fantastische onderwerpen.",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "Piero di Cosimo, Perseus Bevrijdt Andromeda"
+      },
+      "viewing_tips": ["Let op het bizarre zeemonster", "Zoek naar de feestvierend menigte na de redding"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "Heilige Familie",
+      "roomCode": "A31",
+      "artist": "Luca Signorelli",
+      "year": "c. 1490",
+      "description": "Een Heilige Familie-compositie geassocieerd met Signorelli's interesse in anatomie, krachtige vormen en expressief figuurontwerp. Zijn gespierde stijl beïnvloedde Michelangelo.",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "Luca Signorelli, Heilige Familie"
+      },
+      "viewing_tips": ["Let op Signorelli's nadruk op gespierde anatomie", "Het tondo-formaat was populair voor huiselijke devotie"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "Leonardo-zaal",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "Een speciale galerij gericht op Leonardo da Vinci's werken en verwante schilderijen uit de late 15e eeuw.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Annunciatie",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "De jonge Leonardo schilderde dit terwijl hij nog leerling was in Verrocchio's werkplaats—hij was pas ongeveer 20 jaar oud! Hier is een geheimpje: die 'perspectieffout' in Maria's rechterarm? Die is opzettelijk. Het schilderij was bedoeld om vanaf rechtsonder te worden bekeken, waardoor alles perfect uitlijnt. Zoek naar de cipressen—een Leonardo-handelsmerk—en zijn beroemde nevelige bergen met de sfumato-techniek op de achtergrond.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "Leonardo da Vinci, Annunciatie"
+      },
+      "viewing_tips": ["Let op Leonardo's sfumato-techniek in het verre landschap", "Bestudeer de botanische nauwkeurigheid van de bloemen", "De marmeren lessenaar toont perspectief licht aangepast voor een zijaanzicht"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "Aanbidding der Wijzen",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1481-1482",
+      "description": "Leonardo's vader—notaris voor deze monniken—bezorgde zijn zoon deze opdracht in 1481. Maar binnen enkele maanden verdween Leonardo naar Milaan, naar verluidt met een zilveren lier die hij had gesneden als diplomatiek geschenk! Een restauratie uit 2017 onthulde zijn voortdurende experimenten: drie verschillende paardenhoofden over elkaar geschilderd, een verborgen olifant, zelfs een mysterieuze kloof onder Maria's voeten. Die jonge man die wegkijkt aan de uiterste rechterkant? Waarschijnlijk Leonardo zelf op 30-jarige leeftijd.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "Leonardo da Vinci, Aanbidding der Wijzen"
+      },
+      "viewing_tips": ["De onvoltooide staat onthult Leonardo's werkproces", "Let op de wervelende compositie gecentreerd rond de Maagd", "Achtergrondscènes tonen ruiters en architecturale ruïnes"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "De Doop van Christus",
+      "roomCode": "A35",
+      "artist": "Andrea del Verrocchio and Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "Zie je die engel links die Christus' gewaad vasthoudt? Dat is het werk van de jonge Leonardo—en volgens Vasari was het zo mooi dat zijn meester Verrocchio voorgoed zijn penselen neerlegde! Vergelijk de twee engelen: die van Leonardo heeft zachte, lichtgevende sfumato; die van Verrocchio is harder en traditioneler. Leonardo schilderde ook het nevelige landschap. Een leerling die zijn meester overtreft, vastgelegd op één paneel.",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "Verrocchio en Leonardo, De Doop van Christus"
+      },
+      "viewing_tips": ["Vergelijk de linker engel (Leonardo) met de rechter (Verrocchio)", "Let op Leonardo's sfumato in het verre landschap", "Het verhaal gaat dat Verrocchio stopte met schilderen na het zien van Leonardo's werk"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "Ricetto delle Iscrizioni Antiche",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "Een overgangsruimte geassocieerd met inscripties en oudheden, die zalen in de reeks van de tweede verdieping verbindt.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "Rafaël en Michelangelo",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "Een belangrijke sectie met werken van Rafaël en Michelangelo, tot de belangrijkste hoogtepunten van de Renaissance-collectie van de Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "Doni Tondo (Heilige Familie)",
+      "roomCode": "A38",
+      "artist": "Michelangelo Buonarroti",
+      "year": "c. 1506-1508",
+      "description": "Dit is Michelangelo's ENIGE voltooide paneelschilderij—hij beschouwde zichzelf in de eerste plaats als beeldhouwer! In opdracht gemaakt door de rijke koopman Agnolo Doni voor zijn bruiloft, is er een beroemd verhaal: Michelangelo vroeg aanvankelijk 70 dukaten, maar toen Doni probeerde af te dingen, verdubbelde Michelangelo het naar 140! Mis de originele lijst niet—Michelangelo ontwierp deze zelf, met gebeeldhouwde hoofden van Christus, profeten en sibillen.",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "Michelangelo, Doni Tondo"
+      },
+      "viewing_tips": ["Let op hoe figuren draaien als sculpturen", "De naakten op de achtergrond zijn mysterieus - misschien heidense zielen vóór Christus", "De originele lijst werd ook door Michelangelo ontworpen"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "Madonna del Cardellino (Madonna met het Puttertje)",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1505-1506",
+      "description": "Een huwelijksgeschenk van de 23-jarige Rafaël in 1506! De jonge Johannes biedt Christus een puttertje aan—symbool van zijn toekomstige Passie, want volgens de legende kreeg het vogeltje zijn rode kopje toen het probeerde doornen uit Christus' kroon te verwijderen. In 1547 verbrijzelde een aardverschuiving dit schilderij in 17 stukken! Een bevriende kunstenaar spijkerde het weer aan elkaar, en een tienjarige moderne restauratie voltooid in 2008 onthulde eindelijk Rafaëls lichtgevende originele kleuren.",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "Rafaël, Madonna del Cardellino"
+      },
+      "viewing_tips": ["De piramidale compositie creëert perfecte balans", "Let op Rafaëls zachte sfumato geleerd van Leonardo", "Het schilderij werd in 1547 verbrijzeld en later gerestaureerd"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "Portretten van Agnolo en Maddalena Doni",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1506",
+      "description": "Maak kennis met het powercouple dat zowel Rafaël ALS Michelangelo opdrachten gaf! Lakenhandelaar Agnolo Doni probeerde af te dingen met Michelangelo over de Doni Tondo en eindigde met het betalen van het dubbele. Let op hoe Maddalena de Mona Lisa weerspiegelt? Rafaël bestudeerde Leonardo in die tijd. Haar eenhoorn-hanger met robijn, smaragd en saffier schreeuwt hun rijkdom uit. De achterkanten tonen scènes uit Ovidius—vraag of je ze mag zien!",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "Rafaël, Portretten van Agnolo en Maddalena Doni"
+      },
+      "viewing_tips": ["Vergelijk met Leonardo's Mona Lisa - let op de vergelijkbare pose van Maddalena", "De landschapsachtergrond toont Rafaëls schatplichtigheid aan Vlaamse schilderkunst", "Rijke sieraden tonen de welvaart van het echtpaar"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "De Niobe-zaal",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "Een monumentale zaal geassocieerd met klassieke beeldhouwkunst en een van de architectonisch meest indrukwekkende galerijruimtes van de Uffizi.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "Madonna van de Harpijen",
+      "roomCode": "A41",
+      "artist": "Andrea del Sarto",
+      "year": "1517",
+      "description": "Hier is een schilder die geen instructies kon opvolgen! De nonnen bestelden de heilige Bonaventura—hij schilderde in plaats daarvan de heilige Franciscus. Die wezens op het voetstuk die Vasari 'harpijen' noemde? Eigenlijk apocalyptische sprinkhanen uit Openbaring, met Maria die de ingang van de Hel verzegelt! Andrea del Sarto werd 'de foutloze schilder' genoemd vanwege zijn technische perfectie, maar hij negeerde het contract om iets veel diepzinnigers te creëren.",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "Andrea del Sarto, Madonna van de Harpijen"
+      },
+      "viewing_tips": ["Kijk naar de sfinxen op het voetstuk (geen harpijen)", "Let op de perfecte balans van de compositie", "Del Sarto werd 'de foutloze schilder' genoemd"]
+    }
+  ],
+  "ui": {
+    "title": "Tweede Verdieping",
+    "subtitle": "Zalen A1-A41",
+    "back": "Terug",
+    "previous": "Vorige",
+    "next": "Volgende",
+    "room": "Zaal",
+    "artworks": "Kunstwerken"
+  }
+}

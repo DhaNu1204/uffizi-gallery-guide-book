@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Galleria degli Uffizi: Storia e Introduzione",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "Cos'è la Galleria degli Uffizi",
+      "content": "Gli Uffizi sono uno dei musei d'arte più importanti al mondo, celebre soprattutto per i suoi capolavori della pittura italiana dal XIII al XVII secolo, nonché per opere fondamentali delle scuole nordeuropee. Oggi il percorso di visita si sviluppa principalmente tra il Primo e il Secondo Piano dell'edificio degli Uffizi.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Vista esterna della Galleria degli Uffizi"
+      },
+      "tags": ["panoramica"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Perché Fu Costruito",
+      "content": "Il complesso degli Uffizi non fu originariamente creato come museo. Nel 1560 Cosimo I de' Medici commissionò un nuovo edificio per ospitare gli uffici amministrativi e giudiziari di Firenze (gli \"uffizi\"). Giorgio Vasari progettò l'opera, creando la celebre pianta a U con lunghe ali e una maestosa presenza urbana accanto a Piazza della Signoria e all'Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Il progetto architettonico del Vasari per gli Uffizi"
+      },
+      "tags": ["architettura", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "Come Nacque il Museo",
+      "content": "Le origini del museo sono legate a Francesco I de' Medici. Nel 1581 egli allestì una galleria al piano superiore dell'Ala Est, descritta alla fine del XVI secolo come una magnifica collezione di dipinti, statue e oggetti preziosi. Questa prima galleria divenne il nucleo di quella che sarebbe cresciuta fino a diventare gli Uffizi come li conosciamo oggi.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Raffigurazione storica della prima Galleria degli Uffizi"
+      },
+      "tags": ["origini", "collezioni"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "La Tribuna",
+      "content": "Vicino alla galleria originale, la Tribuna fu completata nel 1584 da Bernardo Buontalenti. Concepita come uno spettacolare spazio espositivo per i tesori più preziosi dei Medici, divenne il cuore simbolico del primo museo: uno \"scrigno\" dove pittura, scultura, gemme e oggetti rari erano allestiti per celebrare il potere, il gusto e la cultura dei Medici.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "La sala della Tribuna agli Uffizi"
+      },
+      "tags": ["tribuna", "punti-salienti"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "Il Corridoio Vasariano",
+      "content": "Nel 1565, per le celebrazioni nuziali di Francesco I, il Vasari creò il sopraelevato Corridoio Vasariano che collega gli Uffizi a Palazzo Pitti. Attraversando l'Arno sul Ponte Vecchio e passando per Santa Felicita, era riservato ai Medici e alle alte figure di corte - un progetto urbano di forte significato simbolico e diretta espressione del potere dinastico.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "Il Corridoio Vasariano che attraversa il Ponte Vecchio"
+      },
+      "tags": ["corridoio-vasariano", "medici", "città"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "Da Collezione Dinastica a Patrimonio Pubblico",
+      "content": "Nel tempo le collezioni degli Uffizi si ampliarono e il ruolo pubblico del museo si rafforzò. Un momento decisivo fu con l'ultima erede dei Medici, Anna Maria Luisa de' Medici, che assicurò che le collezioni rimanessero a Firenze come patrimonio pubblico duraturo. Nei secoli successivi, nuove dinastie e amministrazioni continuarono a riorganizzare e arricchire il museo, plasmando gli Uffizi in un'istituzione moderna.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Ritratto di Anna Maria Luisa de' Medici"
+      },
+      "tags": ["storia", "collezioni"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "Il Percorso di Visita Oggi",
+      "content": "Il percorso di visita degli Uffizi è organizzato su due livelli principali: il Secondo Piano presenta la pittura italiana dalle origini al Rinascimento, mentre il Primo Piano si concentra soprattutto sul tardo Rinascimento, il Barocco e le principali scuole europee, insieme a collezioni dedicate. La disposizione delle sale e degli allestimenti può variare per motivi di conservazione e progetti museali in corso - seguite sempre la mappa ufficiale e la segnaletica durante la visita.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Vista moderna dei corridoi della Galleria degli Uffizi"
+      },
+      "tags": ["pratico", "percorso"]
+    }
+  ],
+  "ui": {
+    "title": "Introduzione",
+    "subtitle": "Storia della Galleria degli Uffizi",
+    "back": "Indietro",
+    "previous": "Precedente",
+    "next": "Successivo",
+    "welcome": {
+      "appTitle": "Uffizi Svelati",
+      "appSubtitle": "La Tua Guida d'Arte Personale",
+      "languagesAvailable": "15 lingue disponibili",
+      "enterButton": "Entra nella Guida",
+      "offlineNote": "Funziona offline dopo il primo caricamento"
+    },
+    "languageModal": {
+      "title": "Seleziona Lingua",
+      "subtitle": "Scegli la tua lingua preferita",
+      "searchPlaceholder": "Cerca lingue...",
+      "popular": "Popolari",
+      "allLanguages": "Tutte le Lingue",
+      "results": "Risultati",
+      "noResults": "Nessuna lingua trovata",
+      "noResultsHint": "Prova un termine di ricerca diverso",
+      "rtlEnabled": "Layout RTL abilitato per"
+    },
+    "mainMenu": {
+      "header": "Uffizi Svelati",
+      "loading": "Caricamento dati galleria...",
+      "errorTitle": "Errore nel caricamento dati",
+      "tryAgain": "Riprova",
+      "introduction": "Introduzione",
+      "introSubtitle": "Storia della Galleria degli Uffizi",
+      "secondFloor": "Secondo Piano",
+      "firstFloor": "Primo Piano",
+      "artworks": "opere d'arte",
+      "footer": "Florence With Locals · Disponibile Offline"
+    },
+    "navigation": {
+      "introduction": "Introduzione",
+      "secondFloor": "2° Piano",
+      "firstFloor": "1° Piano",
+      "menu": "Menu",
+      "backToList": "Torna alla Lista",
+      "list": "Lista"
+    },
+    "floorPage": {
+      "artworksToDiscover": "opere d'arte da scoprire",
+      "masterpieces": "Capolavori",
+      "exploreText": "Esplora i capolavori di questo piano."
+    },
+    "artworkDetail": {
+      "viewingTips": "Suggerimenti per la Visione:",
+      "offlineNote": "*Questo contenuto è memorizzato localmente e accessibile senza internet."
+    }
+  }
+}

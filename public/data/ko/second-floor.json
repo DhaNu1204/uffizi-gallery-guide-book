@@ -1,0 +1,661 @@
+{
+  "floor": "2층",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "2층은 조토부터 미켈란젤로에 이르는 걸작들을 통해 초기 이탈리아 회화에서 전성기 르네상스까지의 작품들을 전시합니다.",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "소개",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "우피치 미술관 2층 관람 경로에 대한 개요로, 주요 역사적 시대와 전시실 배치를 안내합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "로렌 현관",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "2층의 초기 회화 전시실로 이어지는 입구 현관 공간입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "동쪽 복도",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "2층 주요 관람 동선의 일부를 형성하며, 여러 전시실과 구역을 연결하는 긴 복도입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "13세기 회화",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "컬렉션의 가장 초기 판화들을 소개하는 출발점으로, 중세 이탈리아 회화와 그 신앙적 형식을 보여줍니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "'프리미티비' 전시실",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "초기 이탈리아 회화에 헌정된 전시실로, 후기 중세 미술을 형성한 랜드마크적 예술가들에 초점을 맞춥니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "오니산티 성모",
+      "roomCode": "A4",
+      "artist": "Giotto di Bondone",
+      "year": "c. 1310",
+      "description": "1310년에 완성된 이 걸작이 바로 르네상스의 시작을 알린 작품이에요! 조토가 어떻게 평면적인 비잔틴 미술에서 벗어났는지 주목해 보세요. 마리아의 옥좌는 실제 깊이감이 있고, 아기 예수는 진짜 아기처럼 통통하며, 천사들은 공간 속에서 서로 겹쳐 있답니다. 성모가 흰옷을 입고 있는 이유가 있어요—이 작품을 그들의 성당을 위해 주문한 우밀리아티 양모 상인들의 색이거든요. 단테조차 조토를 모든 화가들 중 으뜸이라고 칭송했답니다. 천사들이 들고 있는 수정 꽃병 속의 장미와 백합을 찾아보세요.",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "조토, 오니산티 성모"
+      },
+      "viewing_tips": ["조토가 어떻게 3차원적 공간감을 창출하는지 주목하세요", "같은 전시실의 비잔틴 양식 성모상들과 비교해 보세요", "천사들 얼굴의 사실적인 표정을 살펴보세요"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "14세기 시에나 화파",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "우아함, 세련된 선, 빛나는 색채로 유명한 14세기 시에나 회화에 헌정된 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "수태고지",
+      "roomCode": "A5",
+      "artist": "Simone Martini and Lippo Memmi",
+      "year": "1333",
+      "description": "1333년에 제작된 이 고딕 걸작은 화가들이 수태고지를 묘사하는 방식을 완전히 바꿔놓았어요. 마리아가 깜짝 놀라 뒤로 물러서는 모습을 보세요—자신의 운명을 받아들이기 직전, 두려움을 느끼는 바로 그 순간을 포착한 거예요. 진짜 금박은 시에나 대성당에서 촛불 빛에 반짝였답니다. 가브리엘이 백합이 아닌 올리브 가지를 들고 있다는 것도 눈여겨보세요—이건 라이벌 피렌체를 향한 시에나의 은근한 비꼼이에요! 부활을 상징하는 공작 깃털 날개도 찾아보세요.",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "시모네 마르티니와 리포 멤미, 수태고지"
+      },
+      "viewing_tips": ["배경의 정교한 금박 세공을 감상하세요", "성모의 놀란 몸짓에 주목하세요", "천사가 들고 있는 올리브 가지를 찾아보세요"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "성전 봉헌",
+      "roomCode": "A5",
+      "artist": "Ambrogio Lorenzetti",
+      "year": "1342",
+      "description": "성전 봉헌을 그린 서사적 종교화로, 14세기 스토리텔링과 공간 구성의 혁신을 반영합니다. 로렌체티의 건축적 배경은 전례 없는 깊이감을 창출합니다.",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "암브로조 로렌체티, 성전 봉헌"
+      },
+      "viewing_tips": ["건축적 원근법을 연구해 보세요", "공간 안에서 인물들이 어떻게 상호작용하는지 주목하세요"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "14세기 피렌체",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "중세 전통과 초기 르네상스 발전을 연결하는 1300년대 피렌체 회화를 탐구하는 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "국제 고딕 양식의 걸작들",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "우아함, 풍부한 표면 장식, 궁정적 세련미가 특징인 국제 고딕 양식과 관련된 작품들입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "성모 대관",
+      "roomCode": "A7",
+      "artist": "Lorenzo Monaco",
+      "year": "1414",
+      "description": "이 5미터 높이의 걸작은 수도사가 동료 수도사들을 위해 그린 작품이에요! 돈 로렌초는 산타 마리아 델리 안젤리 수도원에서 살았고, 그리스도의 찬란한 푸른 옷을 위해 금보다 비싼 청금석을 사용했답니다. 흰 옷을 입은 성인들이 보이시나요? 그들은 카말돌리 수도회의 창시자들이에요. 별이 빛나는 띠는 중세의 천국을 나타내요. 로렌초의 가장 유명한 제자가 누군지 아세요? 바로 근처에 걸린 자신만의 성모 대관 작품을 남긴 프라 안젤리코랍니다.",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "로렌초 모나코, 성모 대관"
+      },
+      "viewing_tips": ["전체에 사용된 풍부한 군청색에 주목하세요", "정교한 직물 문양을 살펴보세요"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "동방박사의 경배",
+      "roomCode": "A7",
+      "artist": "Gentile da Fabriano",
+      "year": "1423",
+      "description": "숨겨진 후원자를 찾아보세요! 피렌체 최고의 부자였던 팔라 스트로치가 매를 들고 있는 자신의 모습을 그려 넣었어요—토스카나 방언으로 '스트로치에리'가 매사냥꾼을 뜻하거든요, 기발한 말장난이죠! 그는 이 눈부신 제단화에 300플로린을 지불했는데, 이건 장인 6년 치 임금에 해당하는 금액이에요! 금박은 가문 예배당에서 촛불 빛에 반짝이도록 설계되었답니다. 배경에서 표범, 원숭이, 심지어 강도 장면까지 찾아보세요. 훗날 라이벌이었던 메디치 가문이 스트로치를 추방했지만, 그의 걸작은 남았어요.",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "젠틸레 다 파브리아노, 동방박사의 경배"
+      },
+      "viewing_tips": ["먼 언덕에서 전경까지 행렬을 따라가 보세요", "수행원들 중 이국적인 동물들을 찾아보세요", "마구와 왕관의 금박 디테일에 주목하세요"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "초기 르네상스",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "예술가들이 원근법, 해부학, 보다 사실적인 공간을 통해 회화를 변혁시킨 1400년대 초반에 초점을 맞춘 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "성 안나와 함께 있는 성모자",
+      "roomCode": "A8",
+      "artist": "Masaccio and Masolino",
+      "year": "c. 1424-1425",
+      "description": "바로 여기, 르네상스가 탄생한 순간 앞에 서 계신 거예요! 1424년에 두 화가가 협업했는데, 자세히 보세요. 겨우 23세였던 젊은 마사초는 혁명적인 빛과 그림자로 마리아와 예수를 그렸어요—마치 숨을 쉬는 것 같죠. 그 뒤에서 41세의 마솔리노는 성 안나를 옛 고딕 양식으로—평면적이고 신비롭게 그렸어요. 한 그림에 두 시대가 담겨 있는 거예요. 마사초는 27세에 세상을 떠났지만, 미술사를 영원히 바꿔놓았답니다.",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "마사초와 마솔리노, 성 안나와 함께 있는 성모자"
+      },
+      "viewing_tips": ["마사초의 조각적인 성모와 마솔리노의 더 섬세한 성 안나를 비교해 보세요", "빛이 어떻게 견고한 형태를 만들어내는지 주목하세요"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "산 로마노 전투",
+      "roomCode": "A8",
+      "artist": "Paolo Uccello",
+      "year": "c. 1438-1440",
+      "description": "로렌초 데 메디치가 이 그림들을 너무나 갖고 싶어서 바르톨리니 가문에게서 강제로 빼앗았다고 해요! 이것은 1432년 피렌체가 시에나를 이긴 전투를 그린 세 패널 중 하나로, 나머지 두 점은 런던과 파리에 있답니다. 쓰러진 창들이 원근선으로 배열된 것을 주목해 보세요. 우첼로의 아내는 그가 밤새도록 '아, 원근법이란 얼마나 달콤한 것인가!'라고 중얼거리며 깨어 있었다고 불평했대요! 은색 갑옷은 원래 눈부시게 빛났지만, 지금은 산화되어 회색이 되었답니다.",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "파올로 우첼로, 산 로마노 전투"
+      },
+      "viewing_tips": ["쓰러진 창들이 어떻게 원근선을 만드는지 주목하세요", "구성의 기하학적 패턴을 찾아보세요", "이것은 세 패널 중 하나입니다 - 나머지는 런던과 파리에 있습니다"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "우르비노 공작과 공작부인",
+      "roomCode": "A9",
+      "artist": "Piero della Francesca",
+      "year": "c. 1465-1472",
+      "description": "이 두 폭 그림은 르네상스 이탈리아 최고의 용병 대장과 그의 사랑하는 아내를 보여줘요. 페데리코는 항상 측면 초상화로 포즈를 취했는데, 1450년 토너먼트에서 잃은 오른쪽 눈을 숨기기 위해서였어요—그 사고로 그 유명한 코도 부러졌답니다. 바티스타는 26세에 아이를 낳다가 세상을 떠난 후 사후에 그려졌어요. 뒷면에는 두 사람이 미덕의 신들에 둘러싸여 개선 마차 위에 있는 모습이 있는데, 죽음을 넘어 영원히 함께하는 것을 상징해요.",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "피에로 델라 프란체스카, 우르비노 공작과 공작부인"
+      },
+      "viewing_tips": ["두 패널을 가로지르는 연속적인 풍경을 살펴보세요", "공작의 측면 초상화는 그의 오른쪽을 숨깁니다 - 토너먼트에서 손상되었습니다", "뒷면의 우의적 장면에 주목하세요"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "두 천사와 함께 있는 성모자",
+      "roomCode": "A9",
+      "artist": "Filippo Lippi",
+      "year": "c. 1465",
+      "description": "르네상스 스캔들 주의보! 1456년, 수도사였던 필리포 리피가 자신의 모델—루크레치아 부티라는 젊은 수녀—을 수녀원 행렬에서 납치했어요. 교황님이 직접 리피의 서원을 해제해 주셔야 했답니다! 여기서 그녀는 아기 예수를 바라보고 있고, 그들의 실제 아들 필리피노가 장난꾸러기 천사로 얼굴을 내밀고 있어요. 성화로 위장한 이 가족 초상화가 보티첼리의 본보기가 되었는데—그는 리피의 제자였고, 나중에 필리피노를 직접 가르쳤거든요.",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "필리포 리피, 두 천사와 함께 있는 성모자"
+      },
+      "viewing_tips": ["관람자를 직접 바라보는 장난기 있는 천사에 주목하세요", "창문 너머 풍경은 리피의 자연에 대한 관심을 보여줍니다", "이 작품은 리피의 제자인 보티첼리에게 큰 영향을 미쳤습니다"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "폴라이우올로 형제",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "역동적인 인물, 해부학 연구, 활기찬 르네상스 구성으로 유명한 폴라이우올로 형제에 초점을 맞춘 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "보티첼리 전시실",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "보티첼리의 우피치에서 가장 유명한 전시실로, 상징적인 신화 회화들과 주요 종교 작품들을 소장하고 있습니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "프리마베라 (봄)",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1477-1482",
+      "description": "이 마법 같은 정원 속으로 들어와 보세요! 1482년경 위대한 로렌초의 사촌인 로렌초 디 피에르프란체스코 데 메디치를 위해 주문된 작품으로, 아마도 그의 결혼을 기념하기 위해 제작된 것으로 보입니다. 식물학자들이 여기서 200종이 넘는 실제 식물을 확인했다고 해요. 오렌지 나무 숲은 메디치 가문과 연결되는데, 가문의 상징에 오렌지를 닮은 황금 공이 포함되어 있거든요. 오른쪽부터: 바람의 신 제피로스, 플로라로 변신하는 님프 클로리스, 비너스, 삼미신, 그리고 메르쿠리우스가 있습니다.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "산드로 보티첼리, 프리마베라 (봄)"
+      },
+      "viewing_tips": ["인물들을 확인해 보세요: 제피로스, 클로리스, 플로라, 비너스, 삼미신, 메르쿠리우스", "묘사된 수백 종의 식물에 주목하세요", "메디치 가문과 연관된 오렌지 숲 배경을 찾아보세요"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "비너스의 탄생",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1484-1486",
+      "description": "재미있는 사실 하나 알려드릴게요—이 작품은 토스카나에서 제작된 최초의 대형 캔버스 회화랍니다! 비너스가 조개 위에서 바다를 건너 나타나고, 바람의 신 제피로스와 아우라가 그녀를 해안으로 불어 보내고 있어요. 원래 메디치 가문의 카스텔로 별장에 있던 이 상징적인 작품은 수 세기 동안 그들의 개인 정원을 장식하다가 이곳으로 오게 되었답니다. 보티첼리의 비너스가 어떻게 고대 조각상의 포즈를 연상시키는지 한번 살펴보세요.",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "산드로 보티첼리, 비너스의 탄생"
+      },
+      "viewing_tips": ["왼쪽의 바람의 신 제피로스와 아우라에 주목하세요", "오른쪽의 계절의 여신이 꽃으로 장식된 망토를 건넵니다", "자세는 고대 비너스 푸디카 조각상을 연상시킵니다"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "마니피캇의 성모",
+      "roomCode": "A11-A12",
+      "artist": "Sandro Botticelli",
+      "year": "c. 1481",
+      "description": "마리아가 '마니피캇 아니마 메아 도미눔'—내 영혼이 주님을 찬양하나이다—이라고 쓰는 모습을 보세요. 이것은 마리아가 엘리사벳을 방문했을 때 한 기도문이에요. 보티첼리는 이 둥근 톤도 형식에 맞추기 위해 모든 요소를 곡선으로 처리했는데, 마치 볼록 거울 같은 효과를 만들어냈답니다. 두 천사가 그녀에게 왕관을 씌워주고, 다른 천사들은 잉크병과 책을 들고 있어요. 아기 예수가 어머니의 손을 이끌어 글을 쓰게 해주고 있네요. 순수한 피렌체의 우아함이에요!",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "산드로 보티첼리, 마니피캇의 성모"
+      },
+      "viewing_tips": ["원형 형식에 맞춘 곡선 원근법에 주목하세요", "성모는 '마니피캇 아니마 메아 도미눔'을 쓰고 있습니다", "천사들이 잉크병과 책을 들고 있습니다"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "포르티나리 삼면화",
+      "roomCode": "A13",
+      "artist": "Hugo van der Goes",
+      "year": "c. 1475-1477",
+      "description": "1483년에 이 거대한 플랑드르 걸작이 도착했을 때, 피렌체 화가들은 충격을 받았어요. 수염 자국과 거친 손을 가진 저 투박한 목자들이 보이시나요? 이탈리아인들은 농민이 이렇게 사실적으로 그려진 걸 본 적이 없었거든요! 기를란다요는 2년 안에 이들을 모방했답니다. 꽃들도 주목해 보세요: 붓꽃은 마리아의 슬픔을, 밀은 성체를 상징해요. 비극적이게도 화가 휘고 반 데어 후스는 그림이 피렌체에 도착하기 1년 전 수도원에서 우울증으로 세상을 떠났어요—자신의 작품이 어떤 반향을 일으켰는지 결코 알지 못했죠.",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "휴고 반 데어 후스, 포르티나리 삼면화"
+      },
+      "viewing_tips": ["이상화된 이탈리아 인물들과 비교하여 사실적인 목자들에 주목하세요", "정물화 디테일을 연구하세요: 상징적 의미가 있는 꽃들", "자연주의에 대한 북부와 이탈리아의 접근법을 비교해 보세요"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "지도실로 가는 테라스",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "지도실로 이어지는 전환 테라스 공간으로, 2층 관람 동선을 따라 방문객들을 연결합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "수학의 방",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "우피치의 더 넓은 메디치 맥락 내에서 과학 기구와 학습 주제와 역사적으로 연결된 전문 전시실입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "부온탈렌티의 트리뷰나",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "귀중한 메디치 보물들을 전시하기 위해 만들어진 역사적인 8각형 방으로, 풍부한 장식과 갤러리 역사에서의 중심적 역할로 유명합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "고대 무기고",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "현재 공식 지도에서 이 구역은 알프스 너머 르네상스에 헌정된 시퀀스(A17-A20)에 해당합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "동방박사의 경배",
+      "roomCode": "A20",
+      "artist": "Albrecht Durer",
+      "year": "1504",
+      "description": "뒤러의 북부 르네상스 양식 동방박사 방문 묘사로, 정밀함, 디테일, 형태와 풍경에 대한 독특한 접근법으로 유명합니다. 이 작품은 뒤러의 이탈리아 여행 후 숙달된 기량을 보여줍니다.",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "알브레히트 뒤러, 동방박사의 경배"
+      },
+      "viewing_tips": ["북유럽 특유의 질감과 디테일에 대한 관심에 주목하세요", "같은 주제에 대한 이탈리아 작품들과 비교해 보세요", "의상에서 뒤러 특유의 정밀함을 찾아보세요"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "미니어처 캐비닛",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "소형 작품들과 미니어처에 헌정된 전시실로, 컴팩트한 형식에서의 세련된 장인정신을 강조합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "남쪽 복도",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "우피치의 주요 복도 중 하나로, 전시실들을 연결하고 컬렉션의 요소들을 보여주는 건축적 중심축의 일부입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "서쪽 복도",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "2층 관람 경로를 따라 있는 서쪽 복도 구역으로, 주요 르네상스 전시실들과 주요 전시 공간들을 연결합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "라오콘",
+      "roomCode": "A24",
+      "artist": "Baccio Bandinelli",
+      "year": "c. 1520-1525",
+      "description": "고대 라오콘 주제에 기반한 강렬한 조각 군상으로, 극적인 움직임과 강렬한 표현과 연관됩니다.",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "바초 반디넬리, 라오콘"
+      },
+      "viewing_tips": ["바티칸의 유명한 로마 원본과 비교해 보세요"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "제2기 르네상스",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "피렌체의 혁신과 더 넓은 이탈리아 르네상스 흐름을 연결하는 15세기 후반의 성숙한 발전에 초점을 맞춘 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "산타 루치아 데이 마뇰리 제단화",
+      "roomCode": "A25",
+      "artist": "Domenico Veneziano",
+      "year": "c. 1445-1447",
+      "description": "명료한 빛, 균형 잡힌 구성, 세련된 색조화로 찬사를 받는 획기적인 피렌체 제단화입니다. 사크라 콘베르사치오네 형식은 성인들이 건축적 배경 안에서 성모 주위에 모인 모습을 보여줍니다.",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "도메니코 베네치아노, 산타 루치아 데이 마뇰리 제단화"
+      },
+      "viewing_tips": ["부드럽고 확산된 빛에 주목하세요 - 도메니코의 전문 분야입니다", "건축적 배경이 원근법을 통해 깊이를 만들어냅니다"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "동방박사의 경배",
+      "roomCode": "A28",
+      "artist": "Filippino Lippi",
+      "year": "1496",
+      "description": "15세기 후반의 서사적 복잡성과 표현적인 인물 디테일을 반영하는 풍성한 인물들로 가득한 경배 장면입니다. 필리피노는 프라 필리포 리피의 아들로 아버지의 유산을 이어갔습니다.",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "필리피노 리피, 동방박사의 경배"
+      },
+      "viewing_tips": ["군중 속의 많은 초상화 인물들을 찾아보세요", "고대 로마의 고고학적 디테일에 주목하세요"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "안드로메다를 구하는 페르세우스",
+      "roomCode": "A30",
+      "artist": "Piero di Cosimo",
+      "year": "c. 1510-1515",
+      "description": "상상력 넘치는 스토리텔링과 독특하고 몽환적인 시각 세계로 주목받는 신화적 구출 장면입니다. 피에로 디 코시모는 그의 기이한 성격과 환상적인 주제로 유명했습니다.",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "피에로 디 코시모, 안드로메다를 구하는 페르세우스"
+      },
+      "viewing_tips": ["기괴한 바다 괴물에 주목하세요", "구출 후 축하하는 군중을 찾아보세요"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "성가족",
+      "roomCode": "A31",
+      "artist": "Luca Signorelli",
+      "year": "c. 1490",
+      "description": "시뇨렐리의 해부학, 강한 형태, 표현력 있는 인물 디자인에 대한 관심과 연관된 성가족 구성입니다. 그의 근육질 양식은 미켈란젤로에게 영향을 미쳤습니다.",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "루카 시뇨렐리, 성가족"
+      },
+      "viewing_tips": ["시뇨렐리의 근육 해부학 강조에 주목하세요", "톤도 형식은 가정 신앙용으로 인기가 있었습니다"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "레오나르도 전시실",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "레오나르도 다 빈치의 작품들과 15세기 후반의 관련 회화들에 초점을 맞춘 전용 전시실입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "수태고지",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "젊은 레오나르도가 아직 베로키오 공방의 도제였을 때 그린 작품이에요—겨우 스무 살 정도였답니다! 비밀 하나 알려드릴게요: 마리아의 오른팔에 있는 '원근법 오류'가 보이시나요? 사실 의도적인 거예요. 이 그림은 오른쪽 아래에서 보도록 설계되어서, 그 각도에서 보면 모든 것이 완벽하게 맞아떨어진답니다. 레오나르도의 트레이드마크인 사이프러스 나무들을 찾아보시고, 배경에서 스푸마토 기법으로 표현된 그의 유명한 안개 낀 산들도 감상해 보세요.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "레오나르도 다 빈치, 수태고지"
+      },
+      "viewing_tips": ["먼 풍경에서 레오나르도의 스푸마토 기법에 주목하세요", "꽃들의 식물학적 정확성을 연구해 보세요", "대리석 독서대는 측면에서 볼 수 있도록 원근법이 약간 조정되어 있습니다"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "동방박사의 경배",
+      "roomCode": "A35",
+      "artist": "Leonardo da Vinci",
+      "year": "c. 1481-1482",
+      "description": "레오나르도의 아버지는 이 수도원의 공증인이었는데, 1481년에 아들에게 이 주문을 따냈어요. 하지만 몇 달 만에 레오나르도는 밀라노로 사라져 버렸는데, 외교 선물로 직접 조각한 은 리라를 들고 갔다고 해요! 2017년 복원 작업에서 그의 끊임없는 실험이 드러났어요: 서로 겹쳐 그린 세 개의 다른 말 머리, 숨겨진 코끼리, 심지어 마리아 발 아래의 신비로운 심연까지. 맨 오른쪽에서 뒤를 돌아보는 젊은 남자가 보이시나요? 아마도 서른 살의 레오나르도 본인일 거예요.",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "레오나르도 다 빈치, 동방박사의 경배"
+      },
+      "viewing_tips": ["미완성 상태가 레오나르도의 작업 과정을 보여줍니다", "성모를 중심으로 소용돌이치는 구성에 주목하세요", "배경 장면에는 기마병들과 건축 폐허가 포함되어 있습니다"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "그리스도의 세례",
+      "roomCode": "A35",
+      "artist": "Andrea del Verrocchio and Leonardo da Vinci",
+      "year": "c. 1472-1475",
+      "description": "왼쪽에서 그리스도의 옷을 들고 있는 천사가 보이시나요? 그게 바로 젊은 레오나르도의 작품이에요—그리고 바사리에 따르면, 그것이 너무나 아름다워서 스승 베로키오가 영원히 붓을 내려놓았다고 해요! 두 천사를 비교해 보세요: 레오나르도의 천사는 부드럽고 빛나는 스푸마토 기법으로, 베로키오의 것은 더 딱딱하고 전통적이에요. 레오나르도는 안개 낀 풍경도 그렸답니다. 스승을 뛰어넘는 제자, 한 화판에 담긴 이야기예요.",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "베로키오와 레오나르도, 그리스도의 세례"
+      },
+      "viewing_tips": ["왼쪽 천사(레오나르도)와 오른쪽 천사(베로키오)를 비교해 보세요", "먼 풍경에서 레오나르도의 스푸마토에 주목하세요", "전설에 따르면 베로키오는 레오나르도의 작품을 본 후 그림을 포기했다고 합니다"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "고대 비문실",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "비문과 골동품과 연관된 전환 공간으로, 2층 시퀀스의 전시실들을 연결합니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "라파엘로와 미켈란젤로",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "우피치 르네상스 소장품의 가장 중요한 하이라이트 중 라파엘로와 미켈란젤로의 작품들을 선보이는 핵심 섹션입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "도니 톤도 (성가족)",
+      "roomCode": "A38",
+      "artist": "Michelangelo Buonarroti",
+      "year": "c. 1506-1508",
+      "description": "이것은 미켈란젤로가 완성한 유일한 패널 회화랍니다—그는 자신을 무엇보다 조각가라고 생각했거든요! 부유한 상인 아뇰로 도니가 결혼을 위해 주문한 작품인데, 유명한 일화가 있어요: 미켈란젤로가 처음에 70두캇을 불렀는데, 도니가 가격을 깎으려 하자 미켈란젤로가 140두캇으로 두 배를 올려버렸다고 해요! 원래 액자도 꼭 보세요—미켈란젤로가 직접 디자인한 것으로, 그리스도, 예언자들, 무녀들의 조각된 두상이 장식되어 있답니다.",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "미켈란젤로, 도니 톤도"
+      },
+      "viewing_tips": ["인물들이 조각상처럼 비틀어져 있는 것에 주목하세요", "배경의 누드들은 신비롭습니다 - 아마도 그리스도 이전의 이교도 영혼들일 것입니다", "원래 액자도 미켈란젤로가 디자인했습니다"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "방울새의 성모",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1505-1506",
+      "description": "1506년, 스물세 살의 라파엘로가 결혼 선물로 그린 작품이에요! 어린 요한이 그리스도에게 방울새를 건네고 있는데, 이것은 그리스도의 미래 수난을 상징해요. 전설에 따르면 방울새가 그리스도의 가시관에서 가시를 빼려다가 머리가 빨갛게 물들었다고 해요. 1547년에 산사태로 이 그림이 17조각으로 부서졌답니다! 동료 화가가 못으로 다시 붙였고, 2008년에 완료된 10년간의 현대적 복원 작업을 통해 마침내 라파엘로의 빛나는 원래 색채가 드러났어요.",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "라파엘로, 방울새의 성모"
+      },
+      "viewing_tips": ["피라미드 구성이 완벽한 균형을 만들어냅니다", "레오나르도에게서 배운 라파엘로의 부드러운 스푸마토에 주목하세요", "이 그림은 1547년에 산산조각 났다가 나중에 복원되었습니다"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "아뇰로와 마달레나 도니의 초상",
+      "roomCode": "A38",
+      "artist": "Raphael",
+      "year": "c. 1506",
+      "description": "라파엘로와 미켈란젤로 둘 다에게 작품을 의뢰했던 파워 커플을 만나보세요! 직물 상인 아뇰로 도니는 미켈란젤로의 도니 톤도 가격을 깎으려다 결국 두 배를 지불하게 되었답니다. 마달레나가 모나리자를 닮은 걸 눈치채셨나요? 라파엘로가 당시 레오나르도를 연구하고 있었거든요. 루비, 에메랄드, 사파이어가 박힌 유니콘 펜던트가 부부의 부를 과시하고 있어요. 뒷면에는 오비디우스의 장면들이 있답니다—꼭 보여달라고 해보세요!",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "라파엘로, 아뇰로와 마달레나 도니의 초상"
+      },
+      "viewing_tips": ["레오나르도의 모나리자와 비교해 보세요 - 마달레나의 유사한 자세에 주목하세요", "풍경 배경은 플랑드르 회화에 대한 라파엘로의 영향을 보여줍니다", "풍부한 보석은 부부의 부를 보여줍니다"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "니오베 전시실",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "고전 조각과 연관된 기념비적인 전시실로, 우피치에서 건축적으로 가장 인상적인 갤러리 공간 중 하나입니다.",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "하르피이아의 성모",
+      "roomCode": "A41",
+      "artist": "Andrea del Sarto",
+      "year": "1517",
+      "description": "여기 지시를 따르지 못하는 화가가 있었어요! 수녀들이 성 보나벤투라를 주문했는데—대신 성 프란체스코를 그려버렸답니다. 바사리가 '하르피이아'라고 불렀던 받침대 위의 그 생물들이 보이시나요? 사실은 요한계시록에 나오는 종말의 메뚜기들이에요, 마리아가 지옥의 입구를 봉인하고 있는 거죠! 안드레아 델 사르토는 그의 완벽한 기술 때문에 '흠 없는 화가'라고 불렸지만, 계약을 무시하고 훨씬 더 심오한 작품을 창조했답니다.",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "안드레아 델 사르토, 하르피이아의 성모"
+      },
+      "viewing_tips": ["받침대의 스핑크스를 살펴보세요 (하르피이아가 아닙니다)", "구성의 완벽한 균형에 주목하세요", "델 사르토는 '흠 없는 화가'로 불렸습니다"]
+    }
+  ],
+  "ui": {
+    "title": "2층",
+    "subtitle": "전시실 A1-A41",
+    "back": "뒤로",
+    "previous": "이전",
+    "next": "다음",
+    "room": "전시실",
+    "artworks": "작품"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "ウフィツィ美術館：歴史と紹介",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "ウフィツィ美術館とは",
+      "content": "ウフィツィ美術館は、世界で最も重要な美術館の一つであり、特に13世紀から17世紀のイタリア絵画の傑作や、北ヨーロッパ諸派の重要な作品で知られています。現在、見学ルートは主にウフィツィ館の1階と2階に展開しています。",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "ウフィツィ美術館の外観"
+      },
+      "tags": ["概要"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "建設の理由",
+      "content": "ウフィツィ複合施設は、もともと美術館として建設されたわけではありません。1560年、コジモ1世・デ・メディチは、フィレンツェの行政・司法機関を収容する新しい建物を発注しました（「ウフィツィ」は事務所を意味します）。ジョルジョ・ヴァザーリがこのプロジェクトを設計し、シニョーリア広場とアルノ川沿いに壮大な都市景観を形成する、長い翼を持つ有名なU字型のレイアウトを創り出しました。",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "ヴァザーリによるウフィツィの建築設計"
+      },
+      "tags": ["建築", "メディチ"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "美術館の始まり",
+      "content": "美術館の起源は、フランチェスコ1世・デ・メディチに遡ります。1581年、彼は東翼の最上階にギャラリーを設立し、16世紀後半には絵画、彫刻、貴重品の壮大なコレクションとして記録されています。この初期のギャラリーが、私たちが知るウフィツィ美術館の核となりました。",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "初期ウフィツィ・ギャラリーの歴史的描写"
+      },
+      "tags": ["起源", "コレクション"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "トリブーナ",
+      "content": "元のギャラリーの近くに、トリブーナは1584年にベルナルド・ブオンタレンティによって完成されました。メディチ家の最も貴重な宝物を展示する壮観な空間として構想され、初期美術館の象徴的な心臓部となりました：絵画、彫刻、宝石、珍しい品々が、メディチ家の権力、趣味、学識を称えるために演出された「宝石箱」のような空間です。",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "ウフィツィのトリブーナの部屋"
+      },
+      "tags": ["トリブーナ", "見どころ"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "ヴァザーリの回廊",
+      "content": "1565年、フランチェスコ1世の結婚式のために、ヴァザーリはウフィツィとピッティ宮殿を結ぶ高架のヴァザーリ回廊を創設しました。ヴェッキオ橋を渡ってアルノ川を越え、サンタ・フェリチタ教会を通過するこの回廊は、メディチ家と高位の宮廷人のみが使用できました―強い象徴的意味を持つ都市プロジェクトであり、王朝の権力の直接的な表現でした。",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "ヴェッキオ橋を渡るヴァザーリの回廊"
+      },
+      "tags": ["ヴァザーリ回廊", "メディチ", "都市"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "王朝コレクションから公共遺産へ",
+      "content": "時代とともにウフィツィのコレクションは拡大し、美術館の公的役割も強化されました。決定的な瞬間は、メディチ家最後の相続人アンナ・マリア・ルイーザ・デ・メディチによってもたらされました。彼女はコレクションがフィレンツェに永続的な公共遺産として残ることを確実にしました。その後の数世紀にわたり、新たな王朝と行政機関が美術館を再編成し豊かにし続け、ウフィツィを近代的な機関へと形作りました。",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "アンナ・マリア・ルイーザ・デ・メディチの肖像"
+      },
+      "tags": ["歴史", "コレクション"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "現在の見学ルート",
+      "content": "ウフィツィの見学ルートは2つの主要なフロアで構成されています：2階は初期イタリア絵画からルネサンスまでを展示し、1階は特に後期ルネサンス、バロック、主要なヨーロッパ諸派、そして専門コレクションに焦点を当てています。保存作業や進行中の美術館プロジェクトにより、展示室のレイアウトや展示内容は変更される場合があります―見学中は常に公式マップと館内の案内に従ってください。",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "ウフィツィ美術館の回廊の現代の眺め"
+      },
+      "tags": ["実用情報", "ルート"]
+    }
+  ],
+  "ui": {
+    "title": "はじめに",
+    "subtitle": "ウフィツィ美術館の歴史",
+    "back": "戻る",
+    "previous": "前へ",
+    "next": "次へ",
+    "welcome": {
+      "appTitle": "ウフィツィ美術館ガイド",
+      "appSubtitle": "あなたのパーソナルアートガイド",
+      "languagesAvailable": "15言語対応",
+      "enterButton": "ガイドを開始",
+      "offlineNote": "初回読み込み後はオフラインで利用可能"
+    },
+    "languageModal": {
+      "title": "言語を選択",
+      "subtitle": "お好みの言語を選んでください",
+      "searchPlaceholder": "言語を検索...",
+      "popular": "人気",
+      "allLanguages": "すべての言語",
+      "results": "検索結果",
+      "noResults": "言語が見つかりません",
+      "noResultsHint": "別の検索語をお試しください",
+      "rtlEnabled": "RTLレイアウト有効："
+    },
+    "mainMenu": {
+      "header": "ウフィツィ美術館ガイド",
+      "loading": "ギャラリーデータを読み込み中...",
+      "errorTitle": "データ読み込みエラー",
+      "tryAgain": "再試行",
+      "introduction": "はじめに",
+      "introSubtitle": "ウフィツィ美術館の歴史",
+      "secondFloor": "2階",
+      "firstFloor": "1階",
+      "artworks": "作品",
+      "footer": "Florence With Locals · オフライン対応"
+    },
+    "navigation": {
+      "introduction": "はじめに",
+      "secondFloor": "2階",
+      "firstFloor": "1階",
+      "menu": "メニュー",
+      "backToList": "リストに戻る",
+      "list": "リスト"
+    },
+    "floorPage": {
+      "artworksToDiscover": "作品を発見",
+      "masterpieces": "傑作",
+      "exploreText": "このフロアの傑作を探索しましょう。"
+    },
+    "artworkDetail": {
+      "viewingTips": "鑑賞のヒント：",
+      "offlineNote": "*このコンテンツはローカルに保存され、インターネットなしでアクセスできます。"
+    }
+  }
+}

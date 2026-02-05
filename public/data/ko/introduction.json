@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "우피치 미술관: 역사와 소개",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "우피치 미술관이란",
+      "content": "우피치 미술관은 세계에서 가장 중요한 미술관 중 하나로, 특히 13세기부터 17세기까지의 이탈리아 회화 걸작들과 북유럽 화파의 주요 작품들로 유명합니다. 오늘날 관람 경로는 주로 우피치 건물의 1층과 2층에 걸쳐 전개됩니다.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "우피치 미술관 외관"
+      },
+      "tags": ["개요"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "건축 이유",
+      "content": "우피치 단지는 원래 박물관으로 건설된 것이 아닙니다. 1560년 코시모 1세 데 메디치는 피렌체의 행정 및 사법 사무소(\"우피치\", 즉 사무실)를 수용할 새 건물을 의뢰했습니다. 조르조 바사리가 이 프로젝트를 설계하여, 시뇨리아 광장과 아르노 강변에 웅장한 도시 경관을 형성하는 긴 날개를 가진 유명한 U자형 배치를 만들었습니다.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "바사리의 우피치 건축 설계"
+      },
+      "tags": ["건축", "메디치"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "박물관의 시작",
+      "content": "박물관의 기원은 프란체스코 1세 데 메디치와 연결됩니다. 1581년 그는 동쪽 날개 최상층에 갤러리를 설립했으며, 16세기 후반에 회화, 조각상, 귀중품의 웅장한 컬렉션으로 묘사되었습니다. 이 초기 갤러리가 오늘날 우리가 아는 우피치 미술관의 핵심이 되었습니다.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "초기 우피치 갤러리의 역사적 묘사"
+      },
+      "tags": ["기원", "컬렉션"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "트리부나",
+      "content": "원래 갤러리 근처에 트리부나는 1584년 베르나르도 부온탈렌티에 의해 완성되었습니다. 메디치 가문의 가장 소중한 보물을 전시하기 위한 화려한 공간으로 구상되어, 초기 박물관의 상징적 중심이 되었습니다: 회화, 조각, 보석, 희귀품들이 메디치 가문의 권력, 취향, 학식을 기념하기 위해 연출된 \"보석함\"과 같은 공간입니다.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "우피치의 트리부나 방"
+      },
+      "tags": ["트리부나", "하이라이트"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "바사리 회랑",
+      "content": "1565년 프란체스코 1세의 결혼식을 위해 바사리는 우피치와 피티 궁전을 연결하는 고가 바사리 회랑을 만들었습니다. 베키오 다리를 통해 아르노 강을 건너고 산타 펠리치타 교회를 지나는 이 회랑은 메디치 가문과 고위 궁정인들만 사용할 수 있었으며, 강력한 상징적 의미를 지닌 도시 프로젝트이자 왕조 권력의 직접적인 표현이었습니다.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "베키오 다리를 건너는 바사리 회랑"
+      },
+      "tags": ["바사리회랑", "메디치", "도시"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "왕조 컬렉션에서 공공 유산으로",
+      "content": "시간이 지나면서 우피치 컬렉션은 확장되었고 박물관의 공공 역할도 강화되었습니다. 결정적인 순간은 메디치 가문의 마지막 상속녀 안나 마리아 루이사 데 메디치에 의해 찾아왔습니다. 그녀는 컬렉션이 영구적인 공공 유산으로 피렌체에 남아있도록 보장했습니다. 이후 수세기 동안 새로운 왕조와 행정부가 박물관을 재편성하고 풍요롭게 하며 우피치를 현대적인 기관으로 발전시켰습니다.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "안나 마리아 루이사 데 메디치의 초상"
+      },
+      "tags": ["역사", "컬렉션"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "오늘날의 관람 경로",
+      "content": "우피치 관람 경로는 두 개의 주요 층으로 구성됩니다: 2층은 초기 이탈리아 회화부터 르네상스까지를 전시하고, 1층은 특히 후기 르네상스, 바로크, 주요 유럽 화파와 전문 컬렉션에 초점을 맞춥니다. 보존 작업과 진행 중인 박물관 프로젝트로 인해 전시실 배치와 전시품이 변경될 수 있습니다. 방문 시 항상 공식 지도와 현장 안내 표지판을 따라주세요.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "우피치 미술관 복도의 현대적 전경"
+      },
+      "tags": ["실용정보", "경로"]
+    }
+  ],
+  "ui": {
+    "title": "소개",
+    "subtitle": "우피치 미술관의 역사",
+    "back": "뒤로",
+    "previous": "이전",
+    "next": "다음",
+    "welcome": {
+      "appTitle": "우피치 가이드",
+      "appSubtitle": "나만의 예술 가이드",
+      "languagesAvailable": "15개 언어 지원",
+      "enterButton": "가이드 시작",
+      "offlineNote": "첫 로딩 후 오프라인 사용 가능"
+    },
+    "languageModal": {
+      "title": "언어 선택",
+      "subtitle": "원하는 언어를 선택하세요",
+      "searchPlaceholder": "언어 검색...",
+      "popular": "인기",
+      "allLanguages": "모든 언어",
+      "results": "검색 결과",
+      "noResults": "언어를 찾을 수 없습니다",
+      "noResultsHint": "다른 검색어를 시도해 보세요",
+      "rtlEnabled": "RTL 레이아웃 활성화됨:"
+    },
+    "mainMenu": {
+      "header": "우피치 가이드",
+      "loading": "갤러리 데이터 로딩 중...",
+      "errorTitle": "데이터 로딩 오류",
+      "tryAgain": "다시 시도",
+      "introduction": "소개",
+      "introSubtitle": "우피치 미술관의 역사",
+      "secondFloor": "2층",
+      "firstFloor": "1층",
+      "artworks": "작품",
+      "footer": "Florence With Locals · 오프라인 지원"
+    },
+    "navigation": {
+      "introduction": "소개",
+      "secondFloor": "2층",
+      "firstFloor": "1층",
+      "menu": "메뉴",
+      "backToList": "목록으로 돌아가기",
+      "list": "목록"
+    },
+    "floorPage": {
+      "artworksToDiscover": "작품 발견하기",
+      "masterpieces": "걸작",
+      "exploreText": "이 층의 걸작을 탐험하세요."
+    },
+    "artworkDetail": {
+      "viewingTips": "감상 팁:",
+      "offlineNote": "*이 콘텐츠는 로컬에 저장되어 인터넷 없이 접근 가능합니다."
+    }
+  }
+}

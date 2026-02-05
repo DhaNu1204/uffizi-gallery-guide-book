@@ -1,0 +1,661 @@
+{
+  "floor": "2階",
+  "floorId": "second",
+  "floorNumber": 2,
+  "lastVerified": "2025-11",
+  "description": "2階では、ジョットからミケランジェロまでの傑作を含む、初期イタリア絵画から盛期ルネサンスまでを展示しています。",
+  "items": [
+    {
+      "id": "introduction",
+      "type": "section",
+      "title": "はじめに",
+      "roomCode": null,
+      "artist": null,
+      "year": null,
+      "description": "ウフィツィ美術館2階の見学ルート概要。主要な歴史的時代とギャラリーの配置を紹介します。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "lorraine-vestibule",
+      "type": "room",
+      "title": "ロレーヌ前室",
+      "roomCode": "A1",
+      "artist": null,
+      "year": null,
+      "description": "2階の初期絵画ギャラリーへと続く入口の前室エリア。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "eastern-corridor",
+      "type": "room",
+      "title": "東回廊",
+      "roomCode": "A2",
+      "artist": null,
+      "year": null,
+      "description": "2階の主要見学ルートの一部を構成する長い回廊で、複数の展示室とセクションをつないでいます。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "13th-century-paintings",
+      "type": "section",
+      "title": "13世紀の絵画",
+      "roomCode": "A3",
+      "artist": null,
+      "year": null,
+      "description": "コレクション最古の板絵の出発点。中世イタリア絵画とその信仰画の形式を紹介します。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "primitivi-rooms",
+      "type": "section",
+      "title": "「プリミティヴィ」室",
+      "roomCode": "A4",
+      "artist": null,
+      "year": null,
+      "description": "中世後期の芸術を形作った画期的な芸術家に焦点を当てた、初期イタリア絵画専用のギャラリー。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ognissanti-madonna-giotto",
+      "type": "artwork",
+      "title": "オンニサンティの聖母",
+      "roomCode": "A4",
+      "artist": "ジョット・ディ・ボンドーネ",
+      "year": "1310年頃",
+      "description": "1310年に描かれたこの傑作が、ルネサンスの幕開けを告げたんです！ジョットが平面的なビザンティン美術からいかに脱却したかに注目してください。マリアの玉座には本物の奥行きがあり、幼子イエスにはふっくらとした赤ちゃんらしい肉付きがあり、天使たちは空間の中で重なり合っています。聖母が身につけている白い衣は、この作品を教会のために注文したウミリアーティ羊毛商人組合の色なんですよ。あのダンテ自身が、ジョットをすべての画家の中で最も優れた芸術家として称えたほどです。天使たちが持つクリスタルの花瓶に飾られた薔薇と百合を探してみてくださいね。",
+      "image": {
+        "hero": "/images/hero/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "thumbnail": "/images/thumbnails/GIOTTO_OGNISSANTI_MADONNA.webp",
+        "alt": "ジョット、オンニサンティの聖母"
+      },
+      "viewing_tips": ["ジョットがいかに三次元的な空間感を生み出しているか注目してください", "同じ部屋のビザンティン様式の聖母像と比較してみてください", "天使たちの顔の写実的な表情を見てください"]
+    },
+    {
+      "id": "sienese-school-of-painting-14th-century",
+      "type": "section",
+      "title": "14世紀シエナ派絵画",
+      "roomCode": "A5",
+      "artist": null,
+      "year": null,
+      "description": "優雅さ、洗練された線、輝く色彩で知られる14世紀シエナ絵画に捧げられたセクション。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-simone-martini-lippo-memmi",
+      "type": "artwork",
+      "title": "受胎告知",
+      "roomCode": "A5",
+      "artist": "シモーネ・マルティーニとリッポ・メンミ",
+      "year": "1333年",
+      "description": "1333年に制作されたこのゴシックの傑作は、芸術家たちが受胎告知を描く方法に革命をもたらしました。マリアの驚いて身を引く様子に注目してください。運命を受け入れる前の、まさに恐れを感じた瞬間が捉えられているんです。本物の金箔が使われており、シエナ大聖堂ではろうそくの光できらめいていたんですよ。ガブリエルが持っているのは百合ではなくオリーブの枝です。これはシエナがライバル都市フィレンツェに対するさりげない皮肉を込めたものなんです！復活を象徴する孔雀の羽根でできた翼にも注目してくださいね。",
+      "image": {
+        "hero": "/images/hero/MARTINI_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/MARTINI_ANNUNCIATION.webp",
+        "alt": "シモーネ・マルティーニとリッポ・メンミ、受胎告知"
+      },
+      "viewing_tips": ["背景の精緻な金細工を鑑賞してください", "聖母の驚いた仕草に注目してください", "天使が持つオリーブの枝を探してください"]
+    },
+    {
+      "id": "presentation-at-the-temple-ambrogio-lorenzetti",
+      "type": "artwork",
+      "title": "神殿への奉献",
+      "roomCode": "A5",
+      "artist": "アンブロージョ・ロレンツェッティ",
+      "year": "1342年",
+      "description": "奉献の場面を描いた物語的宗教画で、14世紀の物語表現と空間構成の革新を反映しています。ロレンツェッティの建築的背景は前例のない奥行き感を生み出しています。",
+      "image": {
+        "hero": "/images/hero/Ambrogio_Presentation_at_the_Temple.webp",
+        "thumbnail": "/images/thumbnails/Ambrogio_Presentation_at_the_Temple.webp",
+        "alt": "アンブロージョ・ロレンツェッティ、神殿への奉献"
+      },
+      "viewing_tips": ["建築的遠近法を研究してください", "人物が空間内でどのように相互作用しているか注目してください"]
+    },
+    {
+      "id": "the-14th-century-in-florence",
+      "type": "section",
+      "title": "14世紀のフィレンツェ",
+      "roomCode": "A6",
+      "artist": null,
+      "year": null,
+      "description": "中世の伝統と初期ルネサンスの発展をつなぐ14世紀フィレンツェ絵画を探るセクション。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "masterpieces-of-international-gothic",
+      "type": "section",
+      "title": "国際ゴシックの傑作",
+      "roomCode": "A7",
+      "artist": null,
+      "year": null,
+      "description": "優雅さ、豊かな表面の細部、宮廷的な洗練を特徴とする国際ゴシック様式に関連する作品。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "the-coronation-of-the-virgin-lorenzo-monaco",
+      "type": "artwork",
+      "title": "聖母戴冠",
+      "roomCode": "A7",
+      "artist": "ロレンツォ・モナコ",
+      "year": "1414年",
+      "description": "この約5メートルもある堂々たる傑作は、修道士が仲間の修道士たちのために描いたものなんです！ドン・ロレンツォはサンタ・マリア・デリ・アンジェリ修道院で暮らし、キリストの見事な青い衣のためにラピスラズリを使いました—金よりも高価な顔料ですよ。白い衣を着た聖人たちが見えますか？彼らはカマルドリ会の創設者たちです。星の帯は中世の楽園を表現しています。ロレンツォの最も有名な弟子は誰だと思いますか？フラ・アンジェリコです。彼自身の「聖母戴冠」もすぐ近くに展示されていますよ。",
+      "image": {
+        "hero": "/images/hero/MONACO_CORONATION_VIRGIN.webp",
+        "thumbnail": "/images/thumbnails/MONACO_CORONATION_VIRGIN.webp",
+        "alt": "ロレンツォ・モナコ、聖母戴冠"
+      },
+      "viewing_tips": ["全体に使われている豊かなウルトラマリンブルーに注目してください", "精巧な織物模様を見てください"]
+    },
+    {
+      "id": "adoration-of-the-magi-gentile-da-fabriano",
+      "type": "artwork",
+      "title": "東方三博士の礼拝",
+      "roomCode": "A7",
+      "artist": "ジェンティーレ・ダ・ファブリアーノ",
+      "year": "1423年",
+      "description": "隠れたパトロンを探してみてください！フィレンツェ随一の大富豪パッラ・ストロッツィが、鷹を手にした自分の姿を描かせているんです。これは巧みな言葉遊びで、トスカーナ方言で「ストロッツィエーリ」は鷹匠という意味なんですよ。彼はこの煌びやかな祭壇画に300フローリン（職人の6年分の給料！）を支払いました。金箔は家族礼拝堂でろうそくの光にきらめくよう設計されています。背景にはヒョウやサル、なんと強盗の場面まで描かれているんです！ライバルのメディチ家は後にストロッツィを追放しましたが、この傑作は残りました。",
+      "image": {
+        "hero": "/images/hero/GENTILE_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/GENTILE_ADORATION_MAGI.webp",
+        "alt": "ジェンティーレ・ダ・ファブリアーノ、東方三博士の礼拝"
+      },
+      "viewing_tips": ["遠くの丘から前景まで行列を追ってみてください", "随行の異国の動物を探してください", "馬具や王冠の金箔の細部に注目してください"]
+    },
+    {
+      "id": "early-renaissance",
+      "type": "section",
+      "title": "初期ルネサンス",
+      "roomCode": "A8",
+      "artist": null,
+      "year": null,
+      "description": "芸術家が遠近法、解剖学、より写実的な空間を通じて絵画を変革した15世紀初頭に焦点を当てたセクション。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-and-child-masaccio",
+      "type": "artwork",
+      "title": "聖母子と聖アンナ",
+      "roomCode": "A8",
+      "artist": "マサッチオとマゾリーノ",
+      "year": "1424-1425年頃",
+      "description": "まさにルネサンスが誕生した瞬間を目の前にしているんです！1424年、ここで二人の芸術家が協力しました—でもよく見てください。若きマサッチオ、当時わずか23歳が、聖母と幼子イエスを革命的な光と影で描きました。まるで息をしているようでしょう？その背後で、41歳のマゾリーノは聖アンナを古いゴシック様式で描いています—平面的で幻想的な雰囲気です。一枚の絵画に二つの時代が共存しているんです。マサッチオは27歳で亡くなりましたが、芸術を永遠に変えたのです。",
+      "image": {
+        "hero": "/images/hero/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "thumbnail": "/images/thumbnails/MASACCIO_MASOLINO_SAINT_ANNE.webp",
+        "alt": "マサッチオとマゾリーノ、聖母子と聖アンナ"
+      },
+      "viewing_tips": ["マサッチオの彫刻的な聖母とマゾリーノのより繊細な聖アンナを比較してください", "光がいかに立体的な形を作り出しているか注目してください"]
+    },
+    {
+      "id": "battle-of-san-romano-paolo-uccello",
+      "type": "artwork",
+      "title": "サン・ロマーノの戦い",
+      "roomCode": "A8",
+      "artist": "パオロ・ウッチェッロ",
+      "year": "1438-1440年頃",
+      "description": "ロレンツォ・デ・メディチはこれらの絵画をどうしても欲しがり、バルトリーニ家から強引に奪い取ってしまったんです！これは1432年のフィレンツェがシエナに勝利した戦いを描いた三連作のうちの一枚で、残りの二枚はロンドンとパリにあります。地面に落ちた槍が遠近法の線として配置されているところに注目してください。ウッチェッロの妻は、夫が夜通し起きて「ああ、遠近法とはなんと素晴らしいものだろう！」とつぶやいていると嘆いていたそうですよ！銀の鎧はかつて輝くばかりに光っていましたが、今では酸化して灰色になっています。",
+      "image": {
+        "hero": "/images/hero/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "thumbnail": "/images/thumbnails/UCCELLO_BATTLE_SAN_ROMANO.webp",
+        "alt": "パオロ・ウッチェッロ、サン・ロマーノの戦い"
+      },
+      "viewing_tips": ["落ちた槍がいかに遠近法の線を作り出しているか注目してください", "構図の幾何学的パターンを探してください", "これは三連作の一つです—他の二つはロンドンとパリにあります"]
+    },
+    {
+      "id": "duke-and-duchess-of-urbino-piero-della-francesca",
+      "type": "artwork",
+      "title": "ウルビーノ公爵夫妻の肖像",
+      "roomCode": "A9",
+      "artist": "ピエロ・デッラ・フランチェスカ",
+      "year": "1465-1472年頃",
+      "description": "この二連祭壇画には、ルネサンス・イタリア最高の傭兵隊長と、彼の最愛の妻が描かれています。フェデリーコは常に横顔でポーズをとっていますが、これは失われた右目を隠すためなんです。1450年の馬上槍試合で目を失い、同時にあの有名な鼻も折れてしまいました。バッティスタは26歳で出産時に亡くなった後に描かれた、追悼の肖像画です。絵の裏面には、美徳の象徴に囲まれた凱旋の戦車に乗る二人が描かれており、死を超えて永遠に結ばれています。",
+      "image": {
+        "hero": "/images/hero/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "thumbnail": "/images/thumbnails/PIERO_DUKE_DUCHESS_URBINO.webp",
+        "alt": "ピエロ・デッラ・フランチェスカ、ウルビーノ公爵夫妻の肖像"
+      },
+      "viewing_tips": ["両パネルにまたがる連続する風景を見てください", "公爵の横顔は馬上槍試合で負傷した右側を隠しています", "裏面の寓意的場面に注目してください"]
+    },
+    {
+      "id": "lippina-madonna-and-child-filippo-lippi",
+      "type": "artwork",
+      "title": "聖母子と二天使",
+      "roomCode": "A9",
+      "artist": "フィリッポ・リッピ",
+      "year": "1465年頃",
+      "description": "ルネサンス・スキャンダル速報！1456年、修道士フィリッポ・リッピは、モデルだった若い修道女ルクレツィア・ブーティを修道院の行列から連れ去ってしまったんです。教皇自らがリッピの誓願を解かなければなりませんでした！ここで彼女はおそらく幼子イエスを見つめており、二人の実の息子フィリッピーノがいたずらっ子の天使として顔をのぞかせています。聖なる装いを纏ったこの家族の肖像画が、ボッティチェッリの手本となりました。ボッティチェッリはリッピの弟子で、後にフィリッピーノ自身を指導したんですよ。",
+      "image": {
+        "hero": "/images/hero/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "thumbnail": "/images/thumbnails/LIPPI_MADONNA_CHILD_ANGELS.webp",
+        "alt": "フィリッポ・リッピ、聖母子と二天使"
+      },
+      "viewing_tips": ["観る者を直接見つめる茶目っ気のある天使に注目してください", "窓越しの風景はリッピの自然への関心を示しています", "この作品はリッピの弟子ボッティチェッリに大きな影響を与えました"]
+    },
+    {
+      "id": "the-pollaiolos",
+      "type": "section",
+      "title": "ポッライウォーロ兄弟",
+      "roomCode": "A10",
+      "artist": null,
+      "year": null,
+      "description": "躍動的な人物、解剖学的研究、エネルギッシュなルネサンス構図で知られるポッライウォーロ兄弟を中心としたセクション。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "botticelli-rooms",
+      "type": "room",
+      "title": "ボッティチェッリの間",
+      "roomCode": "A11-A12",
+      "artist": null,
+      "year": null,
+      "description": "ボッティチェッリのためのウフィツィ美術館最も有名なギャラリーで、象徴的な神話画と重要な宗教作品を収蔵しています。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "spring-botticelli",
+      "type": "artwork",
+      "title": "春（プリマヴェーラ）",
+      "roomCode": "A11-A12",
+      "artist": "サンドロ・ボッティチェッリ",
+      "year": "1477-1482年頃",
+      "description": "この魅惑的な庭園の世界に足を踏み入れてみましょう！1482年頃、「偉大なるロレンツォ」の従兄弟であるロレンツォ・ディ・ピエルフランチェスコ・デ・メディチのために注文された作品で、おそらく彼の結婚式のためのものでした。植物学者たちはここに200種以上もの実在する植物を特定しています。オレンジの木立はメディチ家とつながりがあり、彼らの家紋にはオレンジに似た金色の球が含まれていたのです。右から順に：風の神ゼフュロス、ニンフのクローリスがフローラに変身する姿、ヴィーナス、三美神、そしてメルクリウスです。",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_PRIMAVERA.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_PRIMAVERA.webp",
+        "alt": "サンドロ・ボッティチェッリ、春"
+      },
+      "viewing_tips": ["人物を特定してください：ゼフュロス、クローリス、フローラ、ヴィーナス、三美神、メルクリウス", "描かれた数百種の植物に注目してください", "メディチ家に関連するオレンジの木立を探してください"]
+    },
+    {
+      "id": "the-birth-of-venus-botticelli",
+      "type": "artwork",
+      "title": "ヴィーナスの誕生",
+      "roomCode": "A11-A12",
+      "artist": "サンドロ・ボッティチェッリ",
+      "year": "1484-1486年頃",
+      "description": "面白い豆知識をお教えしましょう—これはトスカーナで制作された史上初の大型キャンバス画なんです！ヴィーナスが貝殻に乗って海から現れ、風の神ゼフュロスとアウラに吹かれて岸辺へと運ばれていきます。もともとメディチ家のカステッロ荘にあったこの象徴的な作品は、ここに来る前の数世紀もの間、彼らのプライベートな庭園を飾っていました。ボッティチェッリのヴィーナスが古代彫刻のポーズを彷彿とさせているところにも注目してくださいね。",
+      "image": {
+        "hero": "/images/hero/BOTTICELLI_BIRTH_VENUS.webp",
+        "thumbnail": "/images/thumbnails/BOTTICELLI_BIRTH_VENUS.webp",
+        "alt": "サンドロ・ボッティチェッリ、ヴィーナスの誕生"
+      },
+      "viewing_tips": ["左側の風の神ゼフュロスとアウラに注目してください", "右側の季節の女神は花で飾られたマントを差し出しています", "ポーズは古代のヴィーナス・プディカ彫刻を思わせます"]
+    },
+    {
+      "id": "madonna-del-magnificat-botticelli",
+      "type": "artwork",
+      "title": "マニフィカトの聖母",
+      "roomCode": "A11-A12",
+      "artist": "サンドロ・ボッティチェッリ",
+      "year": "1481年頃",
+      "description": "マリアが「Magnificat anima mea Dominum」—「わが魂は主をあがめ」と書いているところをご覧ください。これはエリザベトを訪問した時に彼女が唱えた祈りの言葉です。ボッティチェッリはこの円形のトンド形式に合わせてあらゆる要素を湾曲させ、まるで凸面鏡のような効果を生み出しています。二人の天使が彼女に冠を授け、他の天使たちはインク壺と本を支えています。幼子キリストは母親が書く手を導いているんです。純粋なフィレンツェの優雅さですね！",
+      "image": {
+        "hero": "/images/hero/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "thumbnail": "/images/thumbnails/Sandro_Botticelli_Madonna_del_Magnificat.webp",
+        "alt": "サンドロ・ボッティチェッリ、マニフィカトの聖母"
+      },
+      "viewing_tips": ["円形のフォーマットに適応した湾曲した遠近法に注目してください", "聖母は『Magnificat anima mea Dominum（わが魂は主をあがめ）』と書いています", "天使がインク壺と本を彼女のために持っています"]
+    },
+    {
+      "id": "portinari-triptych-hugo-van-der-goes",
+      "type": "artwork",
+      "title": "ポルティナーリ祭壇画",
+      "roomCode": "A13",
+      "artist": "フーゴー・ファン・デル・フース",
+      "year": "1475-1477年頃",
+      "description": "1483年にこの巨大なフランドルの傑作がフィレンツェに届いた時、地元の芸術家たちは衝撃を受けました。無精髭を生やし、働き者の荒れた手をした羊飼いたちを見てください。イタリア人はこれほど写実的に描かれた農民を見たことがなかったのです！ギルランダイオは2年以内にこれを模写しました。花々にも注目してください：アイリスは聖母の悲しみを、麦は聖体を象徴しています。悲劇的なことに、画家フーゴー・ファン・デル・フースは、この絵画がフィレンツェに届く1年前に修道院で鬱病のうちに亡くなりました。彼は自分の作品がどれほどの影響を与えたか、知ることはなかったのです。",
+      "image": {
+        "hero": "/images/hero/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "thumbnail": "/images/thumbnails/VAN_DER_GOES_PORTINARI_TRIPTYCH.webp",
+        "alt": "フーゴー・ファン・デル・フース、ポルティナーリ祭壇画"
+      },
+      "viewing_tips": ["理想化されたイタリアの人物と比較して写実的な羊飼いに注目してください", "静物の細部を研究してください：象徴的意味を持つ花々", "自然主義への北方とイタリアのアプローチを比較してください"]
+    },
+    {
+      "id": "terrace-to-the-map-room",
+      "type": "room",
+      "title": "地図室へのテラス",
+      "roomCode": "A14",
+      "artist": null,
+      "year": null,
+      "description": "地図室へと続く移行エリアで、2階の見学ルートに沿って訪問者をつないでいます。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "stanzino-delle-matematiche",
+      "type": "room",
+      "title": "数学の小部屋",
+      "roomCode": "A15",
+      "artist": null,
+      "year": null,
+      "description": "ウフィツィのより広いメディチ家の文脈の中で、科学機器と学習のテーマに歴史的に関連した専門的な部屋。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "buontalentis-tribune",
+      "type": "room",
+      "title": "ブオンタレンティのトリブーナ",
+      "roomCode": "A16",
+      "artist": null,
+      "year": null,
+      "description": "メディチ家の貴重な宝物を展示するために作られた歴史的な八角形の部屋。豊かな装飾とギャラリーの歴史における中心的役割で有名です。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "ancient-armoury",
+      "type": "section",
+      "title": "古代武器庫",
+      "roomCode": "A17-A18",
+      "artist": null,
+      "year": null,
+      "description": "現在の公式地図では、このエリアはアルプス以北のルネサンスに捧げられた展示（A17-A20）に対応しています。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "adoration-of-the-magi-albrecht-durer",
+      "type": "artwork",
+      "title": "東方三博士の礼拝",
+      "roomCode": "A20",
+      "artist": "アルブレヒト・デューラー",
+      "year": "1504年",
+      "description": "デューラーによる北方ルネサンスの東方三博士の訪問の描写。精密さ、細部、形態と風景への独特のアプローチで知られています。イタリア旅行後のデューラーの熟達を示す作品です。",
+      "image": {
+        "hero": "/images/hero/DURER_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/DURER_ADORATION_MAGI.webp",
+        "alt": "アルブレヒト・デューラー、東方三博士の礼拝"
+      },
+      "viewing_tips": ["質感と細部への北ヨーロッパの注目に注目してください", "同じ主題のイタリアの扱いと比較してください", "衣のひだにおけるデューラー特有の精密さを探してください"]
+    },
+    {
+      "id": "cabinet-of-miniatures",
+      "type": "room",
+      "title": "細密画室",
+      "roomCode": "A22",
+      "artist": null,
+      "year": null,
+      "description": "小型作品とミニアチュールに捧げられたギャラリーで、コンパクトな形式での洗練された職人技を強調しています。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-mezzogiorno",
+      "type": "room",
+      "title": "南回廊",
+      "roomCode": "A23",
+      "artist": null,
+      "year": null,
+      "description": "ウフィツィの主要回廊の一つで、部屋をつなぎコレクションの要素を紹介する建築の背骨の一部。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "corridoio-di-ponente",
+      "type": "room",
+      "title": "西回廊",
+      "roomCode": "A24",
+      "artist": null,
+      "year": null,
+      "description": "2階ルートに沿った西側回廊エリアで、主要なルネサンス室と主要展示スペースをつないでいます。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "laocoon-baccio-bandinelli",
+      "type": "sculpture",
+      "title": "ラオコーン",
+      "roomCode": "A24",
+      "artist": "バッチョ・バンディネッリ",
+      "year": "1520-1525年頃",
+      "description": "古代のラオコーンのテーマに基づく力強い彫刻群像。劇的な動きと強烈な表現に関連しています。",
+      "image": {
+        "hero": "/images/hero/Baccio_Laocoon.webp",
+        "thumbnail": "/images/thumbnails/Baccio_Laocoon.webp",
+        "alt": "バッチョ・バンディネッリ、ラオコーン"
+      },
+      "viewing_tips": ["バチカンの有名なローマのオリジナルと比較してください"]
+    },
+    {
+      "id": "second-renaissance",
+      "type": "section",
+      "title": "第二ルネサンス",
+      "roomCode": "A25",
+      "artist": null,
+      "year": null,
+      "description": "15世紀の成熟した発展に焦点を当て、フィレンツェの革新をより広いイタリア・ルネサンスの潮流につなげるセクション。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "altarpiece-of-santa-lucia-dei-magnoli-domenico-veneziano",
+      "type": "artwork",
+      "title": "サンタ・ルチア・デイ・マニョーリ祭壇画",
+      "roomCode": "A25",
+      "artist": "ドメニコ・ヴェネツィアーノ",
+      "year": "1445-1447年頃",
+      "description": "澄んだ光、均衡のとれた構図、洗練された色彩の調和で賞賛される画期的なフィレンツェの祭壇画。サクラ・コンヴェルサツィオーネの形式は、建築的背景の中で聖母の周りに聖人たちが集う様子を示しています。",
+      "image": {
+        "hero": "/images/hero/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "thumbnail": "/images/thumbnails/Domenico_Altarpiece_of_Santa_Lucia.webp",
+        "alt": "ドメニコ・ヴェネツィアーノ、サンタ・ルチア・デイ・マニョーリ祭壇画"
+      },
+      "viewing_tips": ["ドメニコの専門である柔らかく拡散した光に注目してください", "建築的背景が遠近法を通じて奥行きを生み出しています"]
+    },
+    {
+      "id": "adoration-of-the-magi-filippino-lippi",
+      "type": "artwork",
+      "title": "東方三博士の礼拝",
+      "roomCode": "A28",
+      "artist": "フィリッピーノ・リッピ",
+      "year": "1496年",
+      "description": "15世紀末の物語的複雑さと表現豊かな人物の細部を反映した、人物で満たされた礼拝の場面。フィリッピーノはフラ・フィリッポ・リッピの息子で、父の遺産を継承しました。",
+      "image": {
+        "hero": "/images/hero/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/FILIPPINO_LIPPI_ADORATION_MAGI.webp",
+        "alt": "フィリッピーノ・リッピ、東方三博士の礼拝"
+      },
+      "viewing_tips": ["群衆の中の多くの肖像人物を探してください", "古代ローマからの考古学的細部に注目してください"]
+    },
+    {
+      "id": "perseus-freeing-andromeda-piero-di-cosimo",
+      "type": "artwork",
+      "title": "アンドロメダを救うペルセウス",
+      "roomCode": "A30",
+      "artist": "ピエロ・ディ・コジモ",
+      "year": "1510-1515年頃",
+      "description": "救出とドラマの神話的場面で、想像力豊かな物語と珍しい夢のような視覚世界が特徴的です。ピエロ・ディ・コジモは風変わりな人柄と幻想的な主題で知られていました。",
+      "image": {
+        "hero": "/images/hero/Piero_Perseus_Freeing.webp",
+        "thumbnail": "/images/thumbnails/Piero_Perseus_Freeing.webp",
+        "alt": "ピエロ・ディ・コジモ、アンドロメダを救うペルセウス"
+      },
+      "viewing_tips": ["奇怪な海の怪物に注目してください", "救出後に祝う群衆を探してください"]
+    },
+    {
+      "id": "holy-family-luca-signorelli",
+      "type": "artwork",
+      "title": "聖家族",
+      "roomCode": "A31",
+      "artist": "ルカ・シニョレッリ",
+      "year": "1490年頃",
+      "description": "シニョレッリの解剖学、力強い形態、表現豊かな人物デザインへの関心と関連する聖家族の構図。彼の筋肉質なスタイルはミケランジェロに影響を与えました。",
+      "image": {
+        "hero": "/images/hero/Luca_Signorelli_Holy_Family.webp",
+        "thumbnail": "/images/thumbnails/Luca_Signorelli_Holy_Family.webp",
+        "alt": "ルカ・シニョレッリ、聖家族"
+      },
+      "viewing_tips": ["シニョレッリの筋肉解剖学の強調に注目してください", "トンド形式は家庭の信仰のために人気がありました"]
+    },
+    {
+      "id": "leonardo-room",
+      "type": "room",
+      "title": "レオナルドの間",
+      "roomCode": "A35",
+      "artist": null,
+      "year": null,
+      "description": "レオナルド・ダ・ヴィンチの作品と15世紀後半の関連絵画を中心とした専用ギャラリー。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "annunciation-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "受胎告知",
+      "roomCode": "A35",
+      "artist": "レオナルド・ダ・ヴィンチ",
+      "year": "1472-1475年頃",
+      "description": "若きレオナルドがまだヴェロッキオの工房で修行中に描いた作品です—彼はまだ20歳くらいでした！ここで秘密をお教えしましょう：マリアの右腕の「遠近法の誤り」にお気づきですか？実はあれは意図的なものなんです。この絵は右下から見上げるように鑑賞することを想定して描かれており、そうするとすべてが完璧に整って見えます。レオナルドのトレードマークである糸杉の木と、背景にスフマート技法で描かれた彼の有名な霞んだ山々を探してみてください。",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ANNUNCIATION.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ANNUNCIATION.webp",
+        "alt": "レオナルド・ダ・ヴィンチ、受胎告知"
+      },
+      "viewing_tips": ["遠景におけるレオナルドのスフマート技法に注目してください", "花の植物学的正確さを研究してください", "大理石の書見台は横からの視点に合わせてやや調整された遠近法を示しています"]
+    },
+    {
+      "id": "adoration-of-the-magi-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "東方三博士の礼拝",
+      "roomCode": "A35",
+      "artist": "レオナルド・ダ・ヴィンチ",
+      "year": "1481-1482年頃",
+      "description": "レオナルドの父親はこの修道院の公証人で、1481年に息子のためにこの注文を取り付けました。しかし数ヶ月のうちに、レオナルドはミラノへ姿を消してしまいました。伝えられるところでは、外交的な贈り物として自ら彫った銀の竪琴を携えていたそうです！2017年の修復で、彼の絶え間ない実験が明らかになりました：互いに重ねて描かれた3種類の馬の頭、隠された象、そして聖母の足元にある謎めいた深い裂け目まで。右端で背を向けている若者は？おそらく30歳のレオナルド自身でしょう。",
+      "image": {
+        "hero": "/images/hero/LEONARDO_ADORATION_MAGI.webp",
+        "thumbnail": "/images/thumbnails/LEONARDO_ADORATION_MAGI.webp",
+        "alt": "レオナルド・ダ・ヴィンチ、東方三博士の礼拝"
+      },
+      "viewing_tips": ["未完成の状態がレオナルドの制作プロセスを明らかにしています", "聖母を中心とした渦巻く構図に注目してください", "背景の場面には騎手と建築の廃墟が含まれています"]
+    },
+    {
+      "id": "the-baptism-of-christ-verrocchio-and-leonardo-da-vinci",
+      "type": "artwork",
+      "title": "キリストの洗礼",
+      "roomCode": "A35",
+      "artist": "アンドレア・デル・ヴェロッキオとレオナルド・ダ・ヴィンチ",
+      "year": "1472-1475年頃",
+      "description": "左側でキリストの衣を持っている天使が見えますか？あれは若きレオナルドの作品なんです—そしてヴァザーリによれば、それがあまりにも美しかったため、師匠のヴェロッキオは二度と絵筆を取らなかったそうですよ！二人の天使を比べてみてください：レオナルドの天使は柔らかく光に満ちたスフマート技法で描かれ、ヴェロッキオの天使はより硬く伝統的な表現です。霞んだ風景もレオナルドが描きました。弟子が師を超えた瞬間が、一枚の絵の中に捉えられているんです。",
+      "image": {
+        "hero": "/images/hero/Andrea_The_Baptism_of_Christ.webp",
+        "thumbnail": "/images/thumbnails/Andrea_The_Baptism_of_Christ.webp",
+        "alt": "ヴェロッキオとレオナルド、キリストの洗礼"
+      },
+      "viewing_tips": ["左の天使（レオナルド）と右の天使（ヴェロッキオ）を比較してください", "遠景におけるレオナルドのスフマートに注目してください", "伝説では、ヴェロッキオはレオナルドの作品を見て絵を描くのをやめたと言われています"]
+    },
+    {
+      "id": "ricetto-delle-iscrizioni-antiche",
+      "type": "room",
+      "title": "古代碑文の前室",
+      "roomCode": "A36",
+      "artist": null,
+      "year": null,
+      "description": "碑文と古代遺物に関連する移行空間で、2階の展示室をつないでいます。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "raphael-and-michelangelo",
+      "type": "section",
+      "title": "ラファエロとミケランジェロ",
+      "roomCode": "A38",
+      "artist": null,
+      "year": null,
+      "description": "ラファエロとミケランジェロの作品を展示する重要なセクションで、ウフィツィのルネサンスコレクションの最も重要なハイライトの一つです。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "doni-tondo-michelangelo",
+      "type": "artwork",
+      "title": "ドーニ・トンド（聖家族）",
+      "roomCode": "A38",
+      "artist": "ミケランジェロ・ブオナローティ",
+      "year": "1506-1508年頃",
+      "description": "これはミケランジェロが完成させた唯一の板絵なんです—彼は自分のことをまず彫刻家だと考えていましたから！裕福な商人アニョロ・ドーニが結婚祝いとして注文したもので、有名なエピソードがあります：ミケランジェロは最初70ドゥカートを要求しましたが、ドーニが値切ろうとすると、ミケランジェロは倍の140ドゥカートに値上げしたのです！オリジナルの額縁もお見逃しなく—ミケランジェロ自身がデザインしたもので、キリスト、預言者、巫女たちの彫刻された頭部があしらわれています。",
+      "image": {
+        "hero": "/images/hero/MICHELANGELO_DONI_TONDO.webp",
+        "thumbnail": "/images/thumbnails/MICHELANGELO_DONI_TONDO.webp",
+        "alt": "ミケランジェロ、ドーニ・トンド"
+      },
+      "viewing_tips": ["人物がいかに彫刻のようにねじれているか注目してください", "背景の裸体は謎めいています—おそらくキリスト以前の異教の魂", "オリジナルの額縁もミケランジェロがデザインしました"]
+    },
+    {
+      "id": "madonna-del-cardellino-raphael",
+      "type": "artwork",
+      "title": "ヒワの聖母",
+      "roomCode": "A38",
+      "artist": "ラファエロ",
+      "year": "1505-1506年頃",
+      "description": "1506年、23歳のラファエロからの結婚祝いの贈り物なんです！幼いヨハネがキリストにゴシキヒワを差し出しています。これはキリストの将来の受難の象徴で、伝説によるとこの鳥は、キリストの茨の冠から棘を取り除こうとして頭が赤くなったと言われています。1547年、地滑りでこの絵画は17個もの破片に砕け散ってしまいました！仲間の芸術家が釘で繋ぎ合わせ、2008年に完了した10年に及ぶ現代の修復作業で、ようやくラファエロ本来の輝くような色彩がよみがえったんですよ。",
+      "image": {
+        "hero": "/images/hero/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "thumbnail": "/images/thumbnails/RAPHAEL_MADONNA_GOLDFINCH.webp",
+        "alt": "ラファエロ、ヒワの聖母"
+      },
+      "viewing_tips": ["ピラミッド型の構図が完璧なバランスを生み出しています", "レオナルドから学んだラファエロの柔らかなスフマートに注目してください", "絵画は1547年に粉々になり、後に修復されました"]
+    },
+    {
+      "id": "portraits-of-agnolo-and-maddalena-doni-raphael",
+      "type": "artwork",
+      "title": "アニョロとマッダレーナ・ドーニの肖像",
+      "roomCode": "A38",
+      "artist": "ラファエロ",
+      "year": "1506年頃",
+      "description": "ラファエロとミケランジェロの両方に注文を出したパワーカップルをご紹介しましょう！織物商人のアニョロ・ドーニは、ミケランジェロとドーニ・トンドの価格交渉をしようとして、結局倍額を支払うはめになったんですよ。マッダレーナがモナ・リザに似ていることにお気づきですか？ラファエロは当時レオナルドを研究していたんです。彼女のルビー、エメラルド、サファイアをあしらったユニコーンのペンダントは、夫妻の富をこれ見よがしに示しています。裏面にはオウィディウスの場面が描かれているんですよ—ぜひ見せてもらってくださいね！",
+      "image": {
+        "hero": "/images/hero/Raphael_Agnolo_and_Maddalena.webp",
+        "thumbnail": "/images/thumbnails/Raphael_Agnolo_and_Maddalena.webp",
+        "alt": "ラファエロ、アニョロとマッダレーナ・ドーニの肖像"
+      },
+      "viewing_tips": ["レオナルドのモナ・リザと比較してください—マッダレーナの似た姿勢に注目", "風景の背景はラファエロのフランドル絵画への影響を示しています", "豊かな宝飾品が夫妻の富を示しています"]
+    },
+    {
+      "id": "the-niobe-room",
+      "type": "room",
+      "title": "ニオベの間",
+      "roomCode": "A39",
+      "artist": null,
+      "year": null,
+      "description": "古典彫刻に関連した記念碑的な部屋で、ウフィツィの建築的に最も印象的なギャラリー空間の一つです。",
+      "image": null,
+      "viewing_tips": []
+    },
+    {
+      "id": "madonna-of-the-harpies-andrea-del-sarto",
+      "type": "artwork",
+      "title": "ハルピュイアの聖母",
+      "roomCode": "A41",
+      "artist": "アンドレア・デル・サルト",
+      "year": "1517年",
+      "description": "指示に従えなかった画家がここにいます！修道女たちは聖ボナヴェントゥラを注文したのに、彼は代わりに聖フランチェスコを描いてしまったんです。ヴァザーリが「ハルピュイア」と呼んだ台座の生き物は、実は黙示録に登場する終末のイナゴで、マリアが地獄の入り口を封じている姿なんですよ！アンドレア・デル・サルトはその技術的完璧さから「欠点のない画家」と呼ばれていましたが、契約を無視してはるかに深遠な作品を生み出したというわけです。",
+      "image": {
+        "hero": "/images/hero/DEL_SARTO_MADONNA_HARPIES.webp",
+        "thumbnail": "/images/thumbnails/DEL_SARTO_MADONNA_HARPIES.webp",
+        "alt": "アンドレア・デル・サルト、ハルピュイアの聖母"
+      },
+      "viewing_tips": ["台座のスフィンクスを見てください（ハルピュイアではありません）", "構図の完璧なバランスに注目してください", "デル・サルトは「欠点のない画家」と呼ばれました"]
+    }
+  ],
+  "ui": {
+    "title": "2階",
+    "subtitle": "展示室A1-A41",
+    "back": "戻る",
+    "previous": "前へ",
+    "next": "次へ",
+    "room": "展示室",
+    "artworks": "作品"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Uffizi Gallery: History & Introduction",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "What the Uffizi Is",
+      "content": "The Uffizi is one of the world's most important art museums, celebrated especially for its masterpieces of Italian painting from the 13th to the 17th century, as well as key works from Northern European schools. Today the visitor route primarily unfolds across the First and Second Floors of the Uffizi building.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.jpg",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.jpg",
+        "alt": "Uffizi Gallery exterior view"
+      },
+      "tags": ["overview"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Why It Was Built",
+      "content": "The Uffizi complex was not originally created as a museum. In 1560 Cosimo I de' Medici commissioned a new building to house Florence's administrative and judicial offices (the \"uffizi,\" or offices). Giorgio Vasari designed the project, creating the famous U-shaped layout with long wings and a grand urban presence beside Piazza della Signoria and the Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.jpg",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.jpg",
+        "alt": "Vasari's architectural design of the Uffizi"
+      },
+      "tags": ["architecture", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "How the Museum Began",
+      "content": "The museum's origins are tied to Francesco I de' Medici. In 1581 he established a gallery on the top level of the East Wing, described in the late 16th century as a magnificent collection of paintings, statues, and precious objects. This early gallery became the nucleus of what would grow into the Uffizi as we know it.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.jpg",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.jpg",
+        "alt": "Historical depiction of the early Uffizi Gallery"
+      },
+      "tags": ["origins", "collections"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "The Tribuna",
+      "content": "Near the original gallery, the Tribuna was completed in 1584 by Bernardo Buontalenti. Conceived as a spectacular display space for the Medici's most prized treasures, it became the symbolic heart of the early museum: a \"jewel-casket\" setting where painting, sculpture, gems, and rare objects were staged to celebrate Medici power, taste, and learning.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.jpg",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.jpg",
+        "alt": "The Tribuna room at the Uffizi"
+      },
+      "tags": ["tribuna", "highlights"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "The Vasari Corridor",
+      "content": "In 1565, for the wedding celebrations of Francesco I, Vasari created the elevated Vasari Corridor linking the Uffizi to the Pitti Palace. Crossing the Arno over the Ponte Vecchio and passing through Santa Felicita, it was reserved for the Medici and high court figures - an urban project with strong symbolic meaning and a direct expression of dynastic power.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.jpg",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.jpg",
+        "alt": "The Vasari Corridor crossing the Ponte Vecchio"
+      },
+      "tags": ["vasari-corridor", "medici", "city"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "From Dynastic Collection to Public Heritage",
+      "content": "Over time the Uffizi collections expanded and the museum's public role strengthened. A decisive moment came with the final Medici heir, Anna Maria Luisa de' Medici, who ensured the collections remained in Florence as a lasting public heritage. In later centuries, new dynasties and administrations continued to reorganize and enrich the museum, shaping the Uffizi into a modern institution.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.jpg",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.jpg",
+        "alt": "Portrait of Anna Maria Luisa de' Medici"
+      },
+      "tags": ["history", "collections"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "The Visitor Route Today",
+      "content": "The Uffizi visitor route is organized across two main levels: the Second Floor presents early Italian painting through the Renaissance, while the First Floor focuses especially on later Renaissance, Baroque, and major European schools, along with dedicated collections. Room layouts and displays can change due to conservation and ongoing museum projects - always follow the official map and on-site signs during your visit.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.jpg",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.jpg",
+        "alt": "Modern view of the Uffizi Gallery corridors"
+      },
+      "tags": ["practical", "route"]
+    }
+  ],
+  "ui": {
+    "title": "Introduction",
+    "subtitle": "History of the Uffizi Gallery",
+    "back": "Back",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

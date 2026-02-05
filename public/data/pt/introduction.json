@@ -1,0 +1,137 @@
+{
+  "id": "uffizi-introduction",
+  "title": "Galeria Uffizi: História e Introdução",
+  "sections": [
+    {
+      "id": "what-the-uffizi-is",
+      "title": "O que é a Galeria Uffizi",
+      "content": "A Uffizi é um dos museus de arte mais importantes do mundo, celebrada especialmente pelas suas obras-primas da pintura italiana do século XIII ao XVII, bem como por obras-chave das escolas do Norte da Europa. Hoje, o percurso do visitante desenrola-se principalmente no Primeiro e Segundo Andares do edifício Uffizi.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_EXTERIOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_EXTERIOR.webp",
+        "alt": "Vista exterior da Galeria Uffizi"
+      },
+      "tags": ["visão geral"]
+    },
+    {
+      "id": "why-it-was-built",
+      "title": "Porque Foi Construído",
+      "content": "O complexo Uffizi não foi originalmente criado como museu. Em 1560, Cosimo I de' Medici encomendou um novo edifício para abrigar os escritórios administrativos e judiciais de Florença (os \"uffizi\", ou escritórios). Giorgio Vasari projetou o edifício, criando o famoso layout em forma de U com longas alas e uma grande presença urbana junto à Piazza della Signoria e ao Arno.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_ARCHITECTURE.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_ARCHITECTURE.webp",
+        "alt": "Projeto arquitetónico de Vasari para os Uffizi"
+      },
+      "tags": ["arquitetura", "medici"]
+    },
+    {
+      "id": "how-the-museum-began",
+      "title": "Como o Museu Começou",
+      "content": "As origens do museu estão ligadas a Francesco I de' Medici. Em 1581, ele estabeleceu uma galeria no nível superior da Ala Este, descrita no final do século XVI como uma magnífica coleção de pinturas, estátuas e objetos preciosos. Esta galeria inicial tornou-se o núcleo do que viria a ser a Uffizi como a conhecemos.",
+      "image": {
+        "hero": "/images/hero/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "thumbnail": "/images/thumbnails/introduction/FRANCESCO_MEDICI_GALLERY.webp",
+        "alt": "Representação histórica da antiga Galeria Uffizi"
+      },
+      "tags": ["origens", "coleções"]
+    },
+    {
+      "id": "the-tribuna",
+      "title": "A Tribuna",
+      "content": "Perto da galeria original, a Tribuna foi concluída em 1584 por Bernardo Buontalenti. Concebida como um espaço espetacular para exibir os tesouros mais preciosos dos Medici, tornou-se o coração simbólico do museu inicial: um \"cofre de joias\" onde pintura, escultura, gemas e objetos raros eram expostos para celebrar o poder, o gosto e o conhecimento dos Medici.",
+      "image": {
+        "hero": "/images/hero/introduction/TRIBUNA_ROOM.webp",
+        "thumbnail": "/images/thumbnails/introduction/TRIBUNA_ROOM.webp",
+        "alt": "A sala da Tribuna nos Uffizi"
+      },
+      "tags": ["tribuna", "destaques"]
+    },
+    {
+      "id": "the-vasari-corridor",
+      "title": "O Corredor Vasari",
+      "content": "Em 1565, para as celebrações do casamento de Francesco I, Vasari criou o elevado Corredor Vasari ligando os Uffizi ao Palácio Pitti. Atravessando o Arno sobre a Ponte Vecchio e passando por Santa Felicita, era reservado aos Medici e altas figuras da corte - um projeto urbano com forte significado simbólico e expressão direta do poder dinástico.",
+      "image": {
+        "hero": "/images/hero/introduction/VASARI_CORRIDOR.webp",
+        "thumbnail": "/images/thumbnails/introduction/VASARI_CORRIDOR.webp",
+        "alt": "O Corredor Vasari atravessando a Ponte Vecchio"
+      },
+      "tags": ["corredor-vasari", "medici", "cidade"]
+    },
+    {
+      "id": "from-dynastic-collection-to-public-heritage",
+      "title": "De Coleção Dinástica a Património Público",
+      "content": "Com o tempo, as coleções dos Uffizi expandiram-se e o papel público do museu fortaleceu-se. Um momento decisivo veio com a última herdeira Medici, Anna Maria Luisa de' Medici, que garantiu que as coleções permanecessem em Florença como património público duradouro. Nos séculos seguintes, novas dinastias e administrações continuaram a reorganizar e enriquecer o museu, moldando os Uffizi numa instituição moderna.",
+      "image": {
+        "hero": "/images/hero/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "thumbnail": "/images/thumbnails/introduction/ANNA_MARIA_LUISA_MEDICI.webp",
+        "alt": "Retrato de Anna Maria Luisa de' Medici"
+      },
+      "tags": ["história", "coleções"]
+    },
+    {
+      "id": "the-visitor-route-today",
+      "title": "O Percurso do Visitante Hoje",
+      "content": "O percurso do visitante nos Uffizi está organizado em dois níveis principais: o Segundo Andar apresenta pintura italiana antiga até ao Renascimento, enquanto o Primeiro Andar foca especialmente no Renascimento tardio, Barroco e principais escolas europeias, juntamente com coleções dedicadas. Os layouts das salas e exposições podem mudar devido a conservação e projetos museológicos em curso - siga sempre o mapa oficial e a sinalização local durante a sua visita.",
+      "image": {
+        "hero": "/images/hero/introduction/UFFIZI_CORRIDORS.webp",
+        "thumbnail": "/images/thumbnails/introduction/UFFIZI_CORRIDORS.webp",
+        "alt": "Vista moderna dos corredores da Galeria Uffizi"
+      },
+      "tags": ["prático", "percurso"]
+    }
+  ],
+  "ui": {
+    "title": "Introdução",
+    "subtitle": "História da Galeria Uffizi",
+    "back": "Voltar",
+    "previous": "Anterior",
+    "next": "Próximo",
+    "welcome": {
+      "appTitle": "Uffizi Revelado",
+      "appSubtitle": "Seu Guia de Arte Pessoal",
+      "languagesAvailable": "15 idiomas disponíveis",
+      "enterButton": "Entrar no Guia",
+      "offlineNote": "Funciona offline após o primeiro carregamento"
+    },
+    "languageModal": {
+      "title": "Selecionar Idioma",
+      "subtitle": "Escolha seu idioma preferido",
+      "searchPlaceholder": "Pesquisar idiomas...",
+      "popular": "Populares",
+      "allLanguages": "Todos os Idiomas",
+      "results": "Resultados",
+      "noResults": "Nenhum idioma encontrado",
+      "noResultsHint": "Tente outro termo de pesquisa",
+      "rtlEnabled": "Layout RTL ativado para"
+    },
+    "mainMenu": {
+      "header": "Uffizi Revelado",
+      "loading": "Carregando dados da galeria...",
+      "errorTitle": "Erro ao carregar dados",
+      "tryAgain": "Tentar Novamente",
+      "introduction": "Introdução",
+      "introSubtitle": "História da Galeria Uffizi",
+      "secondFloor": "Segundo Andar",
+      "firstFloor": "Primeiro Andar",
+      "artworks": "obras de arte",
+      "footer": "Florence With Locals · Disponível Offline"
+    },
+    "navigation": {
+      "introduction": "Introdução",
+      "secondFloor": "2º Andar",
+      "firstFloor": "1º Andar",
+      "menu": "Menu",
+      "backToList": "Voltar à Lista",
+      "list": "Lista"
+    },
+    "floorPage": {
+      "artworksToDiscover": "obras de arte para descobrir",
+      "masterpieces": "Obras-Primas",
+      "exploreText": "Explore as obras-primas deste andar."
+    },
+    "artworkDetail": {
+      "viewingTips": "Dicas de Visualização:",
+      "offlineNote": "*Este conteúdo está armazenado localmente e acessível sem internet."
+    }
+  }
+}
