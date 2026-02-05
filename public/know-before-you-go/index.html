@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script>
+var supported = ['en','es','it','fr','de','nl','ru','ko','zh','pt','el','ja','tr','fa','ar','hi','pl','hu'];
+var lang = (navigator.language || navigator.userLanguage || 'en').slice(0,2).toLowerCase();
+var target = supported.includes(lang) ? lang : 'en';
+window.location.replace('/know-before-you-go/' + target + '/');
+</script>
+<meta http-equiv="refresh" content="0;url=/know-before-you-go/en/">
+<title>Redirecting...</title>
+</head>
+<body></body>
+</html>
